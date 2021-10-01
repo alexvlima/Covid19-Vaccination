@@ -3,7 +3,7 @@
 ############
 
 # getwd()
-setwd("/Users/alexvlima/Downloads/Vacinacao-Covid/")
+setwd("/Users/alexvlima/Library/Mobile Documents/com~apple~CloudDocs/Vacinacao-Covid/")
 
 ###############
 ### DATASET ###
@@ -28,6 +28,8 @@ datasus <-
   filter(IDADE >= 18, IDADE < 90, SEXO %in% c("M","F")) %>%
   mutate(SEXO = ifelse(SEXO == "M", "Homens", "Mulheres"),
          TIPO = stringr::str_squish(DOSE)) %>%
+  mutate(TIPO = ifelse(TIPO %in% c("1ª Dose","Dose Inicial", "Dose"), "1ª Dose", 
+                       ifelse(TIPO %in% c("2ª Dose", "3ª Dose", "Única"), "2ª Dose",NA))) %>%
   filter(TIPO %in% c("1ª Dose", "2ª Dose")) %>%
   select(-DOSE) %>%
   group_by(SEXO, IDADE, TIPO) %>%
@@ -63,14 +65,14 @@ dados %>%
     y = "Idade",
     fill = "",
     alpha = "",
-    title = "Vacinação no Brasil em 25 de abril de 2021",
+    title = "Vacinação no Brasil em 14 de julho de 2021",
     caption = fonte
   ) +
-  guides(fill = guide_legend(reverse = TRUE)) +
+  # guides(fill = guide_legend(reverse = TRUE)) +
   theme(
     panel.grid.minor = element_blank(),
     axis.text.y = element_blank(),
-    legend.position = "top",
+    legend.position = "none",
     plot.title = element_text(hjust = .5)
   )
 
