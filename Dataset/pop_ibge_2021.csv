@@ -1,0 +1,3943 @@
+UF;NOME_UF;SEXO;IDADE;POP
+11;Rondônia;Homens;18 anos; 14938
+11;Rondônia;Homens;19 anos; 15590
+11;Rondônia;Homens;20 anos; 16345
+11;Rondônia;Homens;21 anos; 15752
+11;Rondônia;Homens;22 anos; 15888
+11;Rondônia;Homens;23 anos; 15955
+11;Rondônia;Homens;24 anos; 15930
+11;Rondônia;Homens;25 anos; 15863
+11;Rondônia;Homens;30 anos; 15811
+11;Rondônia;Homens;31 anos; 15788
+11;Rondônia;Homens;32 anos; 15746
+11;Rondônia;Homens;33 anos; 15700
+11;Rondônia;Homens;34 anos; 15650
+11;Rondônia;Homens;35 anos; 15577
+11;Rondônia;Homens;36 anos; 15434
+11;Rondônia;Homens;37 anos; 15242
+11;Rondônia;Homens;38 anos; 15010
+11;Rondônia;Homens;39 anos; 14720
+11;Rondônia;Homens;40 anos; 14368
+11;Rondônia;Homens;41 anos; 14018
+11;Rondônia;Homens;42 anos; 13682
+11;Rondônia;Homens;43 anos; 13309
+11;Rondônia;Homens;44 anos; 12896
+11;Rondônia;Homens;45 anos; 12428
+11;Rondônia;Homens;46 anos; 11980
+11;Rondônia;Homens;47 anos; 11521
+11;Rondônia;Homens;48 anos; 11170
+11;Rondônia;Homens;49 anos; 10968
+11;Rondônia;Homens;50 anos; 10850
+11;Rondônia;Homens;51 anos; 10707
+11;Rondônia;Homens;52 anos; 10584
+11;Rondônia;Homens;53 anos; 10401
+11;Rondônia;Homens;54 anos; 10122
+11;Rondônia;Homens;55 anos;  9760
+11;Rondônia;Homens;56 anos;  9415
+11;Rondônia;Homens;57 anos;  9087
+11;Rondônia;Homens;58 anos;  8733
+11;Rondônia;Homens;59 anos;  8339
+11;Rondônia;Homens;60 anos;  7887
+11;Rondônia;Homens;61 anos;  7411
+11;Rondônia;Homens;62 anos;  6940
+11;Rondônia;Homens;63 anos;  6492
+11;Rondônia;Homens;64 anos;  6070
+11;Rondônia;Homens;65 anos;  5650
+11;Rondônia;Homens;66 anos;  5221
+11;Rondônia;Homens;67 anos;  4819
+11;Rondônia;Homens;68 anos;  4447
+11;Rondônia;Homens;69 anos;  4096
+11;Rondônia;Homens;70 anos;  3750
+11;Rondônia;Homens;71 anos;  3406
+11;Rondônia;Homens;72 anos;  3121
+11;Rondônia;Homens;73 anos;  2846
+11;Rondônia;Homens;74 anos;  2591
+11;Rondônia;Homens;75 anos;  2333
+11;Rondônia;Homens;76 anos;  2081
+11;Rondônia;Homens;77 anos;  1863
+11;Rondônia;Homens;78 anos;  1673
+11;Rondônia;Homens;79 anos;  1510
+11;Rondônia;Homens;80 anos;  1349
+11;Rondônia;Homens;81 anos;  1193
+11;Rondônia;Homens;82 anos;  1069
+11;Rondônia;Homens;83 anos;   951
+11;Rondônia;Homens;84 anos;   828
+11;Rondônia;Homens;85 anos;   694
+11;Rondônia;Homens;86 anos;   566
+11;Rondônia;Homens;87 anos;   464
+11;Rondônia;Homens;88 anos;   382
+11;Rondônia;Homens;89 anos;   313
+11;Rondônia;Homens;26 anos; 15835
+11;Rondônia;Homens;27 anos; 15801
+11;Rondônia;Homens;28 anos; 15780
+11;Rondônia;Homens;29 anos; 15787
+11;Rondônia;Homens;90 anos ou mais;  1287
+11;Rondônia;Mulheres;18 anos; 14385
+11;Rondônia;Mulheres;19 anos; 15051
+11;Rondônia;Mulheres;20 anos; 15820
+11;Rondônia;Mulheres;21 anos; 15213
+11;Rondônia;Mulheres;22 anos; 15335
+11;Rondônia;Mulheres;23 anos; 15427
+11;Rondônia;Mulheres;24 anos; 15490
+11;Rondônia;Mulheres;25 anos; 15556
+11;Rondônia;Mulheres;30 anos; 15591
+11;Rondônia;Mulheres;31 anos; 15481
+11;Rondônia;Mulheres;32 anos; 15351
+11;Rondônia;Mulheres;33 anos; 15270
+11;Rondônia;Mulheres;34 anos; 15273
+11;Rondônia;Mulheres;35 anos; 15312
+11;Rondônia;Mulheres;36 anos; 15267
+11;Rondônia;Mulheres;37 anos; 15173
+11;Rondônia;Mulheres;38 anos; 15014
+11;Rondônia;Mulheres;39 anos; 14747
+11;Rondônia;Mulheres;40 anos; 14407
+11;Rondônia;Mulheres;41 anos; 14085
+11;Rondônia;Mulheres;42 anos; 13762
+11;Rondônia;Mulheres;43 anos; 13433
+11;Rondônia;Mulheres;44 anos; 13085
+11;Rondônia;Mulheres;45 anos; 12730
+11;Rondônia;Mulheres;46 anos; 12364
+11;Rondônia;Mulheres;47 anos; 12003
+11;Rondônia;Mulheres;48 anos; 11662
+11;Rondônia;Mulheres;49 anos; 11356
+11;Rondônia;Mulheres;50 anos; 11044
+11;Rondônia;Mulheres;51 anos; 10706
+11;Rondônia;Mulheres;52 anos; 10361
+11;Rondônia;Mulheres;53 anos; 10021
+11;Rondônia;Mulheres;54 anos;  9673
+11;Rondônia;Mulheres;55 anos;  9308
+11;Rondônia;Mulheres;56 anos;  8947
+11;Rondônia;Mulheres;57 anos;  8606
+11;Rondônia;Mulheres;58 anos;  8244
+11;Rondônia;Mulheres;59 anos;  7863
+11;Rondônia;Mulheres;60 anos;  7453
+11;Rondônia;Mulheres;61 anos;  7056
+11;Rondônia;Mulheres;62 anos;  6671
+11;Rondônia;Mulheres;63 anos;  6307
+11;Rondônia;Mulheres;64 anos;  5953
+11;Rondônia;Mulheres;65 anos;  5594
+11;Rondônia;Mulheres;66 anos;  5226
+11;Rondônia;Mulheres;67 anos;  4879
+11;Rondônia;Mulheres;68 anos;  4531
+11;Rondônia;Mulheres;69 anos;  4180
+11;Rondônia;Mulheres;70 anos;  3812
+11;Rondônia;Mulheres;71 anos;  3458
+11;Rondônia;Mulheres;72 anos;  3131
+11;Rondônia;Mulheres;73 anos;  2840
+11;Rondônia;Mulheres;74 anos;  2600
+11;Rondônia;Mulheres;75 anos;  2371
+11;Rondônia;Mulheres;76 anos;  2157
+11;Rondônia;Mulheres;77 anos;  1966
+11;Rondônia;Mulheres;78 anos;  1790
+11;Rondônia;Mulheres;79 anos;  1625
+11;Rondônia;Mulheres;80 anos;  1441
+11;Rondônia;Mulheres;81 anos;  1262
+11;Rondônia;Mulheres;82 anos;  1107
+11;Rondônia;Mulheres;83 anos;   970
+11;Rondônia;Mulheres;84 anos;   845
+11;Rondônia;Mulheres;85 anos;   725
+11;Rondônia;Mulheres;86 anos;   618
+11;Rondônia;Mulheres;87 anos;   532
+11;Rondônia;Mulheres;88 anos;   455
+11;Rondônia;Mulheres;89 anos;   381
+11;Rondônia;Mulheres;26 anos; 15631
+11;Rondônia;Mulheres;27 anos; 15697
+11;Rondônia;Mulheres;28 anos; 15720
+11;Rondônia;Mulheres;29 anos; 15682
+11;Rondônia;Mulheres;90 anos ou mais;  1533
+12;Acre;Homens;18 anos;  9457
+12;Acre;Homens;19 anos;  9462
+12;Acre;Homens;20 anos;  9393
+12;Acre;Homens;21 anos;  9181
+12;Acre;Homens;22 anos;  9059
+12;Acre;Homens;23 anos;  8883
+12;Acre;Homens;24 anos;  8636
+12;Acre;Homens;25 anos;  8352
+12;Acre;Homens;30 anos;  7243
+12;Acre;Homens;31 anos;  7122
+12;Acre;Homens;32 anos;  7003
+12;Acre;Homens;33 anos;  6907
+12;Acre;Homens;34 anos;  6842
+12;Acre;Homens;35 anos;  6795
+12;Acre;Homens;36 anos;  6741
+12;Acre;Homens;37 anos;  6690
+12;Acre;Homens;38 anos;  6597
+12;Acre;Homens;39 anos;  6451
+12;Acre;Homens;40 anos;  6257
+12;Acre;Homens;41 anos;  6067
+12;Acre;Homens;42 anos;  5878
+12;Acre;Homens;43 anos;  5678
+12;Acre;Homens;44 anos;  5458
+12;Acre;Homens;45 anos;  5227
+12;Acre;Homens;46 anos;  4991
+12;Acre;Homens;47 anos;  4746
+12;Acre;Homens;48 anos;  4537
+12;Acre;Homens;49 anos;  4362
+12;Acre;Homens;50 anos;  4220
+12;Acre;Homens;51 anos;  4067
+12;Acre;Homens;52 anos;  3931
+12;Acre;Homens;53 anos;  3777
+12;Acre;Homens;54 anos;  3601
+12;Acre;Homens;55 anos;  3402
+12;Acre;Homens;56 anos;  3211
+12;Acre;Homens;57 anos;  3021
+12;Acre;Homens;58 anos;  2858
+12;Acre;Homens;59 anos;  2723
+12;Acre;Homens;60 anos;  2604
+12;Acre;Homens;61 anos;  2480
+12;Acre;Homens;62 anos;  2366
+12;Acre;Homens;63 anos;  2253
+12;Acre;Homens;64 anos;  2132
+12;Acre;Homens;65 anos;  2009
+12;Acre;Homens;66 anos;  1895
+12;Acre;Homens;67 anos;  1787
+12;Acre;Homens;68 anos;  1687
+12;Acre;Homens;69 anos;  1584
+12;Acre;Homens;70 anos;  1470
+12;Acre;Homens;71 anos;  1357
+12;Acre;Homens;72 anos;  1244
+12;Acre;Homens;73 anos;  1154
+12;Acre;Homens;74 anos;  1063
+12;Acre;Homens;75 anos;   972
+12;Acre;Homens;76 anos;   882
+12;Acre;Homens;77 anos;   800
+12;Acre;Homens;78 anos;   724
+12;Acre;Homens;79 anos;   651
+12;Acre;Homens;80 anos;   577
+12;Acre;Homens;81 anos;   511
+12;Acre;Homens;82 anos;   456
+12;Acre;Homens;83 anos;   405
+12;Acre;Homens;84 anos;   364
+12;Acre;Homens;85 anos;   316
+12;Acre;Homens;86 anos;   269
+12;Acre;Homens;87 anos;   235
+12;Acre;Homens;88 anos;   201
+12;Acre;Homens;89 anos;   174
+12;Acre;Homens;26 anos;  8073
+12;Acre;Homens;27 anos;  7774
+12;Acre;Homens;28 anos;  7528
+12;Acre;Homens;29 anos;  7358
+12;Acre;Homens;90 anos ou mais;   763
+12;Acre;Mulheres;18 anos;  9159
+12;Acre;Mulheres;19 anos;  9158
+12;Acre;Mulheres;20 anos;  9096
+12;Acre;Mulheres;21 anos;  8924
+12;Acre;Mulheres;22 anos;  8823
+12;Acre;Mulheres;23 anos;  8684
+12;Acre;Mulheres;24 anos;  8494
+12;Acre;Mulheres;25 anos;  8274
+12;Acre;Mulheres;30 anos;  7352
+12;Acre;Mulheres;31 anos;  7206
+12;Acre;Mulheres;32 anos;  7052
+12;Acre;Mulheres;33 anos;  6945
+12;Acre;Mulheres;34 anos;  6908
+12;Acre;Mulheres;35 anos;  6909
+12;Acre;Mulheres;36 anos;  6894
+12;Acre;Mulheres;37 anos;  6880
+12;Acre;Mulheres;38 anos;  6820
+12;Acre;Mulheres;39 anos;  6688
+12;Acre;Mulheres;40 anos;  6507
+12;Acre;Mulheres;41 anos;  6333
+12;Acre;Mulheres;42 anos;  6166
+12;Acre;Mulheres;43 anos;  5962
+12;Acre;Mulheres;44 anos;  5724
+12;Acre;Mulheres;45 anos;  5456
+12;Acre;Mulheres;46 anos;  5186
+12;Acre;Mulheres;47 anos;  4901
+12;Acre;Mulheres;48 anos;  4665
+12;Acre;Mulheres;49 anos;  4493
+12;Acre;Mulheres;50 anos;  4366
+12;Acre;Mulheres;51 anos;  4222
+12;Acre;Mulheres;52 anos;  4086
+12;Acre;Mulheres;53 anos;  3931
+12;Acre;Mulheres;54 anos;  3741
+12;Acre;Mulheres;55 anos;  3523
+12;Acre;Mulheres;56 anos;  3320
+12;Acre;Mulheres;57 anos;  3111
+12;Acre;Mulheres;58 anos;  2946
+12;Acre;Mulheres;59 anos;  2811
+12;Acre;Mulheres;60 anos;  2700
+12;Acre;Mulheres;61 anos;  2589
+12;Acre;Mulheres;62 anos;  2482
+12;Acre;Mulheres;63 anos;  2372
+12;Acre;Mulheres;64 anos;  2244
+12;Acre;Mulheres;65 anos;  2112
+12;Acre;Mulheres;66 anos;  1994
+12;Acre;Mulheres;67 anos;  1889
+12;Acre;Mulheres;68 anos;  1781
+12;Acre;Mulheres;69 anos;  1669
+12;Acre;Mulheres;70 anos;  1550
+12;Acre;Mulheres;71 anos;  1431
+12;Acre;Mulheres;72 anos;  1323
+12;Acre;Mulheres;73 anos;  1228
+12;Acre;Mulheres;74 anos;  1157
+12;Acre;Mulheres;75 anos;  1098
+12;Acre;Mulheres;76 anos;  1031
+12;Acre;Mulheres;77 anos;   970
+12;Acre;Mulheres;78 anos;   906
+12;Acre;Mulheres;79 anos;   830
+12;Acre;Mulheres;80 anos;   737
+12;Acre;Mulheres;81 anos;   650
+12;Acre;Mulheres;82 anos;   575
+12;Acre;Mulheres;83 anos;   505
+12;Acre;Mulheres;84 anos;   447
+12;Acre;Mulheres;85 anos;   396
+12;Acre;Mulheres;86 anos;   339
+12;Acre;Mulheres;87 anos;   294
+12;Acre;Mulheres;88 anos;   250
+12;Acre;Mulheres;89 anos;   218
+12;Acre;Mulheres;26 anos;  8063
+12;Acre;Mulheres;27 anos;  7843
+12;Acre;Mulheres;28 anos;  7647
+12;Acre;Mulheres;29 anos;  7486
+12;Acre;Mulheres;90 anos ou mais;   971
+13;Amazonas;Homens;18 anos; 39071
+13;Amazonas;Homens;19 anos; 39916
+13;Amazonas;Homens;20 anos; 41301
+13;Amazonas;Homens;21 anos; 40745
+13;Amazonas;Homens;22 anos; 41397
+13;Amazonas;Homens;23 anos; 41533
+13;Amazonas;Homens;24 anos; 40858
+13;Amazonas;Homens;25 anos; 39648
+13;Amazonas;Homens;30 anos; 35465
+13;Amazonas;Homens;31 anos; 34985
+13;Amazonas;Homens;32 anos; 34448
+13;Amazonas;Homens;33 anos; 33985
+13;Amazonas;Homens;34 anos; 33618
+13;Amazonas;Homens;35 anos; 33280
+13;Amazonas;Homens;36 anos; 32903
+13;Amazonas;Homens;37 anos; 32542
+13;Amazonas;Homens;38 anos; 32054
+13;Amazonas;Homens;39 anos; 31355
+13;Amazonas;Homens;40 anos; 30507
+13;Amazonas;Homens;41 anos; 29676
+13;Amazonas;Homens;42 anos; 28865
+13;Amazonas;Homens;43 anos; 27947
+13;Amazonas;Homens;44 anos; 26885
+13;Amazonas;Homens;45 anos; 25732
+13;Amazonas;Homens;46 anos; 24580
+13;Amazonas;Homens;47 anos; 23433
+13;Amazonas;Homens;48 anos; 22408
+13;Amazonas;Homens;49 anos; 21605
+13;Amazonas;Homens;50 anos; 20917
+13;Amazonas;Homens;51 anos; 20188
+13;Amazonas;Homens;52 anos; 19481
+13;Amazonas;Homens;53 anos; 18762
+13;Amazonas;Homens;54 anos; 17991
+13;Amazonas;Homens;55 anos; 17135
+13;Amazonas;Homens;56 anos; 16277
+13;Amazonas;Homens;57 anos; 15458
+13;Amazonas;Homens;58 anos; 14669
+13;Amazonas;Homens;59 anos; 13916
+13;Amazonas;Homens;60 anos; 13166
+13;Amazonas;Homens;61 anos; 12414
+13;Amazonas;Homens;62 anos; 11711
+13;Amazonas;Homens;63 anos; 11023
+13;Amazonas;Homens;64 anos; 10343
+13;Amazonas;Homens;65 anos;  9642
+13;Amazonas;Homens;66 anos;  8965
+13;Amazonas;Homens;67 anos;  8363
+13;Amazonas;Homens;68 anos;  7773
+13;Amazonas;Homens;69 anos;  7182
+13;Amazonas;Homens;70 anos;  6558
+13;Amazonas;Homens;71 anos;  5954
+13;Amazonas;Homens;72 anos;  5390
+13;Amazonas;Homens;73 anos;  4906
+13;Amazonas;Homens;74 anos;  4507
+13;Amazonas;Homens;75 anos;  4138
+13;Amazonas;Homens;76 anos;  3766
+13;Amazonas;Homens;77 anos;  3453
+13;Amazonas;Homens;78 anos;  3146
+13;Amazonas;Homens;79 anos;  2833
+13;Amazonas;Homens;80 anos;  2490
+13;Amazonas;Homens;81 anos;  2171
+13;Amazonas;Homens;82 anos;  1901
+13;Amazonas;Homens;83 anos;  1664
+13;Amazonas;Homens;84 anos;  1462
+13;Amazonas;Homens;85 anos;  1263
+13;Amazonas;Homens;86 anos;  1067
+13;Amazonas;Homens;87 anos;   913
+13;Amazonas;Homens;88 anos;   773
+13;Amazonas;Homens;89 anos;   648
+13;Amazonas;Homens;26 anos; 38529
+13;Amazonas;Homens;27 anos; 37369
+13;Amazonas;Homens;28 anos; 36412
+13;Amazonas;Homens;29 anos; 35826
+13;Amazonas;Homens;90 anos ou mais;  2442
+13;Amazonas;Mulheres;18 anos; 37633
+13;Amazonas;Mulheres;19 anos; 38501
+13;Amazonas;Mulheres;20 anos; 39917
+13;Amazonas;Mulheres;21 anos; 39679
+13;Amazonas;Mulheres;22 anos; 40498
+13;Amazonas;Mulheres;23 anos; 40862
+13;Amazonas;Mulheres;24 anos; 40508
+13;Amazonas;Mulheres;25 anos; 39646
+13;Amazonas;Mulheres;30 anos; 36045
+13;Amazonas;Mulheres;31 anos; 35441
+13;Amazonas;Mulheres;32 anos; 34734
+13;Amazonas;Mulheres;33 anos; 34162
+13;Amazonas;Mulheres;34 anos; 33791
+13;Amazonas;Mulheres;35 anos; 33514
+13;Amazonas;Mulheres;36 anos; 33229
+13;Amazonas;Mulheres;37 anos; 32975
+13;Amazonas;Mulheres;38 anos; 32558
+13;Amazonas;Mulheres;39 anos; 31873
+13;Amazonas;Mulheres;40 anos; 31011
+13;Amazonas;Mulheres;41 anos; 30186
+13;Amazonas;Mulheres;42 anos; 29371
+13;Amazonas;Mulheres;43 anos; 28446
+13;Amazonas;Mulheres;44 anos; 27402
+13;Amazonas;Mulheres;45 anos; 26239
+13;Amazonas;Mulheres;46 anos; 25053
+13;Amazonas;Mulheres;47 anos; 23850
+13;Amazonas;Mulheres;48 anos; 22729
+13;Amazonas;Mulheres;49 anos; 21737
+13;Amazonas;Mulheres;50 anos; 20826
+13;Amazonas;Mulheres;51 anos; 19900
+13;Amazonas;Mulheres;52 anos; 18988
+13;Amazonas;Mulheres;53 anos; 18135
+13;Amazonas;Mulheres;54 anos; 17376
+13;Amazonas;Mulheres;55 anos; 16648
+13;Amazonas;Mulheres;56 anos; 15937
+13;Amazonas;Mulheres;57 anos; 15275
+13;Amazonas;Mulheres;58 anos; 14630
+13;Amazonas;Mulheres;59 anos; 13975
+13;Amazonas;Mulheres;60 anos; 13301
+13;Amazonas;Mulheres;61 anos; 12644
+13;Amazonas;Mulheres;62 anos; 12017
+13;Amazonas;Mulheres;63 anos; 11397
+13;Amazonas;Mulheres;64 anos; 10773
+13;Amazonas;Mulheres;65 anos; 10122
+13;Amazonas;Mulheres;66 anos;  9476
+13;Amazonas;Mulheres;67 anos;  8887
+13;Amazonas;Mulheres;68 anos;  8300
+13;Amazonas;Mulheres;69 anos;  7736
+13;Amazonas;Mulheres;70 anos;  7150
+13;Amazonas;Mulheres;71 anos;  6579
+13;Amazonas;Mulheres;72 anos;  6047
+13;Amazonas;Mulheres;73 anos;  5561
+13;Amazonas;Mulheres;74 anos;  5143
+13;Amazonas;Mulheres;75 anos;  4742
+13;Amazonas;Mulheres;76 anos;  4350
+13;Amazonas;Mulheres;77 anos;  4008
+13;Amazonas;Mulheres;78 anos;  3689
+13;Amazonas;Mulheres;79 anos;  3386
+13;Amazonas;Mulheres;80 anos;  3064
+13;Amazonas;Mulheres;81 anos;  2749
+13;Amazonas;Mulheres;82 anos;  2474
+13;Amazonas;Mulheres;83 anos;  2224
+13;Amazonas;Mulheres;84 anos;  1988
+13;Amazonas;Mulheres;85 anos;  1739
+13;Amazonas;Mulheres;86 anos;  1506
+13;Amazonas;Mulheres;87 anos;  1308
+13;Amazonas;Mulheres;88 anos;  1135
+13;Amazonas;Mulheres;89 anos;   974
+13;Amazonas;Mulheres;26 anos; 38799
+13;Amazonas;Mulheres;27 anos; 37904
+13;Amazonas;Mulheres;28 anos; 37104
+13;Amazonas;Mulheres;29 anos; 36516
+13;Amazonas;Mulheres;90 anos ou mais;  4336
+14;Roraima;Homens;18 anos;  5410
+14;Roraima;Homens;19 anos;  5449
+14;Roraima;Homens;20 anos;  5720
+14;Roraima;Homens;21 anos;  5988
+14;Roraima;Homens;22 anos;  6352
+14;Roraima;Homens;23 anos;  6718
+14;Roraima;Homens;24 anos;  6948
+14;Roraima;Homens;25 anos;  6892
+14;Roraima;Homens;30 anos;  7010
+14;Roraima;Homens;31 anos;  6858
+14;Roraima;Homens;32 anos;  6647
+14;Roraima;Homens;33 anos;  6455
+14;Roraima;Homens;34 anos;  6324
+14;Roraima;Homens;35 anos;  6270
+14;Roraima;Homens;36 anos;  6154
+14;Roraima;Homens;37 anos;  6021
+14;Roraima;Homens;38 anos;  5820
+14;Roraima;Homens;39 anos;  5562
+14;Roraima;Homens;40 anos;  5356
+14;Roraima;Homens;41 anos;  5135
+14;Roraima;Homens;42 anos;  4911
+14;Roraima;Homens;43 anos;  4665
+14;Roraima;Homens;44 anos;  4432
+14;Roraima;Homens;45 anos;  4243
+14;Roraima;Homens;46 anos;  4018
+14;Roraima;Homens;47 anos;  3799
+14;Roraima;Homens;48 anos;  3586
+14;Roraima;Homens;49 anos;  3419
+14;Roraima;Homens;50 anos;  3313
+14;Roraima;Homens;51 anos;  3172
+14;Roraima;Homens;52 anos;  3040
+14;Roraima;Homens;53 anos;  2878
+14;Roraima;Homens;54 anos;  2728
+14;Roraima;Homens;55 anos;  2603
+14;Roraima;Homens;56 anos;  2495
+14;Roraima;Homens;57 anos;  2391
+14;Roraima;Homens;58 anos;  2282
+14;Roraima;Homens;59 anos;  2161
+14;Roraima;Homens;60 anos;  2045
+14;Roraima;Homens;61 anos;  1919
+14;Roraima;Homens;62 anos;  1786
+14;Roraima;Homens;63 anos;  1652
+14;Roraima;Homens;64 anos;  1528
+14;Roraima;Homens;65 anos;  1431
+14;Roraima;Homens;66 anos;  1333
+14;Roraima;Homens;67 anos;  1244
+14;Roraima;Homens;68 anos;  1161
+14;Roraima;Homens;69 anos;  1081
+14;Roraima;Homens;70 anos;  1002
+14;Roraima;Homens;71 anos;   910
+14;Roraima;Homens;72 anos;   832
+14;Roraima;Homens;73 anos;   747
+14;Roraima;Homens;74 anos;   662
+14;Roraima;Homens;75 anos;   584
+14;Roraima;Homens;76 anos;   509
+14;Roraima;Homens;77 anos;   443
+14;Roraima;Homens;78 anos;   390
+14;Roraima;Homens;79 anos;   349
+14;Roraima;Homens;80 anos;   303
+14;Roraima;Homens;81 anos;   263
+14;Roraima;Homens;82 anos;   230
+14;Roraima;Homens;83 anos;   198
+14;Roraima;Homens;84 anos;   167
+14;Roraima;Homens;85 anos;   139
+14;Roraima;Homens;86 anos;   115
+14;Roraima;Homens;87 anos;    93
+14;Roraima;Homens;88 anos;    79
+14;Roraima;Homens;89 anos;    66
+14;Roraima;Homens;26 anos;  6895
+14;Roraima;Homens;27 anos;  6917
+14;Roraima;Homens;28 anos;  6992
+14;Roraima;Homens;29 anos;  7072
+14;Roraima;Homens;90 anos ou mais;   224
+14;Roraima;Mulheres;18 anos;  5238
+14;Roraima;Mulheres;19 anos;  5271
+14;Roraima;Mulheres;20 anos;  5500
+14;Roraima;Mulheres;21 anos;  5681
+14;Roraima;Mulheres;22 anos;  5903
+14;Roraima;Mulheres;23 anos;  6077
+14;Roraima;Mulheres;24 anos;  6135
+14;Roraima;Mulheres;25 anos;  6060
+14;Roraima;Mulheres;30 anos;  6171
+14;Roraima;Mulheres;31 anos;  6026
+14;Roraima;Mulheres;32 anos;  5817
+14;Roraima;Mulheres;33 anos;  5617
+14;Roraima;Mulheres;34 anos;  5479
+14;Roraima;Mulheres;35 anos;  5466
+14;Roraima;Mulheres;36 anos;  5431
+14;Roraima;Mulheres;37 anos;  5408
+14;Roraima;Mulheres;38 anos;  5325
+14;Roraima;Mulheres;39 anos;  5169
+14;Roraima;Mulheres;40 anos;  4969
+14;Roraima;Mulheres;41 anos;  4758
+14;Roraima;Mulheres;42 anos;  4542
+14;Roraima;Mulheres;43 anos;  4310
+14;Roraima;Mulheres;44 anos;  4074
+14;Roraima;Mulheres;45 anos;  3884
+14;Roraima;Mulheres;46 anos;  3690
+14;Roraima;Mulheres;47 anos;  3504
+14;Roraima;Mulheres;48 anos;  3332
+14;Roraima;Mulheres;49 anos;  3196
+14;Roraima;Mulheres;50 anos;  3065
+14;Roraima;Mulheres;51 anos;  2915
+14;Roraima;Mulheres;52 anos;  2762
+14;Roraima;Mulheres;53 anos;  2608
+14;Roraima;Mulheres;54 anos;  2471
+14;Roraima;Mulheres;55 anos;  2379
+14;Roraima;Mulheres;56 anos;  2293
+14;Roraima;Mulheres;57 anos;  2216
+14;Roraima;Mulheres;58 anos;  2127
+14;Roraima;Mulheres;59 anos;  2024
+14;Roraima;Mulheres;60 anos;  1916
+14;Roraima;Mulheres;61 anos;  1813
+14;Roraima;Mulheres;62 anos;  1705
+14;Roraima;Mulheres;63 anos;  1607
+14;Roraima;Mulheres;64 anos;  1511
+14;Roraima;Mulheres;65 anos;  1416
+14;Roraima;Mulheres;66 anos;  1312
+14;Roraima;Mulheres;67 anos;  1210
+14;Roraima;Mulheres;68 anos;  1112
+14;Roraima;Mulheres;69 anos;  1020
+14;Roraima;Mulheres;70 anos;   936
+14;Roraima;Mulheres;71 anos;   855
+14;Roraima;Mulheres;72 anos;   782
+14;Roraima;Mulheres;73 anos;   713
+14;Roraima;Mulheres;74 anos;   655
+14;Roraima;Mulheres;75 anos;   590
+14;Roraima;Mulheres;76 anos;   524
+14;Roraima;Mulheres;77 anos;   466
+14;Roraima;Mulheres;78 anos;   411
+14;Roraima;Mulheres;79 anos;   366
+14;Roraima;Mulheres;80 anos;   330
+14;Roraima;Mulheres;81 anos;   293
+14;Roraima;Mulheres;82 anos;   269
+14;Roraima;Mulheres;83 anos;   242
+14;Roraima;Mulheres;84 anos;   213
+14;Roraima;Mulheres;85 anos;   183
+14;Roraima;Mulheres;86 anos;   151
+14;Roraima;Mulheres;87 anos;   129
+14;Roraima;Mulheres;88 anos;   107
+14;Roraima;Mulheres;89 anos;    90
+14;Roraima;Mulheres;26 anos;  6053
+14;Roraima;Mulheres;27 anos;  6068
+14;Roraima;Mulheres;28 anos;  6136
+14;Roraima;Mulheres;29 anos;  6221
+14;Roraima;Mulheres;90 anos ou mais;   340
+15;Pará;Homens;18 anos; 82020
+15;Pará;Homens;19 anos; 81880
+15;Pará;Homens;20 anos; 82711
+15;Pará;Homens;21 anos; 83469
+15;Pará;Homens;22 anos; 83857
+15;Pará;Homens;23 anos; 83584
+15;Pará;Homens;24 anos; 82336
+15;Pará;Homens;25 anos; 80481
+15;Pará;Homens;30 anos; 74314
+15;Pará;Homens;31 anos; 73600
+15;Pará;Homens;32 anos; 72830
+15;Pará;Homens;33 anos; 72104
+15;Pará;Homens;34 anos; 71452
+15;Pará;Homens;35 anos; 70813
+15;Pará;Homens;36 anos; 70098
+15;Pará;Homens;37 anos; 69332
+15;Pará;Homens;38 anos; 68298
+15;Pará;Homens;39 anos; 66872
+15;Pará;Homens;40 anos; 65147
+15;Pará;Homens;41 anos; 63398
+15;Pará;Homens;42 anos; 61627
+15;Pará;Homens;43 anos; 59747
+15;Pará;Homens;44 anos; 57746
+15;Pará;Homens;45 anos; 55632
+15;Pará;Homens;46 anos; 53424
+15;Pará;Homens;47 anos; 51156
+15;Pará;Homens;48 anos; 49119
+15;Pará;Homens;49 anos; 47453
+15;Pará;Homens;50 anos; 45957
+15;Pará;Homens;51 anos; 44400
+15;Pará;Homens;52 anos; 42933
+15;Pará;Homens;53 anos; 41347
+15;Pará;Homens;54 anos; 39542
+15;Pará;Homens;55 anos; 37584
+15;Pará;Homens;56 anos; 35695
+15;Pará;Homens;57 anos; 33888
+15;Pará;Homens;58 anos; 32253
+15;Pará;Homens;59 anos; 30879
+15;Pará;Homens;60 anos; 29584
+15;Pará;Homens;61 anos; 28260
+15;Pará;Homens;62 anos; 27035
+15;Pará;Homens;63 anos; 25783
+15;Pará;Homens;64 anos; 24464
+15;Pará;Homens;65 anos; 23013
+15;Pará;Homens;66 anos; 21580
+15;Pará;Homens;67 anos; 20242
+15;Pará;Homens;68 anos; 18937
+15;Pará;Homens;69 anos; 17648
+15;Pará;Homens;70 anos; 16269
+15;Pará;Homens;71 anos; 14881
+15;Pará;Homens;72 anos; 13609
+15;Pará;Homens;73 anos; 12474
+15;Pará;Homens;74 anos; 11505
+15;Pará;Homens;75 anos; 10566
+15;Pará;Homens;76 anos;  9627
+15;Pará;Homens;77 anos;  8817
+15;Pará;Homens;78 anos;  8029
+15;Pará;Homens;79 anos;  7244
+15;Pará;Homens;80 anos;  6382
+15;Pará;Homens;81 anos;  5568
+15;Pará;Homens;82 anos;  4885
+15;Pará;Homens;83 anos;  4273
+15;Pará;Homens;84 anos;  3736
+15;Pará;Homens;85 anos;  3204
+15;Pará;Homens;86 anos;  2698
+15;Pará;Homens;87 anos;  2288
+15;Pará;Homens;88 anos;  1925
+15;Pará;Homens;89 anos;  1611
+15;Pará;Homens;26 anos; 78828
+15;Pará;Homens;27 anos; 77196
+15;Pará;Homens;28 anos; 75807
+15;Pará;Homens;29 anos; 74917
+15;Pará;Homens;90 anos ou mais;  6246
+15;Pará;Mulheres;18 anos; 78767
+15;Pará;Mulheres;19 anos; 78714
+15;Pará;Mulheres;20 anos; 79654
+15;Pará;Mulheres;21 anos; 80598
+15;Pará;Mulheres;22 anos; 81253
+15;Pará;Mulheres;23 anos; 81356
+15;Pará;Mulheres;24 anos; 80640
+15;Pará;Mulheres;25 anos; 79412
+15;Pará;Mulheres;30 anos; 75144
+15;Pará;Mulheres;31 anos; 74621
+15;Pará;Mulheres;32 anos; 73939
+15;Pará;Mulheres;33 anos; 73364
+15;Pará;Mulheres;34 anos; 72941
+15;Pará;Mulheres;35 anos; 72537
+15;Pará;Mulheres;36 anos; 72009
+15;Pará;Mulheres;37 anos; 71446
+15;Pará;Mulheres;38 anos; 70453
+15;Pará;Mulheres;39 anos; 68829
+15;Pará;Mulheres;40 anos; 66766
+15;Pará;Mulheres;41 anos; 64680
+15;Pará;Mulheres;42 anos; 62515
+15;Pará;Mulheres;43 anos; 60316
+15;Pará;Mulheres;44 anos; 58154
+15;Pará;Mulheres;45 anos; 55985
+15;Pará;Mulheres;46 anos; 53759
+15;Pará;Mulheres;47 anos; 51509
+15;Pará;Mulheres;48 anos; 49443
+15;Pará;Mulheres;49 anos; 47661
+15;Pará;Mulheres;50 anos; 46046
+15;Pará;Mulheres;51 anos; 44415
+15;Pará;Mulheres;52 anos; 42852
+15;Pará;Mulheres;53 anos; 41240
+15;Pará;Mulheres;54 anos; 39504
+15;Pará;Mulheres;55 anos; 37683
+15;Pará;Mulheres;56 anos; 35914
+15;Pará;Mulheres;57 anos; 34198
+15;Pará;Mulheres;58 anos; 32660
+15;Pará;Mulheres;59 anos; 31372
+15;Pará;Mulheres;60 anos; 30185
+15;Pará;Mulheres;61 anos; 28967
+15;Pará;Mulheres;62 anos; 27820
+15;Pará;Mulheres;63 anos; 26634
+15;Pará;Mulheres;64 anos; 25355
+15;Pará;Mulheres;65 anos; 23980
+15;Pará;Mulheres;66 anos; 22653
+15;Pará;Mulheres;67 anos; 21427
+15;Pará;Mulheres;68 anos; 20182
+15;Pará;Mulheres;69 anos; 18899
+15;Pará;Mulheres;70 anos; 17525
+15;Pará;Mulheres;71 anos; 16160
+15;Pará;Mulheres;72 anos; 14879
+15;Pará;Mulheres;73 anos; 13769
+15;Pará;Mulheres;74 anos; 12879
+15;Pará;Mulheres;75 anos; 12048
+15;Pará;Mulheres;76 anos; 11177
+15;Pará;Mulheres;77 anos; 10399
+15;Pará;Mulheres;78 anos;  9618
+15;Pará;Mulheres;79 anos;  8804
+15;Pará;Mulheres;80 anos;  7896
+15;Pará;Mulheres;81 anos;  7035
+15;Pará;Mulheres;82 anos;  6290
+15;Pará;Mulheres;83 anos;  5609
+15;Pará;Mulheres;84 anos;  4993
+15;Pará;Mulheres;85 anos;  4371
+15;Pará;Mulheres;86 anos;  3779
+15;Pará;Mulheres;87 anos;  3282
+15;Pará;Mulheres;88 anos;  2846
+15;Pará;Mulheres;89 anos;  2463
+15;Pará;Mulheres;26 anos; 78278
+15;Pará;Mulheres;27 anos; 77118
+15;Pará;Mulheres;28 anos; 76134
+15;Pará;Mulheres;29 anos; 75521
+15;Pará;Mulheres;90 anos ou mais; 10254
+16;Amapá;Homens;18 anos;  8666
+16;Amapá;Homens;19 anos;  8677
+16;Amapá;Homens;20 anos;  8877
+16;Amapá;Homens;21 anos;  8530
+16;Amapá;Homens;22 anos;  8519
+16;Amapá;Homens;23 anos;  8480
+16;Amapá;Homens;24 anos;  8412
+16;Amapá;Homens;25 anos;  8311
+16;Amapá;Homens;30 anos;  7749
+16;Amapá;Homens;31 anos;  7646
+16;Amapá;Homens;32 anos;  7516
+16;Amapá;Homens;33 anos;  7385
+16;Amapá;Homens;34 anos;  7245
+16;Amapá;Homens;35 anos;  7086
+16;Amapá;Homens;36 anos;  6929
+16;Amapá;Homens;37 anos;  6782
+16;Amapá;Homens;38 anos;  6619
+16;Amapá;Homens;39 anos;  6427
+16;Amapá;Homens;40 anos;  6212
+16;Amapá;Homens;41 anos;  5998
+16;Amapá;Homens;42 anos;  5781
+16;Amapá;Homens;43 anos;  5575
+16;Amapá;Homens;44 anos;  5385
+16;Amapá;Homens;45 anos;  5208
+16;Amapá;Homens;46 anos;  5035
+16;Amapá;Homens;47 anos;  4879
+16;Amapá;Homens;48 anos;  4715
+16;Amapá;Homens;49 anos;  4533
+16;Amapá;Homens;50 anos;  4332
+16;Amapá;Homens;51 anos;  4135
+16;Amapá;Homens;52 anos;  3941
+16;Amapá;Homens;53 anos;  3754
+16;Amapá;Homens;54 anos;  3567
+16;Amapá;Homens;55 anos;  3389
+16;Amapá;Homens;56 anos;  3201
+16;Amapá;Homens;57 anos;  3024
+16;Amapá;Homens;58 anos;  2855
+16;Amapá;Homens;59 anos;  2716
+16;Amapá;Homens;60 anos;  2577
+16;Amapá;Homens;61 anos;  2441
+16;Amapá;Homens;62 anos;  2313
+16;Amapá;Homens;63 anos;  2185
+16;Amapá;Homens;64 anos;  2042
+16;Amapá;Homens;65 anos;  1883
+16;Amapá;Homens;66 anos;  1736
+16;Amapá;Homens;67 anos;  1593
+16;Amapá;Homens;68 anos;  1459
+16;Amapá;Homens;69 anos;  1328
+16;Amapá;Homens;70 anos;  1192
+16;Amapá;Homens;71 anos;  1071
+16;Amapá;Homens;72 anos;   956
+16;Amapá;Homens;73 anos;   864
+16;Amapá;Homens;74 anos;   800
+16;Amapá;Homens;75 anos;   746
+16;Amapá;Homens;76 anos;   691
+16;Amapá;Homens;77 anos;   643
+16;Amapá;Homens;78 anos;   599
+16;Amapá;Homens;79 anos;   535
+16;Amapá;Homens;80 anos;   472
+16;Amapá;Homens;81 anos;   413
+16;Amapá;Homens;82 anos;   362
+16;Amapá;Homens;83 anos;   316
+16;Amapá;Homens;84 anos;   279
+16;Amapá;Homens;85 anos;   243
+16;Amapá;Homens;86 anos;   205
+16;Amapá;Homens;87 anos;   177
+16;Amapá;Homens;88 anos;   153
+16;Amapá;Homens;89 anos;   130
+16;Amapá;Homens;26 anos;  8186
+16;Amapá;Homens;27 anos;  8033
+16;Amapá;Homens;28 anos;  7903
+16;Amapá;Homens;29 anos;  7820
+16;Amapá;Homens;90 anos ou mais;   574
+16;Amapá;Mulheres;18 anos;  8514
+16;Amapá;Mulheres;19 anos;  8567
+16;Amapá;Mulheres;20 anos;  8782
+16;Amapá;Mulheres;21 anos;  8548
+16;Amapá;Mulheres;22 anos;  8567
+16;Amapá;Mulheres;23 anos;  8557
+16;Amapá;Mulheres;24 anos;  8491
+16;Amapá;Mulheres;25 anos;  8403
+16;Amapá;Mulheres;30 anos;  7845
+16;Amapá;Mulheres;31 anos;  7725
+16;Amapá;Mulheres;32 anos;  7588
+16;Amapá;Mulheres;33 anos;  7471
+16;Amapá;Mulheres;34 anos;  7382
+16;Amapá;Mulheres;35 anos;  7291
+16;Amapá;Mulheres;36 anos;  7198
+16;Amapá;Mulheres;37 anos;  7105
+16;Amapá;Mulheres;38 anos;  6969
+16;Amapá;Mulheres;39 anos;  6777
+16;Amapá;Mulheres;40 anos;  6530
+16;Amapá;Mulheres;41 anos;  6287
+16;Amapá;Mulheres;42 anos;  6057
+16;Amapá;Mulheres;43 anos;  5829
+16;Amapá;Mulheres;44 anos;  5623
+16;Amapá;Mulheres;45 anos;  5411
+16;Amapá;Mulheres;46 anos;  5203
+16;Amapá;Mulheres;47 anos;  4998
+16;Amapá;Mulheres;48 anos;  4780
+16;Amapá;Mulheres;49 anos;  4555
+16;Amapá;Mulheres;50 anos;  4311
+16;Amapá;Mulheres;51 anos;  4074
+16;Amapá;Mulheres;52 anos;  3857
+16;Amapá;Mulheres;53 anos;  3647
+16;Amapá;Mulheres;54 anos;  3449
+16;Amapá;Mulheres;55 anos;  3266
+16;Amapá;Mulheres;56 anos;  3084
+16;Amapá;Mulheres;57 anos;  2913
+16;Amapá;Mulheres;58 anos;  2749
+16;Amapá;Mulheres;59 anos;  2615
+16;Amapá;Mulheres;60 anos;  2486
+16;Amapá;Mulheres;61 anos;  2362
+16;Amapá;Mulheres;62 anos;  2245
+16;Amapá;Mulheres;63 anos;  2128
+16;Amapá;Mulheres;64 anos;  2000
+16;Amapá;Mulheres;65 anos;  1861
+16;Amapá;Mulheres;66 anos;  1724
+16;Amapá;Mulheres;67 anos;  1608
+16;Amapá;Mulheres;68 anos;  1480
+16;Amapá;Mulheres;69 anos;  1351
+16;Amapá;Mulheres;70 anos;  1226
+16;Amapá;Mulheres;71 anos;  1096
+16;Amapá;Mulheres;72 anos;   981
+16;Amapá;Mulheres;73 anos;   889
+16;Amapá;Mulheres;74 anos;   829
+16;Amapá;Mulheres;75 anos;   789
+16;Amapá;Mulheres;76 anos;   756
+16;Amapá;Mulheres;77 anos;   727
+16;Amapá;Mulheres;78 anos;   689
+16;Amapá;Mulheres;79 anos;   641
+16;Amapá;Mulheres;80 anos;   568
+16;Amapá;Mulheres;81 anos;   505
+16;Amapá;Mulheres;82 anos;   446
+16;Amapá;Mulheres;83 anos;   394
+16;Amapá;Mulheres;84 anos;   355
+16;Amapá;Mulheres;85 anos;   316
+16;Amapá;Mulheres;86 anos;   280
+16;Amapá;Mulheres;87 anos;   246
+16;Amapá;Mulheres;88 anos;   215
+16;Amapá;Mulheres;89 anos;   186
+16;Amapá;Mulheres;26 anos;  8292
+16;Amapá;Mulheres;27 anos;  8158
+16;Amapá;Mulheres;28 anos;  8036
+16;Amapá;Mulheres;29 anos;  7941
+16;Amapá;Mulheres;90 anos ou mais;   929
+17;Tocantins;Homens;18 anos; 13982
+17;Tocantins;Homens;19 anos; 13810
+17;Tocantins;Homens;20 anos; 13921
+17;Tocantins;Homens;21 anos; 14430
+17;Tocantins;Homens;22 anos; 14647
+17;Tocantins;Homens;23 anos; 14733
+17;Tocantins;Homens;24 anos; 14624
+17;Tocantins;Homens;25 anos; 14393
+17;Tocantins;Homens;30 anos; 13443
+17;Tocantins;Homens;31 anos; 13293
+17;Tocantins;Homens;32 anos; 13154
+17;Tocantins;Homens;33 anos; 13028
+17;Tocantins;Homens;34 anos; 12933
+17;Tocantins;Homens;35 anos; 12859
+17;Tocantins;Homens;36 anos; 12752
+17;Tocantins;Homens;37 anos; 12618
+17;Tocantins;Homens;38 anos; 12468
+17;Tocantins;Homens;39 anos; 12299
+17;Tocantins;Homens;40 anos; 12100
+17;Tocantins;Homens;41 anos; 11888
+17;Tocantins;Homens;42 anos; 11670
+17;Tocantins;Homens;43 anos; 11398
+17;Tocantins;Homens;44 anos; 11054
+17;Tocantins;Homens;45 anos; 10653
+17;Tocantins;Homens;46 anos; 10231
+17;Tocantins;Homens;47 anos;  9802
+17;Tocantins;Homens;48 anos;  9432
+17;Tocantins;Homens;49 anos;  9160
+17;Tocantins;Homens;50 anos;  8943
+17;Tocantins;Homens;51 anos;  8706
+17;Tocantins;Homens;52 anos;  8481
+17;Tocantins;Homens;53 anos;  8233
+17;Tocantins;Homens;54 anos;  7944
+17;Tocantins;Homens;55 anos;  7620
+17;Tocantins;Homens;56 anos;  7316
+17;Tocantins;Homens;57 anos;  7041
+17;Tocantins;Homens;58 anos;  6757
+17;Tocantins;Homens;59 anos;  6464
+17;Tocantins;Homens;60 anos;  6154
+17;Tocantins;Homens;61 anos;  5840
+17;Tocantins;Homens;62 anos;  5540
+17;Tocantins;Homens;63 anos;  5264
+17;Tocantins;Homens;64 anos;  5028
+17;Tocantins;Homens;65 anos;  4803
+17;Tocantins;Homens;66 anos;  4562
+17;Tocantins;Homens;67 anos;  4349
+17;Tocantins;Homens;68 anos;  4122
+17;Tocantins;Homens;69 anos;  3892
+17;Tocantins;Homens;70 anos;  3636
+17;Tocantins;Homens;71 anos;  3379
+17;Tocantins;Homens;72 anos;  3145
+17;Tocantins;Homens;73 anos;  2924
+17;Tocantins;Homens;74 anos;  2726
+17;Tocantins;Homens;75 anos;  2515
+17;Tocantins;Homens;76 anos;  2313
+17;Tocantins;Homens;77 anos;  2129
+17;Tocantins;Homens;78 anos;  1966
+17;Tocantins;Homens;79 anos;  1818
+17;Tocantins;Homens;80 anos;  1662
+17;Tocantins;Homens;81 anos;  1504
+17;Tocantins;Homens;82 anos;  1369
+17;Tocantins;Homens;83 anos;  1238
+17;Tocantins;Homens;84 anos;  1104
+17;Tocantins;Homens;85 anos;   949
+17;Tocantins;Homens;86 anos;   803
+17;Tocantins;Homens;87 anos;   680
+17;Tocantins;Homens;88 anos;   576
+17;Tocantins;Homens;89 anos;   481
+17;Tocantins;Homens;26 anos; 14193
+17;Tocantins;Homens;27 anos; 13980
+17;Tocantins;Homens;28 anos; 13773
+17;Tocantins;Homens;29 anos; 13594
+17;Tocantins;Homens;90 anos ou mais;  1716
+17;Tocantins;Mulheres;18 anos; 13540
+17;Tocantins;Mulheres;19 anos; 13422
+17;Tocantins;Mulheres;20 anos; 13600
+17;Tocantins;Mulheres;21 anos; 14007
+17;Tocantins;Mulheres;22 anos; 14201
+17;Tocantins;Mulheres;23 anos; 14294
+17;Tocantins;Mulheres;24 anos; 14230
+17;Tocantins;Mulheres;25 anos; 14066
+17;Tocantins;Mulheres;30 anos; 13495
+17;Tocantins;Mulheres;31 anos; 13387
+17;Tocantins;Mulheres;32 anos; 13272
+17;Tocantins;Mulheres;33 anos; 13177
+17;Tocantins;Mulheres;34 anos; 13118
+17;Tocantins;Mulheres;35 anos; 13072
+17;Tocantins;Mulheres;36 anos; 12991
+17;Tocantins;Mulheres;37 anos; 12877
+17;Tocantins;Mulheres;38 anos; 12749
+17;Tocantins;Mulheres;39 anos; 12612
+17;Tocantins;Mulheres;40 anos; 12441
+17;Tocantins;Mulheres;41 anos; 12245
+17;Tocantins;Mulheres;42 anos; 12050
+17;Tocantins;Mulheres;43 anos; 11748
+17;Tocantins;Mulheres;44 anos; 11293
+17;Tocantins;Mulheres;45 anos; 10733
+17;Tocantins;Mulheres;46 anos; 10186
+17;Tocantins;Mulheres;47 anos;  9618
+17;Tocantins;Mulheres;48 anos;  9172
+17;Tocantins;Mulheres;49 anos;  8919
+17;Tocantins;Mulheres;50 anos;  8777
+17;Tocantins;Mulheres;51 anos;  8621
+17;Tocantins;Mulheres;52 anos;  8481
+17;Tocantins;Mulheres;53 anos;  8296
+17;Tocantins;Mulheres;54 anos;  8007
+17;Tocantins;Mulheres;55 anos;  7646
+17;Tocantins;Mulheres;56 anos;  7305
+17;Tocantins;Mulheres;57 anos;  6971
+17;Tocantins;Mulheres;58 anos;  6657
+17;Tocantins;Mulheres;59 anos;  6377
+17;Tocantins;Mulheres;60 anos;  6111
+17;Tocantins;Mulheres;61 anos;  5845
+17;Tocantins;Mulheres;62 anos;  5587
+17;Tocantins;Mulheres;63 anos;  5334
+17;Tocantins;Mulheres;64 anos;  5089
+17;Tocantins;Mulheres;65 anos;  4846
+17;Tocantins;Mulheres;66 anos;  4598
+17;Tocantins;Mulheres;67 anos;  4375
+17;Tocantins;Mulheres;68 anos;  4152
+17;Tocantins;Mulheres;69 anos;  3930
+17;Tocantins;Mulheres;70 anos;  3687
+17;Tocantins;Mulheres;71 anos;  3436
+17;Tocantins;Mulheres;72 anos;  3199
+17;Tocantins;Mulheres;73 anos;  2979
+17;Tocantins;Mulheres;74 anos;  2769
+17;Tocantins;Mulheres;75 anos;  2557
+17;Tocantins;Mulheres;76 anos;  2343
+17;Tocantins;Mulheres;77 anos;  2150
+17;Tocantins;Mulheres;78 anos;  1975
+17;Tocantins;Mulheres;79 anos;  1823
+17;Tocantins;Mulheres;80 anos;  1681
+17;Tocantins;Mulheres;81 anos;  1539
+17;Tocantins;Mulheres;82 anos;  1429
+17;Tocantins;Mulheres;83 anos;  1311
+17;Tocantins;Mulheres;84 anos;  1183
+17;Tocantins;Mulheres;85 anos;  1027
+17;Tocantins;Mulheres;86 anos;   864
+17;Tocantins;Mulheres;87 anos;   731
+17;Tocantins;Mulheres;88 anos;   611
+17;Tocantins;Mulheres;89 anos;   514
+17;Tocantins;Mulheres;26 anos; 13942
+17;Tocantins;Mulheres;27 anos; 13819
+17;Tocantins;Mulheres;28 anos; 13696
+17;Tocantins;Mulheres;29 anos; 13582
+17;Tocantins;Mulheres;90 anos ou mais;  1940
+21;Maranhão;Homens;18 anos; 68075
+21;Maranhão;Homens;19 anos; 63089
+21;Maranhão;Homens;20 anos; 65027
+21;Maranhão;Homens;21 anos; 68215
+21;Maranhão;Homens;22 anos; 68409
+21;Maranhão;Homens;23 anos; 67830
+21;Maranhão;Homens;24 anos; 66074
+21;Maranhão;Homens;25 anos; 63700
+21;Maranhão;Homens;30 anos; 56453
+21;Maranhão;Homens;31 anos; 56311
+21;Maranhão;Homens;32 anos; 56476
+21;Maranhão;Homens;33 anos; 56429
+21;Maranhão;Homens;34 anos; 56050
+21;Maranhão;Homens;35 anos; 55476
+21;Maranhão;Homens;36 anos; 54801
+21;Maranhão;Homens;37 anos; 53925
+21;Maranhão;Homens;38 anos; 52889
+21;Maranhão;Homens;39 anos; 51654
+21;Maranhão;Homens;40 anos; 50292
+21;Maranhão;Homens;41 anos; 48756
+21;Maranhão;Homens;42 anos; 47046
+21;Maranhão;Homens;43 anos; 45268
+21;Maranhão;Homens;44 anos; 43428
+21;Maranhão;Homens;45 anos; 41547
+21;Maranhão;Homens;46 anos; 39590
+21;Maranhão;Homens;47 anos; 37546
+21;Maranhão;Homens;48 anos; 35883
+21;Maranhão;Homens;49 anos; 34764
+21;Maranhão;Homens;50 anos; 33979
+21;Maranhão;Homens;51 anos; 33136
+21;Maranhão;Homens;52 anos; 32354
+21;Maranhão;Homens;53 anos; 31482
+21;Maranhão;Homens;54 anos; 30412
+21;Maranhão;Homens;55 anos; 29145
+21;Maranhão;Homens;56 anos; 27924
+21;Maranhão;Homens;57 anos; 26797
+21;Maranhão;Homens;58 anos; 25684
+21;Maranhão;Homens;59 anos; 24599
+21;Maranhão;Homens;60 anos; 23501
+21;Maranhão;Homens;61 anos; 22412
+21;Maranhão;Homens;62 anos; 21371
+21;Maranhão;Homens;63 anos; 20400
+21;Maranhão;Homens;64 anos; 19512
+21;Maranhão;Homens;65 anos; 18582
+21;Maranhão;Homens;66 anos; 17649
+21;Maranhão;Homens;67 anos; 16809
+21;Maranhão;Homens;68 anos; 15973
+21;Maranhão;Homens;69 anos; 15134
+21;Maranhão;Homens;70 anos; 14206
+21;Maranhão;Homens;71 anos; 13254
+21;Maranhão;Homens;72 anos; 12362
+21;Maranhão;Homens;73 anos; 11532
+21;Maranhão;Homens;74 anos; 10755
+21;Maranhão;Homens;75 anos;  9944
+21;Maranhão;Homens;76 anos;  9137
+21;Maranhão;Homens;77 anos;  8434
+21;Maranhão;Homens;78 anos;  7774
+21;Maranhão;Homens;79 anos;  7152
+21;Maranhão;Homens;80 anos;  6470
+21;Maranhão;Homens;81 anos;  5785
+21;Maranhão;Homens;82 anos;  5204
+21;Maranhão;Homens;83 anos;  4652
+21;Maranhão;Homens;84 anos;  4122
+21;Maranhão;Homens;85 anos;  3583
+21;Maranhão;Homens;86 anos;  3087
+21;Maranhão;Homens;87 anos;  2675
+21;Maranhão;Homens;88 anos;  2302
+21;Maranhão;Homens;89 anos;  1959
+21;Maranhão;Homens;26 anos; 61672
+21;Maranhão;Homens;27 anos; 59643
+21;Maranhão;Homens;28 anos; 57959
+21;Maranhão;Homens;29 anos; 56934
+21;Maranhão;Homens;90 anos ou mais;  8175
+21;Maranhão;Mulheres;18 anos; 65590
+21;Maranhão;Mulheres;19 anos; 60902
+21;Maranhão;Mulheres;20 anos; 63169
+21;Maranhão;Mulheres;21 anos; 66400
+21;Maranhão;Mulheres;22 anos; 66970
+21;Maranhão;Mulheres;23 anos; 66862
+21;Maranhão;Mulheres;24 anos; 65705
+21;Maranhão;Mulheres;25 anos; 64010
+21;Maranhão;Mulheres;30 anos; 59947
+21;Maranhão;Mulheres;31 anos; 60197
+21;Maranhão;Mulheres;32 anos; 60556
+21;Maranhão;Mulheres;33 anos; 60685
+21;Maranhão;Mulheres;34 anos; 60438
+21;Maranhão;Mulheres;35 anos; 59950
+21;Maranhão;Mulheres;36 anos; 59321
+21;Maranhão;Mulheres;37 anos; 58467
+21;Maranhão;Mulheres;38 anos; 57408
+21;Maranhão;Mulheres;39 anos; 56080
+21;Maranhão;Mulheres;40 anos; 54540
+21;Maranhão;Mulheres;41 anos; 52808
+21;Maranhão;Mulheres;42 anos; 50934
+21;Maranhão;Mulheres;43 anos; 48967
+21;Maranhão;Mulheres;44 anos; 46897
+21;Maranhão;Mulheres;45 anos; 44782
+21;Maranhão;Mulheres;46 anos; 42644
+21;Maranhão;Mulheres;47 anos; 40415
+21;Maranhão;Mulheres;48 anos; 38618
+21;Maranhão;Mulheres;49 anos; 37453
+21;Maranhão;Mulheres;50 anos; 36665
+21;Maranhão;Mulheres;51 anos; 35845
+21;Maranhão;Mulheres;52 anos; 35130
+21;Maranhão;Mulheres;53 anos; 34312
+21;Maranhão;Mulheres;54 anos; 33284
+21;Maranhão;Mulheres;55 anos; 32077
+21;Maranhão;Mulheres;56 anos; 30923
+21;Maranhão;Mulheres;57 anos; 29839
+21;Maranhão;Mulheres;58 anos; 28754
+21;Maranhão;Mulheres;59 anos; 27683
+21;Maranhão;Mulheres;60 anos; 26578
+21;Maranhão;Mulheres;61 anos; 25492
+21;Maranhão;Mulheres;62 anos; 24443
+21;Maranhão;Mulheres;63 anos; 23462
+21;Maranhão;Mulheres;64 anos; 22585
+21;Maranhão;Mulheres;65 anos; 21705
+21;Maranhão;Mulheres;66 anos; 20810
+21;Maranhão;Mulheres;67 anos; 19989
+21;Maranhão;Mulheres;68 anos; 19091
+21;Maranhão;Mulheres;69 anos; 18075
+21;Maranhão;Mulheres;70 anos; 16916
+21;Maranhão;Mulheres;71 anos; 15758
+21;Maranhão;Mulheres;72 anos; 14659
+21;Maranhão;Mulheres;73 anos; 13663
+21;Maranhão;Mulheres;74 anos; 12808
+21;Maranhão;Mulheres;75 anos; 11982
+21;Maranhão;Mulheres;76 anos; 11144
+21;Maranhão;Mulheres;77 anos; 10380
+21;Maranhão;Mulheres;78 anos;  9683
+21;Maranhão;Mulheres;79 anos;  9047
+21;Maranhão;Mulheres;80 anos;  8380
+21;Maranhão;Mulheres;81 anos;  7703
+21;Maranhão;Mulheres;82 anos;  7119
+21;Maranhão;Mulheres;83 anos;  6517
+21;Maranhão;Mulheres;84 anos;  5861
+21;Maranhão;Mulheres;85 anos;  5137
+21;Maranhão;Mulheres;86 anos;  4469
+21;Maranhão;Mulheres;87 anos;  3889
+21;Maranhão;Mulheres;88 anos;  3373
+21;Maranhão;Mulheres;89 anos;  2931
+21;Maranhão;Mulheres;26 anos; 62631
+21;Maranhão;Mulheres;27 anos; 61233
+21;Maranhão;Mulheres;28 anos; 60190
+21;Maranhão;Mulheres;29 anos; 59815
+21;Maranhão;Mulheres;90 anos ou mais; 14497
+22;Piauí;Homens;18 anos; 27978
+22;Piauí;Homens;19 anos; 29655
+22;Piauí;Homens;20 anos; 30743
+22;Piauí;Homens;21 anos; 29495
+22;Piauí;Homens;22 anos; 29443
+22;Piauí;Homens;23 anos; 29116
+22;Piauí;Homens;24 anos; 28404
+22;Piauí;Homens;25 anos; 27478
+22;Piauí;Homens;30 anos; 24616
+22;Piauí;Homens;31 anos; 24727
+22;Piauí;Homens;32 anos; 25057
+22;Piauí;Homens;33 anos; 25223
+22;Piauí;Homens;34 anos; 25109
+22;Piauí;Homens;35 anos; 24862
+22;Piauí;Homens;36 anos; 24597
+22;Piauí;Homens;37 anos; 24229
+22;Piauí;Homens;38 anos; 23913
+22;Piauí;Homens;39 anos; 23700
+22;Piauí;Homens;40 anos; 23544
+22;Piauí;Homens;41 anos; 23247
+22;Piauí;Homens;42 anos; 22838
+22;Piauí;Homens;43 anos; 22307
+22;Piauí;Homens;44 anos; 21591
+22;Piauí;Homens;45 anos; 20759
+22;Piauí;Homens;46 anos; 19914
+22;Piauí;Homens;47 anos; 19016
+22;Piauí;Homens;48 anos; 18316
+22;Piauí;Homens;49 anos; 17925
+22;Piauí;Homens;50 anos; 17710
+22;Piauí;Homens;51 anos; 17442
+22;Piauí;Homens;52 anos; 17169
+22;Piauí;Homens;53 anos; 16863
+22;Piauí;Homens;54 anos; 16453
+22;Piauí;Homens;55 anos; 15935
+22;Piauí;Homens;56 anos; 15408
+22;Piauí;Homens;57 anos; 14913
+22;Piauí;Homens;58 anos; 14379
+22;Piauí;Homens;59 anos; 13802
+22;Piauí;Homens;60 anos; 13160
+22;Piauí;Homens;61 anos; 12523
+22;Piauí;Homens;62 anos; 11904
+22;Piauí;Homens;63 anos; 11329
+22;Piauí;Homens;64 anos; 10801
+22;Piauí;Homens;65 anos; 10282
+22;Piauí;Homens;66 anos;  9758
+22;Piauí;Homens;67 anos;  9277
+22;Piauí;Homens;68 anos;  8828
+22;Piauí;Homens;69 anos;  8412
+22;Piauí;Homens;70 anos;  7959
+22;Piauí;Homens;71 anos;  7479
+22;Piauí;Homens;72 anos;  7056
+22;Piauí;Homens;73 anos;  6622
+22;Piauí;Homens;74 anos;  6169
+22;Piauí;Homens;75 anos;  5648
+22;Piauí;Homens;76 anos;  5104
+22;Piauí;Homens;77 anos;  4616
+22;Piauí;Homens;78 anos;  4188
+22;Piauí;Homens;79 anos;  3828
+22;Piauí;Homens;80 anos;  3450
+22;Piauí;Homens;81 anos;  3064
+22;Piauí;Homens;82 anos;  2749
+22;Piauí;Homens;83 anos;  2440
+22;Piauí;Homens;84 anos;  2121
+22;Piauí;Homens;85 anos;  1776
+22;Piauí;Homens;86 anos;  1467
+22;Piauí;Homens;87 anos;  1215
+22;Piauí;Homens;88 anos;  1007
+22;Piauí;Homens;89 anos;   853
+22;Piauí;Homens;26 anos; 26660
+22;Piauí;Homens;27 anos; 25825
+22;Piauí;Homens;28 anos; 25148
+22;Piauí;Homens;29 anos; 24743
+22;Piauí;Homens;90 anos ou mais;  3098
+22;Piauí;Mulheres;18 anos; 27164
+22;Piauí;Mulheres;19 anos; 28847
+22;Piauí;Mulheres;20 anos; 30012
+22;Piauí;Mulheres;21 anos; 28672
+22;Piauí;Mulheres;22 anos; 28706
+22;Piauí;Mulheres;23 anos; 28552
+22;Piauí;Mulheres;24 anos; 28134
+22;Piauí;Mulheres;25 anos; 27587
+22;Piauí;Mulheres;30 anos; 26514
+22;Piauí;Mulheres;31 anos; 26931
+22;Piauí;Mulheres;32 anos; 27481
+22;Piauí;Mulheres;33 anos; 27790
+22;Piauí;Mulheres;34 anos; 27723
+22;Piauí;Mulheres;35 anos; 27424
+22;Piauí;Mulheres;36 anos; 27111
+22;Piauí;Mulheres;37 anos; 26699
+22;Piauí;Mulheres;38 anos; 26356
+22;Piauí;Mulheres;39 anos; 26165
+22;Piauí;Mulheres;40 anos; 26051
+22;Piauí;Mulheres;41 anos; 25766
+22;Piauí;Mulheres;42 anos; 25374
+22;Piauí;Mulheres;43 anos; 24811
+22;Piauí;Mulheres;44 anos; 23991
+22;Piauí;Mulheres;45 anos; 23018
+22;Piauí;Mulheres;46 anos; 22059
+22;Piauí;Mulheres;47 anos; 21054
+22;Piauí;Mulheres;48 anos; 20278
+22;Piauí;Mulheres;49 anos; 19872
+22;Piauí;Mulheres;50 anos; 19692
+22;Piauí;Mulheres;51 anos; 19471
+22;Piauí;Mulheres;52 anos; 19271
+22;Piauí;Mulheres;53 anos; 19013
+22;Piauí;Mulheres;54 anos; 18641
+22;Piauí;Mulheres;55 anos; 18169
+22;Piauí;Mulheres;56 anos; 17713
+22;Piauí;Mulheres;57 anos; 17285
+22;Piauí;Mulheres;58 anos; 16818
+22;Piauí;Mulheres;59 anos; 16292
+22;Piauí;Mulheres;60 anos; 15699
+22;Piauí;Mulheres;61 anos; 15083
+22;Piauí;Mulheres;62 anos; 14465
+22;Piauí;Mulheres;63 anos; 13887
+22;Piauí;Mulheres;64 anos; 13382
+22;Piauí;Mulheres;65 anos; 12884
+22;Piauí;Mulheres;66 anos; 12360
+22;Piauí;Mulheres;67 anos; 11870
+22;Piauí;Mulheres;68 anos; 11359
+22;Piauí;Mulheres;69 anos; 10800
+22;Piauí;Mulheres;70 anos; 10168
+22;Piauí;Mulheres;71 anos;  9533
+22;Piauí;Mulheres;72 anos;  8950
+22;Piauí;Mulheres;73 anos;  8381
+22;Piauí;Mulheres;74 anos;  7818
+22;Piauí;Mulheres;75 anos;  7219
+22;Piauí;Mulheres;76 anos;  6613
+22;Piauí;Mulheres;77 anos;  6046
+22;Piauí;Mulheres;78 anos;  5574
+22;Piauí;Mulheres;79 anos;  5222
+22;Piauí;Mulheres;80 anos;  4878
+22;Piauí;Mulheres;81 anos;  4520
+22;Piauí;Mulheres;82 anos;  4233
+22;Piauí;Mulheres;83 anos;  3901
+22;Piauí;Mulheres;84 anos;  3497
+22;Piauí;Mulheres;85 anos;  2989
+22;Piauí;Mulheres;86 anos;  2510
+22;Piauí;Mulheres;87 anos;  2099
+22;Piauí;Mulheres;88 anos;  1771
+22;Piauí;Mulheres;89 anos;  1523
+22;Piauí;Mulheres;26 anos; 27098
+22;Piauí;Mulheres;27 anos; 26596
+22;Piauí;Mulheres;28 anos; 26269
+22;Piauí;Mulheres;29 anos; 26254
+22;Piauí;Mulheres;90 anos ou mais;  5919
+23;Ceará;Homens;18 anos; 72166
+23;Ceará;Homens;19 anos; 74411
+23;Ceará;Homens;20 anos; 76389
+23;Ceará;Homens;21 anos; 79801
+23;Ceará;Homens;22 anos; 82461
+23;Ceará;Homens;23 anos; 83926
+23;Ceará;Homens;24 anos; 83500
+23;Ceará;Homens;25 anos; 81938
+23;Ceará;Homens;30 anos; 77252
+23;Ceará;Homens;31 anos; 76869
+23;Ceará;Homens;32 anos; 76595
+23;Ceará;Homens;33 anos; 76022
+23;Ceará;Homens;34 anos; 75027
+23;Ceará;Homens;35 anos; 73769
+23;Ceará;Homens;36 anos; 72362
+23;Ceará;Homens;37 anos; 70736
+23;Ceará;Homens;38 anos; 69138
+23;Ceará;Homens;39 anos; 67658
+23;Ceará;Homens;40 anos; 66203
+23;Ceará;Homens;41 anos; 64580
+23;Ceará;Homens;42 anos; 62893
+23;Ceará;Homens;43 anos; 61150
+23;Ceará;Homens;44 anos; 59299
+23;Ceará;Homens;45 anos; 57407
+23;Ceará;Homens;46 anos; 55514
+23;Ceará;Homens;47 anos; 53557
+23;Ceará;Homens;48 anos; 52014
+23;Ceará;Homens;49 anos; 51078
+23;Ceará;Homens;50 anos; 50465
+23;Ceará;Homens;51 anos; 49789
+23;Ceará;Homens;52 anos; 49156
+23;Ceará;Homens;53 anos; 48393
+23;Ceará;Homens;54 anos; 47393
+23;Ceará;Homens;55 anos; 46143
+23;Ceará;Homens;56 anos; 44893
+23;Ceará;Homens;57 anos; 43751
+23;Ceará;Homens;58 anos; 42186
+23;Ceará;Homens;59 anos; 40002
+23;Ceará;Homens;60 anos; 37362
+23;Ceará;Homens;61 anos; 34752
+23;Ceará;Homens;62 anos; 32165
+23;Ceará;Homens;63 anos; 29986
+23;Ceará;Homens;64 anos; 28467
+23;Ceará;Homens;65 anos; 27296
+23;Ceará;Homens;66 anos; 26046
+23;Ceará;Homens;67 anos; 24864
+23;Ceará;Homens;68 anos; 23802
+23;Ceará;Homens;69 anos; 22856
+23;Ceará;Homens;70 anos; 21846
+23;Ceará;Homens;71 anos; 20844
+23;Ceará;Homens;72 anos; 20016
+23;Ceará;Homens;73 anos; 19031
+23;Ceará;Homens;74 anos; 17777
+23;Ceará;Homens;75 anos; 16238
+23;Ceará;Homens;76 anos; 14705
+23;Ceará;Homens;77 anos; 13265
+23;Ceará;Homens;78 anos; 12073
+23;Ceará;Homens;79 anos; 11203
+23;Ceará;Homens;80 anos; 10374
+23;Ceará;Homens;81 anos;  9473
+23;Ceará;Homens;82 anos;  8739
+23;Ceará;Homens;83 anos;  7920
+23;Ceará;Homens;84 anos;  6960
+23;Ceará;Homens;85 anos;  5833
+23;Ceará;Homens;86 anos;  4799
+23;Ceará;Homens;87 anos;  3929
+23;Ceará;Homens;88 anos;  3257
+23;Ceará;Homens;89 anos;  2801
+23;Ceará;Homens;26 anos; 80735
+23;Ceará;Homens;27 anos; 79502
+23;Ceará;Homens;28 anos; 78387
+23;Ceará;Homens;29 anos; 77682
+23;Ceará;Homens;90 anos ou mais; 11837
+23;Ceará;Mulheres;18 anos; 69990
+23;Ceará;Mulheres;19 anos; 72406
+23;Ceará;Mulheres;20 anos; 74685
+23;Ceará;Mulheres;21 anos; 77929
+23;Ceará;Mulheres;22 anos; 80810
+23;Ceará;Mulheres;23 anos; 82698
+23;Ceará;Mulheres;24 anos; 82994
+23;Ceará;Mulheres;25 anos; 82295
+23;Ceará;Mulheres;30 anos; 81156
+23;Ceará;Mulheres;31 anos; 81380
+23;Ceará;Mulheres;32 anos; 81608
+23;Ceará;Mulheres;33 anos; 81363
+23;Ceará;Mulheres;34 anos; 80439
+23;Ceará;Mulheres;35 anos; 79074
+23;Ceará;Mulheres;36 anos; 77617
+23;Ceará;Mulheres;37 anos; 75952
+23;Ceará;Mulheres;38 anos; 74347
+23;Ceará;Mulheres;39 anos; 72937
+23;Ceará;Mulheres;40 anos; 71625
+23;Ceará;Mulheres;41 anos; 70156
+23;Ceará;Mulheres;42 anos; 68637
+23;Ceará;Mulheres;43 anos; 67035
+23;Ceará;Mulheres;44 anos; 65305
+23;Ceará;Mulheres;45 anos; 63488
+23;Ceará;Mulheres;46 anos; 61629
+23;Ceará;Mulheres;47 anos; 59696
+23;Ceará;Mulheres;48 anos; 58204
+23;Ceará;Mulheres;49 anos; 57368
+23;Ceará;Mulheres;50 anos; 56915
+23;Ceará;Mulheres;51 anos; 56383
+23;Ceará;Mulheres;52 anos; 55879
+23;Ceará;Mulheres;53 anos; 55153
+23;Ceará;Mulheres;54 anos; 54038
+23;Ceará;Mulheres;55 anos; 52593
+23;Ceará;Mulheres;56 anos; 51207
+23;Ceará;Mulheres;57 anos; 49933
+23;Ceará;Mulheres;58 anos; 48332
+23;Ceará;Mulheres;59 anos; 46289
+23;Ceará;Mulheres;60 anos; 43900
+23;Ceará;Mulheres;61 anos; 41485
+23;Ceará;Mulheres;62 anos; 39055
+23;Ceará;Mulheres;63 anos; 36959
+23;Ceará;Mulheres;64 anos; 35408
+23;Ceará;Mulheres;65 anos; 34133
+23;Ceará;Mulheres;66 anos; 32770
+23;Ceará;Mulheres;67 anos; 31464
+23;Ceará;Mulheres;68 anos; 30236
+23;Ceará;Mulheres;69 anos; 29080
+23;Ceará;Mulheres;70 anos; 27839
+23;Ceará;Mulheres;71 anos; 26613
+23;Ceará;Mulheres;72 anos; 25561
+23;Ceará;Mulheres;73 anos; 24337
+23;Ceará;Mulheres;74 anos; 22827
+23;Ceará;Mulheres;75 anos; 21018
+23;Ceará;Mulheres;76 anos; 19235
+23;Ceará;Mulheres;77 anos; 17516
+23;Ceará;Mulheres;78 anos; 16151
+23;Ceará;Mulheres;79 anos; 15274
+23;Ceará;Mulheres;80 anos; 14514
+23;Ceará;Mulheres;81 anos; 13648
+23;Ceará;Mulheres;82 anos; 12950
+23;Ceará;Mulheres;83 anos; 12044
+23;Ceará;Mulheres;84 anos; 10807
+23;Ceará;Mulheres;85 anos;  9261
+23;Ceará;Mulheres;86 anos;  7812
+23;Ceará;Mulheres;87 anos;  6552
+23;Ceará;Mulheres;88 anos;  5562
+23;Ceará;Mulheres;89 anos;  4902
+23;Ceará;Mulheres;26 anos; 81813
+23;Ceará;Mulheres;27 anos; 81216
+23;Ceará;Mulheres;28 anos; 80789
+23;Ceará;Mulheres;29 anos; 80837
+23;Ceará;Mulheres;90 anos ou mais; 21717
+24;Rio Grande do Norte;Homens;18 anos; 27383
+24;Rio Grande do Norte;Homens;19 anos; 27654
+24;Rio Grande do Norte;Homens;20 anos; 28456
+24;Rio Grande do Norte;Homens;21 anos; 29266
+24;Rio Grande do Norte;Homens;22 anos; 29917
+24;Rio Grande do Norte;Homens;23 anos; 30288
+24;Rio Grande do Norte;Homens;24 anos; 30243
+24;Rio Grande do Norte;Homens;25 anos; 29942
+24;Rio Grande do Norte;Homens;30 anos; 29912
+24;Rio Grande do Norte;Homens;31 anos; 30313
+24;Rio Grande do Norte;Homens;32 anos; 30741
+24;Rio Grande do Norte;Homens;33 anos; 30907
+24;Rio Grande do Norte;Homens;34 anos; 30684
+24;Rio Grande do Norte;Homens;35 anos; 30170
+24;Rio Grande do Norte;Homens;36 anos; 29628
+24;Rio Grande do Norte;Homens;37 anos; 29021
+24;Rio Grande do Norte;Homens;38 anos; 28362
+24;Rio Grande do Norte;Homens;39 anos; 27648
+24;Rio Grande do Norte;Homens;40 anos; 26895
+24;Rio Grande do Norte;Homens;41 anos; 26086
+24;Rio Grande do Norte;Homens;42 anos; 25252
+24;Rio Grande do Norte;Homens;43 anos; 24436
+24;Rio Grande do Norte;Homens;44 anos; 23666
+24;Rio Grande do Norte;Homens;45 anos; 22938
+24;Rio Grande do Norte;Homens;46 anos; 22213
+24;Rio Grande do Norte;Homens;47 anos; 21483
+24;Rio Grande do Norte;Homens;48 anos; 20945
+24;Rio Grande do Norte;Homens;49 anos; 20691
+24;Rio Grande do Norte;Homens;50 anos; 20589
+24;Rio Grande do Norte;Homens;51 anos; 20435
+24;Rio Grande do Norte;Homens;52 anos; 20309
+24;Rio Grande do Norte;Homens;53 anos; 20077
+24;Rio Grande do Norte;Homens;54 anos; 19673
+24;Rio Grande do Norte;Homens;55 anos; 19092
+24;Rio Grande do Norte;Homens;56 anos; 18507
+24;Rio Grande do Norte;Homens;57 anos; 17943
+24;Rio Grande do Norte;Homens;58 anos; 17223
+24;Rio Grande do Norte;Homens;59 anos; 16299
+24;Rio Grande do Norte;Homens;60 anos; 15213
+24;Rio Grande do Norte;Homens;61 anos; 14148
+24;Rio Grande do Norte;Homens;62 anos; 13109
+24;Rio Grande do Norte;Homens;63 anos; 12160
+24;Rio Grande do Norte;Homens;64 anos; 11358
+24;Rio Grande do Norte;Homens;65 anos; 10642
+24;Rio Grande do Norte;Homens;66 anos;  9912
+24;Rio Grande do Norte;Homens;67 anos;  9210
+24;Rio Grande do Norte;Homens;68 anos;  8680
+24;Rio Grande do Norte;Homens;69 anos;  8377
+24;Rio Grande do Norte;Homens;70 anos;  8169
+24;Rio Grande do Norte;Homens;71 anos;  7952
+24;Rio Grande do Norte;Homens;72 anos;  7818
+24;Rio Grande do Norte;Homens;73 anos;  7532
+24;Rio Grande do Norte;Homens;74 anos;  7017
+24;Rio Grande do Norte;Homens;75 anos;  6313
+24;Rio Grande do Norte;Homens;76 anos;  5631
+24;Rio Grande do Norte;Homens;77 anos;  4996
+24;Rio Grande do Norte;Homens;78 anos;  4484
+24;Rio Grande do Norte;Homens;79 anos;  4152
+24;Rio Grande do Norte;Homens;80 anos;  3875
+24;Rio Grande do Norte;Homens;81 anos;  3555
+24;Rio Grande do Norte;Homens;82 anos;  3291
+24;Rio Grande do Norte;Homens;83 anos;  2987
+24;Rio Grande do Norte;Homens;84 anos;  2612
+24;Rio Grande do Norte;Homens;85 anos;  2173
+24;Rio Grande do Norte;Homens;86 anos;  1772
+24;Rio Grande do Norte;Homens;87 anos;  1439
+24;Rio Grande do Norte;Homens;88 anos;  1185
+24;Rio Grande do Norte;Homens;89 anos;  1027
+24;Rio Grande do Norte;Homens;26 anos; 29689
+24;Rio Grande do Norte;Homens;27 anos; 29360
+24;Rio Grande do Norte;Homens;28 anos; 29228
+24;Rio Grande do Norte;Homens;29 anos; 29471
+24;Rio Grande do Norte;Homens;90 anos ou mais;  4923
+24;Rio Grande do Norte;Mulheres;18 anos; 26575
+24;Rio Grande do Norte;Mulheres;19 anos; 26878
+24;Rio Grande do Norte;Mulheres;20 anos; 27748
+24;Rio Grande do Norte;Mulheres;21 anos; 28372
+24;Rio Grande do Norte;Mulheres;22 anos; 28985
+24;Rio Grande do Norte;Mulheres;23 anos; 29414
+24;Rio Grande do Norte;Mulheres;24 anos; 29538
+24;Rio Grande do Norte;Mulheres;25 anos; 29476
+24;Rio Grande do Norte;Mulheres;30 anos; 30219
+24;Rio Grande do Norte;Mulheres;31 anos; 30681
+24;Rio Grande do Norte;Mulheres;32 anos; 31138
+24;Rio Grande do Norte;Mulheres;33 anos; 31355
+24;Rio Grande do Norte;Mulheres;34 anos; 31198
+24;Rio Grande do Norte;Mulheres;35 anos; 30776
+24;Rio Grande do Norte;Mulheres;36 anos; 30347
+24;Rio Grande do Norte;Mulheres;37 anos; 29887
+24;Rio Grande do Norte;Mulheres;38 anos; 29357
+24;Rio Grande do Norte;Mulheres;39 anos; 28770
+24;Rio Grande do Norte;Mulheres;40 anos; 28147
+24;Rio Grande do Norte;Mulheres;41 anos; 27463
+24;Rio Grande do Norte;Mulheres;42 anos; 26745
+24;Rio Grande do Norte;Mulheres;43 anos; 26046
+24;Rio Grande do Norte;Mulheres;44 anos; 25379
+24;Rio Grande do Norte;Mulheres;45 anos; 24736
+24;Rio Grande do Norte;Mulheres;46 anos; 24083
+24;Rio Grande do Norte;Mulheres;47 anos; 23403
+24;Rio Grande do Norte;Mulheres;48 anos; 22920
+24;Rio Grande do Norte;Mulheres;49 anos; 22719
+24;Rio Grande do Norte;Mulheres;50 anos; 22672
+24;Rio Grande do Norte;Mulheres;51 anos; 22584
+24;Rio Grande do Norte;Mulheres;52 anos; 22497
+24;Rio Grande do Norte;Mulheres;53 anos; 22303
+24;Rio Grande do Norte;Mulheres;54 anos; 21929
+24;Rio Grande do Norte;Mulheres;55 anos; 21387
+24;Rio Grande do Norte;Mulheres;56 anos; 20847
+24;Rio Grande do Norte;Mulheres;57 anos; 20344
+24;Rio Grande do Norte;Mulheres;58 anos; 19668
+24;Rio Grande do Norte;Mulheres;59 anos; 18771
+24;Rio Grande do Norte;Mulheres;60 anos; 17709
+24;Rio Grande do Norte;Mulheres;61 anos; 16655
+24;Rio Grande do Norte;Mulheres;62 anos; 15606
+24;Rio Grande do Norte;Mulheres;63 anos; 14655
+24;Rio Grande do Norte;Mulheres;64 anos; 13866
+24;Rio Grande do Norte;Mulheres;65 anos; 13179
+24;Rio Grande do Norte;Mulheres;66 anos; 12469
+24;Rio Grande do Norte;Mulheres;67 anos; 11780
+24;Rio Grande do Norte;Mulheres;68 anos; 11253
+24;Rio Grande do Norte;Mulheres;69 anos; 10963
+24;Rio Grande do Norte;Mulheres;70 anos; 10761
+24;Rio Grande do Norte;Mulheres;71 anos; 10546
+24;Rio Grande do Norte;Mulheres;72 anos; 10401
+24;Rio Grande do Norte;Mulheres;73 anos; 10081
+24;Rio Grande do Norte;Mulheres;74 anos;  9467
+24;Rio Grande do Norte;Mulheres;75 anos;  8635
+24;Rio Grande do Norte;Mulheres;76 anos;  7829
+24;Rio Grande do Norte;Mulheres;77 anos;  7053
+24;Rio Grande do Norte;Mulheres;78 anos;  6432
+24;Rio Grande do Norte;Mulheres;79 anos;  6055
+24;Rio Grande do Norte;Mulheres;80 anos;  5749
+24;Rio Grande do Norte;Mulheres;81 anos;  5390
+24;Rio Grande do Norte;Mulheres;82 anos;  5096
+24;Rio Grande do Norte;Mulheres;83 anos;  4726
+24;Rio Grande do Norte;Mulheres;84 anos;  4238
+24;Rio Grande do Norte;Mulheres;85 anos;  3638
+24;Rio Grande do Norte;Mulheres;86 anos;  3078
+24;Rio Grande do Norte;Mulheres;87 anos;  2588
+24;Rio Grande do Norte;Mulheres;88 anos;  2212
+24;Rio Grande do Norte;Mulheres;89 anos;  1963
+24;Rio Grande do Norte;Mulheres;26 anos; 29421
+24;Rio Grande do Norte;Mulheres;27 anos; 29306
+24;Rio Grande do Norte;Mulheres;28 anos; 29349
+24;Rio Grande do Norte;Mulheres;29 anos; 29699
+24;Rio Grande do Norte;Mulheres;90 anos ou mais;  9751
+25;Paraíba;Homens;18 anos; 32810
+25;Paraíba;Homens;19 anos; 33466
+25;Paraíba;Homens;20 anos; 33859
+25;Paraíba;Homens;21 anos; 33577
+25;Paraíba;Homens;22 anos; 33544
+25;Paraíba;Homens;23 anos; 33385
+25;Paraíba;Homens;24 anos; 33033
+25;Paraíba;Homens;25 anos; 32626
+25;Paraíba;Homens;30 anos; 31278
+25;Paraíba;Homens;31 anos; 31146
+25;Paraíba;Homens;32 anos; 31121
+25;Paraíba;Homens;33 anos; 31070
+25;Paraíba;Homens;34 anos; 31019
+25;Paraíba;Homens;35 anos; 30969
+25;Paraíba;Homens;36 anos; 30840
+25;Paraíba;Homens;37 anos; 30600
+25;Paraíba;Homens;38 anos; 30303
+25;Paraíba;Homens;39 anos; 29951
+25;Paraíba;Homens;40 anos; 29554
+25;Paraíba;Homens;41 anos; 29067
+25;Paraíba;Homens;42 anos; 28525
+25;Paraíba;Homens;43 anos; 27890
+25;Paraíba;Homens;44 anos; 27148
+25;Paraíba;Homens;45 anos; 26309
+25;Paraíba;Homens;46 anos; 25430
+25;Paraíba;Homens;47 anos; 24478
+25;Paraíba;Homens;48 anos; 23734
+25;Paraíba;Homens;49 anos; 23295
+25;Paraíba;Homens;50 anos; 23018
+25;Paraíba;Homens;51 anos; 22672
+25;Paraíba;Homens;52 anos; 22336
+25;Paraíba;Homens;53 anos; 21924
+25;Paraíba;Homens;54 anos; 21384
+25;Paraíba;Homens;55 anos; 20715
+25;Paraíba;Homens;56 anos; 20062
+25;Paraíba;Homens;57 anos; 19471
+25;Paraíba;Homens;58 anos; 18742
+25;Paraíba;Homens;59 anos; 17827
+25;Paraíba;Homens;60 anos; 16773
+25;Paraíba;Homens;61 anos; 15750
+25;Paraíba;Homens;62 anos; 14745
+25;Paraíba;Homens;63 anos; 13876
+25;Paraíba;Homens;64 anos; 13213
+25;Paraíba;Homens;65 anos; 12648
+25;Paraíba;Homens;66 anos; 12047
+25;Paraíba;Homens;67 anos; 11481
+25;Paraíba;Homens;68 anos; 10993
+25;Paraíba;Homens;69 anos; 10597
+25;Paraíba;Homens;70 anos; 10179
+25;Paraíba;Homens;71 anos;  9747
+25;Paraíba;Homens;72 anos;  9381
+25;Paraíba;Homens;73 anos;  8925
+25;Paraíba;Homens;74 anos;  8335
+25;Paraíba;Homens;75 anos;  7603
+25;Paraíba;Homens;76 anos;  6891
+25;Paraíba;Homens;77 anos;  6222
+25;Paraíba;Homens;78 anos;  5676
+25;Paraíba;Homens;79 anos;  5287
+25;Paraíba;Homens;80 anos;  4910
+25;Paraíba;Homens;81 anos;  4506
+25;Paraíba;Homens;82 anos;  4180
+25;Paraíba;Homens;83 anos;  3804
+25;Paraíba;Homens;84 anos;  3343
+25;Paraíba;Homens;85 anos;  2805
+25;Paraíba;Homens;86 anos;  2314
+25;Paraíba;Homens;87 anos;  1896
+25;Paraíba;Homens;88 anos;  1573
+25;Paraíba;Homens;89 anos;  1362
+25;Paraíba;Homens;26 anos; 32353
+25;Paraíba;Homens;27 anos; 32144
+25;Paraíba;Homens;28 anos; 31884
+25;Paraíba;Homens;29 anos; 31568
+25;Paraíba;Homens;90 anos ou mais;  5844
+25;Paraíba;Mulheres;18 anos; 31961
+25;Paraíba;Mulheres;19 anos; 32805
+25;Paraíba;Mulheres;20 anos; 33453
+25;Paraíba;Mulheres;21 anos; 33170
+25;Paraíba;Mulheres;22 anos; 33317
+25;Paraíba;Mulheres;23 anos; 33364
+25;Paraíba;Mulheres;24 anos; 33288
+25;Paraíba;Mulheres;25 anos; 33170
+25;Paraíba;Mulheres;30 anos; 33111
+25;Paraíba;Mulheres;31 anos; 33268
+25;Paraíba;Mulheres;32 anos; 33496
+25;Paraíba;Mulheres;33 anos; 33642
+25;Paraíba;Mulheres;34 anos; 33673
+25;Paraíba;Mulheres;35 anos; 33624
+25;Paraíba;Mulheres;36 anos; 33493
+25;Paraíba;Mulheres;37 anos; 33265
+25;Paraíba;Mulheres;38 anos; 32988
+25;Paraíba;Mulheres;39 anos; 32684
+25;Paraíba;Mulheres;40 anos; 32331
+25;Paraíba;Mulheres;41 anos; 31866
+25;Paraíba;Mulheres;42 anos; 31334
+25;Paraíba;Mulheres;43 anos; 30703
+25;Paraíba;Mulheres;44 anos; 29934
+25;Paraíba;Mulheres;45 anos; 29070
+25;Paraíba;Mulheres;46 anos; 28176
+25;Paraíba;Mulheres;47 anos; 27221
+25;Paraíba;Mulheres;48 anos; 26484
+25;Paraíba;Mulheres;49 anos; 26091
+25;Paraíba;Mulheres;50 anos; 25894
+25;Paraíba;Mulheres;51 anos; 25661
+25;Paraíba;Mulheres;52 anos; 25455
+25;Paraíba;Mulheres;53 anos; 25121
+25;Paraíba;Mulheres;54 anos; 24558
+25;Paraíba;Mulheres;55 anos; 23827
+25;Paraíba;Mulheres;56 anos; 23114
+25;Paraíba;Mulheres;57 anos; 22450
+25;Paraíba;Mulheres;58 anos; 21700
+25;Paraíba;Mulheres;59 anos; 20841
+25;Paraíba;Mulheres;60 anos; 19886
+25;Paraíba;Mulheres;61 anos; 18914
+25;Paraíba;Mulheres;62 anos; 17937
+25;Paraíba;Mulheres;63 anos; 17097
+25;Paraíba;Mulheres;64 anos; 16462
+25;Paraíba;Mulheres;65 anos; 15921
+25;Paraíba;Mulheres;66 anos; 15343
+25;Paraíba;Mulheres;67 anos; 14794
+25;Paraíba;Mulheres;68 anos; 14292
+25;Paraíba;Mulheres;69 anos; 13847
+25;Paraíba;Mulheres;70 anos; 13374
+25;Paraíba;Mulheres;71 anos; 12897
+25;Paraíba;Mulheres;72 anos; 12510
+25;Paraíba;Mulheres;73 anos; 12002
+25;Paraíba;Mulheres;74 anos; 11322
+25;Paraíba;Mulheres;75 anos; 10462
+25;Paraíba;Mulheres;76 anos;  9605
+25;Paraíba;Mulheres;77 anos;  8783
+25;Paraíba;Mulheres;78 anos;  8123
+25;Paraíba;Mulheres;79 anos;  7701
+25;Paraíba;Mulheres;80 anos;  7320
+25;Paraíba;Mulheres;81 anos;  6866
+25;Paraíba;Mulheres;82 anos;  6487
+25;Paraíba;Mulheres;83 anos;  6002
+25;Paraíba;Mulheres;84 anos;  5337
+25;Paraíba;Mulheres;85 anos;  4521
+25;Paraíba;Mulheres;86 anos;  3764
+25;Paraíba;Mulheres;87 anos;  3117
+25;Paraíba;Mulheres;88 anos;  2610
+25;Paraíba;Mulheres;89 anos;  2280
+25;Paraíba;Mulheres;26 anos; 33130
+25;Paraíba;Mulheres;27 anos; 33096
+25;Paraíba;Mulheres;28 anos; 33065
+25;Paraíba;Mulheres;29 anos; 33056
+25;Paraíba;Mulheres;90 anos ou mais; 10028
+26;Pernambuco;Homens;18 anos; 77964
+26;Pernambuco;Homens;19 anos; 78629
+26;Pernambuco;Homens;20 anos; 81216
+26;Pernambuco;Homens;21 anos; 81507
+26;Pernambuco;Homens;22 anos; 82413
+26;Pernambuco;Homens;23 anos; 82488
+26;Pernambuco;Homens;24 anos; 81319
+26;Pernambuco;Homens;25 anos; 79410
+26;Pernambuco;Homens;30 anos; 74270
+26;Pernambuco;Homens;31 anos; 74441
+26;Pernambuco;Homens;32 anos; 74836
+26;Pernambuco;Homens;33 anos; 74954
+26;Pernambuco;Homens;34 anos; 74616
+26;Pernambuco;Homens;35 anos; 73998
+26;Pernambuco;Homens;36 anos; 73339
+26;Pernambuco;Homens;37 anos; 72524
+26;Pernambuco;Homens;38 anos; 71656
+26;Pernambuco;Homens;39 anos; 70764
+26;Pernambuco;Homens;40 anos; 69824
+26;Pernambuco;Homens;41 anos; 68688
+26;Pernambuco;Homens;42 anos; 67434
+26;Pernambuco;Homens;43 anos; 66017
+26;Pernambuco;Homens;44 anos; 64381
+26;Pernambuco;Homens;45 anos; 62562
+26;Pernambuco;Homens;46 anos; 60646
+26;Pernambuco;Homens;47 anos; 58627
+26;Pernambuco;Homens;48 anos; 56870
+26;Pernambuco;Homens;49 anos; 55529
+26;Pernambuco;Homens;50 anos; 54404
+26;Pernambuco;Homens;51 anos; 53185
+26;Pernambuco;Homens;52 anos; 51990
+26;Pernambuco;Homens;53 anos; 50688
+26;Pernambuco;Homens;54 anos; 49173
+26;Pernambuco;Homens;55 anos; 47449
+26;Pernambuco;Homens;56 anos; 45759
+26;Pernambuco;Homens;57 anos; 44141
+26;Pernambuco;Homens;58 anos; 42451
+26;Pernambuco;Homens;59 anos; 40681
+26;Pernambuco;Homens;60 anos; 38759
+26;Pernambuco;Homens;61 anos; 36823
+26;Pernambuco;Homens;62 anos; 34969
+26;Pernambuco;Homens;63 anos; 33163
+26;Pernambuco;Homens;64 anos; 31420
+26;Pernambuco;Homens;65 anos; 29633
+26;Pernambuco;Homens;66 anos; 27823
+26;Pernambuco;Homens;67 anos; 26089
+26;Pernambuco;Homens;68 anos; 24598
+26;Pernambuco;Homens;69 anos; 23433
+26;Pernambuco;Homens;70 anos; 22325
+26;Pernambuco;Homens;71 anos; 21162
+26;Pernambuco;Homens;72 anos; 20163
+26;Pernambuco;Homens;73 anos; 19017
+26;Pernambuco;Homens;74 anos; 17610
+26;Pernambuco;Homens;75 anos; 15942
+26;Pernambuco;Homens;76 anos; 14338
+26;Pernambuco;Homens;77 anos; 12879
+26;Pernambuco;Homens;78 anos; 11629
+26;Pernambuco;Homens;79 anos; 10674
+26;Pernambuco;Homens;80 anos;  9771
+26;Pernambuco;Homens;81 anos;  8849
+26;Pernambuco;Homens;82 anos;  8092
+26;Pernambuco;Homens;83 anos;  7292
+26;Pernambuco;Homens;84 anos;  6392
+26;Pernambuco;Homens;85 anos;  5367
+26;Pernambuco;Homens;86 anos;  4415
+26;Pernambuco;Homens;87 anos;  3626
+26;Pernambuco;Homens;88 anos;  2999
+26;Pernambuco;Homens;89 anos;  2552
+26;Pernambuco;Homens;26 anos; 77754
+26;Pernambuco;Homens;27 anos; 76056
+26;Pernambuco;Homens;28 anos; 74762
+26;Pernambuco;Homens;29 anos; 74247
+26;Pernambuco;Homens;90 anos ou mais; 10370
+26;Pernambuco;Mulheres;18 anos; 75768
+26;Pernambuco;Mulheres;19 anos; 76687
+26;Pernambuco;Mulheres;20 anos; 79618
+26;Pernambuco;Mulheres;21 anos; 80070
+26;Pernambuco;Mulheres;22 anos; 81361
+26;Pernambuco;Mulheres;23 anos; 81955
+26;Pernambuco;Mulheres;24 anos; 81488
+26;Pernambuco;Mulheres;25 anos; 80376
+26;Pernambuco;Mulheres;30 anos; 78819
+26;Pernambuco;Mulheres;31 anos; 79596
+26;Pernambuco;Mulheres;32 anos; 80450
+26;Pernambuco;Mulheres;33 anos; 80967
+26;Pernambuco;Mulheres;34 anos; 80929
+26;Pernambuco;Mulheres;35 anos; 80521
+26;Pernambuco;Mulheres;36 anos; 80066
+26;Pernambuco;Mulheres;37 anos; 79490
+26;Pernambuco;Mulheres;38 anos; 78823
+26;Pernambuco;Mulheres;39 anos; 78070
+26;Pernambuco;Mulheres;40 anos; 77232
+26;Pernambuco;Mulheres;41 anos; 76206
+26;Pernambuco;Mulheres;42 anos; 75042
+26;Pernambuco;Mulheres;43 anos; 73720
+26;Pernambuco;Mulheres;44 anos; 72169
+26;Pernambuco;Mulheres;45 anos; 70468
+26;Pernambuco;Mulheres;46 anos; 68701
+26;Pernambuco;Mulheres;47 anos; 66835
+26;Pernambuco;Mulheres;48 anos; 65232
+26;Pernambuco;Mulheres;49 anos; 64048
+26;Pernambuco;Mulheres;50 anos; 63065
+26;Pernambuco;Mulheres;51 anos; 61968
+26;Pernambuco;Mulheres;52 anos; 60895
+26;Pernambuco;Mulheres;53 anos; 59651
+26;Pernambuco;Mulheres;54 anos; 58141
+26;Pernambuco;Mulheres;55 anos; 56396
+26;Pernambuco;Mulheres;56 anos; 54662
+26;Pernambuco;Mulheres;57 anos; 52974
+26;Pernambuco;Mulheres;58 anos; 51210
+26;Pernambuco;Mulheres;59 anos; 49357
+26;Pernambuco;Mulheres;60 anos; 47382
+26;Pernambuco;Mulheres;61 anos; 45377
+26;Pernambuco;Mulheres;62 anos; 43436
+26;Pernambuco;Mulheres;63 anos; 41602
+26;Pernambuco;Mulheres;64 anos; 39932
+26;Pernambuco;Mulheres;65 anos; 38290
+26;Pernambuco;Mulheres;66 anos; 36600
+26;Pernambuco;Mulheres;67 anos; 34977
+26;Pernambuco;Mulheres;68 anos; 33455
+26;Pernambuco;Mulheres;69 anos; 32069
+26;Pernambuco;Mulheres;70 anos; 30618
+26;Pernambuco;Mulheres;71 anos; 29145
+26;Pernambuco;Mulheres;72 anos; 27827
+26;Pernambuco;Mulheres;73 anos; 26394
+26;Pernambuco;Mulheres;74 anos; 24755
+26;Pernambuco;Mulheres;75 anos; 22880
+26;Pernambuco;Mulheres;76 anos; 21022
+26;Pernambuco;Mulheres;77 anos; 19269
+26;Pernambuco;Mulheres;78 anos; 17775
+26;Pernambuco;Mulheres;79 anos; 16646
+26;Pernambuco;Mulheres;80 anos; 15545
+26;Pernambuco;Mulheres;81 anos; 14375
+26;Pernambuco;Mulheres;82 anos; 13397
+26;Pernambuco;Mulheres;83 anos; 12292
+26;Pernambuco;Mulheres;84 anos; 10974
+26;Pernambuco;Mulheres;85 anos;  9424
+26;Pernambuco;Mulheres;86 anos;  7976
+26;Pernambuco;Mulheres;87 anos;  6715
+26;Pernambuco;Mulheres;88 anos;  5693
+26;Pernambuco;Mulheres;89 anos;  4949
+26;Pernambuco;Mulheres;26 anos; 79420
+26;Pernambuco;Mulheres;27 anos; 78370
+26;Pernambuco;Mulheres;28 anos; 77784
+26;Pernambuco;Mulheres;29 anos; 78019
+26;Pernambuco;Mulheres;90 anos ou mais; 21447
+27;Alagoas;Homens;18 anos; 30710
+27;Alagoas;Homens;19 anos; 31186
+27;Alagoas;Homens;20 anos; 31223
+27;Alagoas;Homens;21 anos; 31495
+27;Alagoas;Homens;22 anos; 31619
+27;Alagoas;Homens;23 anos; 31328
+27;Alagoas;Homens;24 anos; 30455
+27;Alagoas;Homens;25 anos; 29254
+27;Alagoas;Homens;30 anos; 24868
+27;Alagoas;Homens;31 anos; 24402
+27;Alagoas;Homens;32 anos; 24051
+27;Alagoas;Homens;33 anos; 23807
+27;Alagoas;Homens;34 anos; 23733
+27;Alagoas;Homens;35 anos; 23781
+27;Alagoas;Homens;36 anos; 23763
+27;Alagoas;Homens;37 anos; 23664
+27;Alagoas;Homens;38 anos; 23527
+27;Alagoas;Homens;39 anos; 23298
+27;Alagoas;Homens;40 anos; 23008
+27;Alagoas;Homens;41 anos; 22632
+27;Alagoas;Homens;42 anos; 22191
+27;Alagoas;Homens;43 anos; 21660
+27;Alagoas;Homens;44 anos; 20997
+27;Alagoas;Homens;45 anos; 20253
+27;Alagoas;Homens;46 anos; 19482
+27;Alagoas;Homens;47 anos; 18658
+27;Alagoas;Homens;48 anos; 18008
+27;Alagoas;Homens;49 anos; 17620
+27;Alagoas;Homens;50 anos; 17399
+27;Alagoas;Homens;51 anos; 17140
+27;Alagoas;Homens;52 anos; 16911
+27;Alagoas;Homens;53 anos; 16570
+27;Alagoas;Homens;54 anos; 16034
+27;Alagoas;Homens;55 anos; 15352
+27;Alagoas;Homens;56 anos; 14686
+27;Alagoas;Homens;57 anos; 14036
+27;Alagoas;Homens;58 anos; 13409
+27;Alagoas;Homens;59 anos; 12817
+27;Alagoas;Homens;60 anos; 12227
+27;Alagoas;Homens;61 anos; 11611
+27;Alagoas;Homens;62 anos; 11009
+27;Alagoas;Homens;63 anos; 10451
+27;Alagoas;Homens;64 anos;  9956
+27;Alagoas;Homens;65 anos;  9468
+27;Alagoas;Homens;66 anos;  8979
+27;Alagoas;Homens;67 anos;  8524
+27;Alagoas;Homens;68 anos;  8093
+27;Alagoas;Homens;69 anos;  7673
+27;Alagoas;Homens;70 anos;  7215
+27;Alagoas;Homens;71 anos;  6743
+27;Alagoas;Homens;72 anos;  6317
+27;Alagoas;Homens;73 anos;  5890
+27;Alagoas;Homens;74 anos;  5451
+27;Alagoas;Homens;75 anos;  4969
+27;Alagoas;Homens;76 anos;  4486
+27;Alagoas;Homens;77 anos;  4055
+27;Alagoas;Homens;78 anos;  3660
+27;Alagoas;Homens;79 anos;  3304
+27;Alagoas;Homens;80 anos;  2937
+27;Alagoas;Homens;81 anos;  2579
+27;Alagoas;Homens;82 anos;  2279
+27;Alagoas;Homens;83 anos;  2001
+27;Alagoas;Homens;84 anos;  1738
+27;Alagoas;Homens;85 anos;  1474
+27;Alagoas;Homens;86 anos;  1226
+27;Alagoas;Homens;87 anos;  1026
+27;Alagoas;Homens;88 anos;   860
+27;Alagoas;Homens;89 anos;   724
+27;Alagoas;Homens;26 anos; 28235
+27;Alagoas;Homens;27 anos; 27256
+27;Alagoas;Homens;28 anos; 26320
+27;Alagoas;Homens;29 anos; 25509
+27;Alagoas;Homens;90 anos ou mais;  3016
+27;Alagoas;Mulheres;18 anos; 30162
+27;Alagoas;Mulheres;19 anos; 30838
+27;Alagoas;Mulheres;20 anos; 31150
+27;Alagoas;Mulheres;21 anos; 31416
+27;Alagoas;Mulheres;22 anos; 31775
+27;Alagoas;Mulheres;23 anos; 31769
+27;Alagoas;Mulheres;24 anos; 31229
+27;Alagoas;Mulheres;25 anos; 30399
+27;Alagoas;Mulheres;30 anos; 27733
+27;Alagoas;Mulheres;31 anos; 27633
+27;Alagoas;Mulheres;32 anos; 27601
+27;Alagoas;Mulheres;33 anos; 27565
+27;Alagoas;Mulheres;34 anos; 27520
+27;Alagoas;Mulheres;35 anos; 27483
+27;Alagoas;Mulheres;36 anos; 27389
+27;Alagoas;Mulheres;37 anos; 27226
+27;Alagoas;Mulheres;38 anos; 27009
+27;Alagoas;Mulheres;39 anos; 26753
+27;Alagoas;Mulheres;40 anos; 26435
+27;Alagoas;Mulheres;41 anos; 26044
+27;Alagoas;Mulheres;42 anos; 25607
+27;Alagoas;Mulheres;43 anos; 25071
+27;Alagoas;Mulheres;44 anos; 24390
+27;Alagoas;Mulheres;45 anos; 23629
+27;Alagoas;Mulheres;46 anos; 22858
+27;Alagoas;Mulheres;47 anos; 22012
+27;Alagoas;Mulheres;48 anos; 21347
+27;Alagoas;Mulheres;49 anos; 20939
+27;Alagoas;Mulheres;50 anos; 20668
+27;Alagoas;Mulheres;51 anos; 20367
+27;Alagoas;Mulheres;52 anos; 20093
+27;Alagoas;Mulheres;53 anos; 19680
+27;Alagoas;Mulheres;54 anos; 19030
+27;Alagoas;Mulheres;55 anos; 18216
+27;Alagoas;Mulheres;56 anos; 17424
+27;Alagoas;Mulheres;57 anos; 16635
+27;Alagoas;Mulheres;58 anos; 15902
+27;Alagoas;Mulheres;59 anos; 15275
+27;Alagoas;Mulheres;60 anos; 14689
+27;Alagoas;Mulheres;61 anos; 14094
+27;Alagoas;Mulheres;62 anos; 13512
+27;Alagoas;Mulheres;63 anos; 12972
+27;Alagoas;Mulheres;64 anos; 12485
+27;Alagoas;Mulheres;65 anos; 11997
+27;Alagoas;Mulheres;66 anos; 11491
+27;Alagoas;Mulheres;67 anos; 11027
+27;Alagoas;Mulheres;68 anos; 10529
+27;Alagoas;Mulheres;69 anos;  9974
+27;Alagoas;Mulheres;70 anos;  9349
+27;Alagoas;Mulheres;71 anos;  8730
+27;Alagoas;Mulheres;72 anos;  8147
+27;Alagoas;Mulheres;73 anos;  7596
+27;Alagoas;Mulheres;74 anos;  7095
+27;Alagoas;Mulheres;75 anos;  6589
+27;Alagoas;Mulheres;76 anos;  6086
+27;Alagoas;Mulheres;77 anos;  5640
+27;Alagoas;Mulheres;78 anos;  5218
+27;Alagoas;Mulheres;79 anos;  4833
+27;Alagoas;Mulheres;80 anos;  4414
+27;Alagoas;Mulheres;81 anos;  3995
+27;Alagoas;Mulheres;82 anos;  3625
+27;Alagoas;Mulheres;83 anos;  3273
+27;Alagoas;Mulheres;84 anos;  2925
+27;Alagoas;Mulheres;85 anos;  2553
+27;Alagoas;Mulheres;86 anos;  2196
+27;Alagoas;Mulheres;87 anos;  1889
+27;Alagoas;Mulheres;88 anos;  1627
+27;Alagoas;Mulheres;89 anos;  1401
+27;Alagoas;Mulheres;26 anos; 29663
+27;Alagoas;Mulheres;27 anos; 28903
+27;Alagoas;Mulheres;28 anos; 28264
+27;Alagoas;Mulheres;29 anos; 27889
+27;Alagoas;Mulheres;90 anos ou mais;  6020
+28;Sergipe;Homens;18 anos; 18617
+28;Sergipe;Homens;19 anos; 18786
+28;Sergipe;Homens;20 anos; 19893
+28;Sergipe;Homens;21 anos; 20337
+28;Sergipe;Homens;22 anos; 20960
+28;Sergipe;Homens;23 anos; 21255
+28;Sergipe;Homens;24 anos; 21057
+28;Sergipe;Homens;25 anos; 20541
+28;Sergipe;Homens;30 anos; 19097
+28;Sergipe;Homens;31 anos; 19093
+28;Sergipe;Homens;32 anos; 19111
+28;Sergipe;Homens;33 anos; 19062
+28;Sergipe;Homens;34 anos; 18910
+28;Sergipe;Homens;35 anos; 18681
+28;Sergipe;Homens;36 anos; 18424
+28;Sergipe;Homens;37 anos; 18151
+28;Sergipe;Homens;38 anos; 17846
+28;Sergipe;Homens;39 anos; 17503
+28;Sergipe;Homens;40 anos; 17135
+28;Sergipe;Homens;41 anos; 16738
+28;Sergipe;Homens;42 anos; 16320
+28;Sergipe;Homens;43 anos; 15872
+28;Sergipe;Homens;44 anos; 15394
+28;Sergipe;Homens;45 anos; 14893
+28;Sergipe;Homens;46 anos; 14380
+28;Sergipe;Homens;47 anos; 13856
+28;Sergipe;Homens;48 anos; 13436
+28;Sergipe;Homens;49 anos; 13191
+28;Sergipe;Homens;50 anos; 13014
+28;Sergipe;Homens;51 anos; 12802
+28;Sergipe;Homens;52 anos; 12599
+28;Sergipe;Homens;53 anos; 12314
+28;Sergipe;Homens;54 anos; 11882
+28;Sergipe;Homens;55 anos; 11346
+28;Sergipe;Homens;56 anos; 10835
+28;Sergipe;Homens;57 anos; 10347
+28;Sergipe;Homens;58 anos;  9853
+28;Sergipe;Homens;59 anos;  9368
+28;Sergipe;Homens;60 anos;  8866
+28;Sergipe;Homens;61 anos;  8360
+28;Sergipe;Homens;62 anos;  7878
+28;Sergipe;Homens;63 anos;  7434
+28;Sergipe;Homens;64 anos;  7042
+28;Sergipe;Homens;65 anos;  6666
+28;Sergipe;Homens;66 anos;  6273
+28;Sergipe;Homens;67 anos;  5902
+28;Sergipe;Homens;68 anos;  5563
+28;Sergipe;Homens;69 anos;  5263
+28;Sergipe;Homens;70 anos;  4944
+28;Sergipe;Homens;71 anos;  4614
+28;Sergipe;Homens;72 anos;  4326
+28;Sergipe;Homens;73 anos;  4026
+28;Sergipe;Homens;74 anos;  3700
+28;Sergipe;Homens;75 anos;  3332
+28;Sergipe;Homens;76 anos;  2986
+28;Sergipe;Homens;77 anos;  2672
+28;Sergipe;Homens;78 anos;  2393
+28;Sergipe;Homens;79 anos;  2161
+28;Sergipe;Homens;80 anos;  1927
+28;Sergipe;Homens;81 anos;  1703
+28;Sergipe;Homens;82 anos;  1517
+28;Sergipe;Homens;83 anos;  1343
+28;Sergipe;Homens;84 anos;  1178
+28;Sergipe;Homens;85 anos;   996
+28;Sergipe;Homens;86 anos;   827
+28;Sergipe;Homens;87 anos;   687
+28;Sergipe;Homens;88 anos;   572
+28;Sergipe;Homens;89 anos;   479
+28;Sergipe;Homens;26 anos; 20088
+28;Sergipe;Homens;27 anos; 19598
+28;Sergipe;Homens;28 anos; 19229
+28;Sergipe;Homens;29 anos; 19080
+28;Sergipe;Homens;90 anos ou mais;  1705
+28;Sergipe;Mulheres;18 anos; 18316
+28;Sergipe;Mulheres;19 anos; 18570
+28;Sergipe;Mulheres;20 anos; 19772
+28;Sergipe;Mulheres;21 anos; 20133
+28;Sergipe;Mulheres;22 anos; 20785
+28;Sergipe;Mulheres;23 anos; 21181
+28;Sergipe;Mulheres;24 anos; 21178
+28;Sergipe;Mulheres;25 anos; 20914
+28;Sergipe;Mulheres;30 anos; 20375
+28;Sergipe;Mulheres;31 anos; 20490
+28;Sergipe;Mulheres;32 anos; 20594
+28;Sergipe;Mulheres;33 anos; 20630
+28;Sergipe;Mulheres;34 anos; 20561
+28;Sergipe;Mulheres;35 anos; 20393
+28;Sergipe;Mulheres;36 anos; 20207
+28;Sergipe;Mulheres;37 anos; 19997
+28;Sergipe;Mulheres;38 anos; 19741
+28;Sergipe;Mulheres;39 anos; 19434
+28;Sergipe;Mulheres;40 anos; 19086
+28;Sergipe;Mulheres;41 anos; 18705
+28;Sergipe;Mulheres;42 anos; 18306
+28;Sergipe;Mulheres;43 anos; 17870
+28;Sergipe;Mulheres;44 anos; 17399
+28;Sergipe;Mulheres;45 anos; 16891
+28;Sergipe;Mulheres;46 anos; 16377
+28;Sergipe;Mulheres;47 anos; 15852
+28;Sergipe;Mulheres;48 anos; 15419
+28;Sergipe;Mulheres;49 anos; 15121
+28;Sergipe;Mulheres;50 anos; 14903
+28;Sergipe;Mulheres;51 anos; 14652
+28;Sergipe;Mulheres;52 anos; 14417
+28;Sergipe;Mulheres;53 anos; 14105
+28;Sergipe;Mulheres;54 anos; 13672
+28;Sergipe;Mulheres;55 anos; 13140
+28;Sergipe;Mulheres;56 anos; 12623
+28;Sergipe;Mulheres;57 anos; 12116
+28;Sergipe;Mulheres;58 anos; 11610
+28;Sergipe;Mulheres;59 anos; 11087
+28;Sergipe;Mulheres;60 anos; 10551
+28;Sergipe;Mulheres;61 anos;  9998
+28;Sergipe;Mulheres;62 anos;  9448
+28;Sergipe;Mulheres;63 anos;  8960
+28;Sergipe;Mulheres;64 anos;  8553
+28;Sergipe;Mulheres;65 anos;  8184
+28;Sergipe;Mulheres;66 anos;  7814
+28;Sergipe;Mulheres;67 anos;  7478
+28;Sergipe;Mulheres;68 anos;  7127
+28;Sergipe;Mulheres;69 anos;  6756
+28;Sergipe;Mulheres;70 anos;  6344
+28;Sergipe;Mulheres;71 anos;  5938
+28;Sergipe;Mulheres;72 anos;  5569
+28;Sergipe;Mulheres;73 anos;  5213
+28;Sergipe;Mulheres;74 anos;  4868
+28;Sergipe;Mulheres;75 anos;  4513
+28;Sergipe;Mulheres;76 anos;  4152
+28;Sergipe;Mulheres;77 anos;  3817
+28;Sergipe;Mulheres;78 anos;  3520
+28;Sergipe;Mulheres;79 anos;  3254
+28;Sergipe;Mulheres;80 anos;  2991
+28;Sergipe;Mulheres;81 anos;  2728
+28;Sergipe;Mulheres;82 anos;  2504
+28;Sergipe;Mulheres;83 anos;  2291
+28;Sergipe;Mulheres;84 anos;  2070
+28;Sergipe;Mulheres;85 anos;  1813
+28;Sergipe;Mulheres;86 anos;  1545
+28;Sergipe;Mulheres;87 anos;  1323
+28;Sergipe;Mulheres;88 anos;  1131
+28;Sergipe;Mulheres;89 anos;   974
+28;Sergipe;Mulheres;26 anos; 20671
+28;Sergipe;Mulheres;27 anos; 20384
+28;Sergipe;Mulheres;28 anos; 20205
+28;Sergipe;Mulheres;29 anos; 20228
+28;Sergipe;Mulheres;90 anos ou mais;  3908
+29;Bahia;Homens;18 anos;121881
+29;Bahia;Homens;19 anos;121437
+29;Bahia;Homens;20 anos;123428
+29;Bahia;Homens;21 anos;126011
+29;Bahia;Homens;22 anos;127023
+29;Bahia;Homens;23 anos;126879
+29;Bahia;Homens;24 anos;124992
+29;Bahia;Homens;25 anos;122222
+29;Bahia;Homens;30 anos;113803
+29;Bahia;Homens;31 anos;113319
+29;Bahia;Homens;32 anos;113151
+29;Bahia;Homens;33 anos;113586
+29;Bahia;Homens;34 anos;114998
+29;Bahia;Homens;35 anos;117020
+29;Bahia;Homens;36 anos;118577
+29;Bahia;Homens;37 anos;119786
+29;Bahia;Homens;38 anos;120055
+29;Bahia;Homens;39 anos;118894
+29;Bahia;Homens;40 anos;116729
+29;Bahia;Homens;41 anos;114314
+29;Bahia;Homens;42 anos;111589
+29;Bahia;Homens;43 anos;108431
+29;Bahia;Homens;44 anos;104759
+29;Bahia;Homens;45 anos;100750
+29;Bahia;Homens;46 anos; 96490
+29;Bahia;Homens;47 anos; 91885
+29;Bahia;Homens;48 anos; 88347
+29;Bahia;Homens;49 anos; 86469
+29;Bahia;Homens;50 anos; 85553
+29;Bahia;Homens;51 anos; 84410
+29;Bahia;Homens;52 anos; 83401
+29;Bahia;Homens;53 anos; 81882
+29;Bahia;Homens;54 anos; 79452
+29;Bahia;Homens;55 anos; 76324
+29;Bahia;Homens;56 anos; 73347
+29;Bahia;Homens;57 anos; 70469
+29;Bahia;Homens;58 anos; 67731
+29;Bahia;Homens;59 anos; 65242
+29;Bahia;Homens;60 anos; 62763
+29;Bahia;Homens;61 anos; 60180
+29;Bahia;Homens;62 anos; 57723
+29;Bahia;Homens;63 anos; 55133
+29;Bahia;Homens;64 anos; 52317
+29;Bahia;Homens;65 anos; 49247
+29;Bahia;Homens;66 anos; 46222
+29;Bahia;Homens;67 anos; 43311
+29;Bahia;Homens;68 anos; 40755
+29;Bahia;Homens;69 anos; 38689
+29;Bahia;Homens;70 anos; 36693
+29;Bahia;Homens;71 anos; 34585
+29;Bahia;Homens;72 anos; 32697
+29;Bahia;Homens;73 anos; 30752
+29;Bahia;Homens;74 anos; 28662
+29;Bahia;Homens;75 anos; 26259
+29;Bahia;Homens;76 anos; 23871
+29;Bahia;Homens;77 anos; 21711
+29;Bahia;Homens;78 anos; 19764
+29;Bahia;Homens;79 anos; 18079
+29;Bahia;Homens;80 anos; 16358
+29;Bahia;Homens;81 anos; 14642
+29;Bahia;Homens;82 anos; 13205
+29;Bahia;Homens;83 anos; 11803
+29;Bahia;Homens;84 anos; 10387
+29;Bahia;Homens;85 anos;  8856
+29;Bahia;Homens;86 anos;  7435
+29;Bahia;Homens;87 anos;  6255
+29;Bahia;Homens;88 anos;  5280
+29;Bahia;Homens;89 anos;  4530
+29;Bahia;Homens;26 anos;120156
+29;Bahia;Homens;27 anos;118329
+29;Bahia;Homens;28 anos;116518
+29;Bahia;Homens;29 anos;114948
+29;Bahia;Homens;90 anos ou mais; 19652
+29;Bahia;Mulheres;18 anos;117930
+29;Bahia;Mulheres;19 anos;117845
+29;Bahia;Mulheres;20 anos;120471
+29;Bahia;Mulheres;21 anos;122984
+29;Bahia;Mulheres;22 anos;124601
+29;Bahia;Mulheres;23 anos;125302
+29;Bahia;Mulheres;24 anos;124632
+29;Bahia;Mulheres;25 anos;123294
+29;Bahia;Mulheres;30 anos;121374
+29;Bahia;Mulheres;31 anos;121755
+29;Bahia;Mulheres;32 anos;122121
+29;Bahia;Mulheres;33 anos;123049
+29;Bahia;Mulheres;34 anos;124897
+29;Bahia;Mulheres;35 anos;127257
+29;Bahia;Mulheres;36 anos;129116
+29;Bahia;Mulheres;37 anos;130635
+29;Bahia;Mulheres;38 anos;130998
+29;Bahia;Mulheres;39 anos;129638
+29;Bahia;Mulheres;40 anos;127016
+29;Bahia;Mulheres;41 anos;124208
+29;Bahia;Mulheres;42 anos;121139
+29;Bahia;Mulheres;43 anos;117667
+29;Bahia;Mulheres;44 anos;113798
+29;Bahia;Mulheres;45 anos;109687
+29;Bahia;Mulheres;46 anos;105341
+29;Bahia;Mulheres;47 anos;100649
+29;Bahia;Mulheres;48 anos; 97001
+29;Bahia;Mulheres;49 anos; 94996
+29;Bahia;Mulheres;50 anos; 93965
+29;Bahia;Mulheres;51 anos; 92779
+29;Bahia;Mulheres;52 anos; 91778
+29;Bahia;Mulheres;53 anos; 90263
+29;Bahia;Mulheres;54 anos; 87795
+29;Bahia;Mulheres;55 anos; 84682
+29;Bahia;Mulheres;56 anos; 81740
+29;Bahia;Mulheres;57 anos; 78845
+29;Bahia;Mulheres;58 anos; 76137
+29;Bahia;Mulheres;59 anos; 73755
+29;Bahia;Mulheres;60 anos; 71463
+29;Bahia;Mulheres;61 anos; 69053
+29;Bahia;Mulheres;62 anos; 66742
+29;Bahia;Mulheres;63 anos; 64263
+29;Bahia;Mulheres;64 anos; 61518
+29;Bahia;Mulheres;65 anos; 58507
+29;Bahia;Mulheres;66 anos; 55505
+29;Bahia;Mulheres;67 anos; 52594
+29;Bahia;Mulheres;68 anos; 49908
+29;Bahia;Mulheres;69 anos; 47581
+29;Bahia;Mulheres;70 anos; 45299
+29;Bahia;Mulheres;71 anos; 42972
+29;Bahia;Mulheres;72 anos; 40828
+29;Bahia;Mulheres;73 anos; 38698
+29;Bahia;Mulheres;74 anos; 36508
+29;Bahia;Mulheres;75 anos; 34114
+29;Bahia;Mulheres;76 anos; 31703
+29;Bahia;Mulheres;77 anos; 29468
+29;Bahia;Mulheres;78 anos; 27430
+29;Bahia;Mulheres;79 anos; 25652
+29;Bahia;Mulheres;80 anos; 23790
+29;Bahia;Mulheres;81 anos; 21872
+29;Bahia;Mulheres;82 anos; 20205
+29;Bahia;Mulheres;83 anos; 18513
+29;Bahia;Mulheres;84 anos; 16732
+29;Bahia;Mulheres;85 anos; 14742
+29;Bahia;Mulheres;86 anos; 12838
+29;Bahia;Mulheres;87 anos; 11188
+29;Bahia;Mulheres;88 anos;  9766
+29;Bahia;Mulheres;89 anos;  8603
+29;Bahia;Mulheres;26 anos;122526
+29;Bahia;Mulheres;27 anos;121930
+29;Bahia;Mulheres;28 anos;121427
+29;Bahia;Mulheres;29 anos;121215
+29;Bahia;Mulheres;90 anos ou mais; 40085
+31;Minas Gerais;Homens;18 anos;151325
+31;Minas Gerais;Homens;19 anos;154897
+31;Minas Gerais;Homens;20 anos;162021
+31;Minas Gerais;Homens;21 anos;165614
+31;Minas Gerais;Homens;22 anos;170252
+31;Minas Gerais;Homens;23 anos;173320
+31;Minas Gerais;Homens;24 anos;173961
+31;Minas Gerais;Homens;25 anos;172975
+31;Minas Gerais;Homens;30 anos;171368
+31;Minas Gerais;Homens;31 anos;171855
+31;Minas Gerais;Homens;32 anos;172196
+31;Minas Gerais;Homens;33 anos;172279
+31;Minas Gerais;Homens;34 anos;172016
+31;Minas Gerais;Homens;35 anos;171425
+31;Minas Gerais;Homens;36 anos;170645
+31;Minas Gerais;Homens;37 anos;169684
+31;Minas Gerais;Homens;38 anos;168356
+31;Minas Gerais;Homens;39 anos;166610
+31;Minas Gerais;Homens;40 anos;164431
+31;Minas Gerais;Homens;41 anos;162020
+31;Minas Gerais;Homens;42 anos;159609
+31;Minas Gerais;Homens;43 anos;156433
+31;Minas Gerais;Homens;44 anos;152180
+31;Minas Gerais;Homens;45 anos;147229
+31;Minas Gerais;Homens;46 anos;142275
+31;Minas Gerais;Homens;47 anos;137124
+31;Minas Gerais;Homens;48 anos;133329
+31;Minas Gerais;Homens;49 anos;131679
+31;Minas Gerais;Homens;50 anos;131260
+31;Minas Gerais;Homens;51 anos;130549
+31;Minas Gerais;Homens;52 anos;129964
+31;Minas Gerais;Homens;53 anos;128999
+31;Minas Gerais;Homens;54 anos;127265
+31;Minas Gerais;Homens;55 anos;124822
+31;Minas Gerais;Homens;56 anos;122400
+31;Minas Gerais;Homens;57 anos;120075
+31;Minas Gerais;Homens;58 anos;117421
+31;Minas Gerais;Homens;59 anos;114347
+31;Minas Gerais;Homens;60 anos;110730
+31;Minas Gerais;Homens;61 anos;106930
+31;Minas Gerais;Homens;62 anos;103197
+31;Minas Gerais;Homens;63 anos; 99166
+31;Minas Gerais;Homens;64 anos; 94813
+31;Minas Gerais;Homens;65 anos; 89965
+31;Minas Gerais;Homens;66 anos; 84998
+31;Minas Gerais;Homens;67 anos; 80168
+31;Minas Gerais;Homens;68 anos; 75508
+31;Minas Gerais;Homens;69 anos; 71121
+31;Minas Gerais;Homens;70 anos; 66596
+31;Minas Gerais;Homens;71 anos; 61962
+31;Minas Gerais;Homens;72 anos; 57647
+31;Minas Gerais;Homens;73 anos; 53516
+31;Minas Gerais;Homens;74 anos; 49576
+31;Minas Gerais;Homens;75 anos; 45476
+31;Minas Gerais;Homens;76 anos; 41424
+31;Minas Gerais;Homens;77 anos; 37736
+31;Minas Gerais;Homens;78 anos; 34494
+31;Minas Gerais;Homens;79 anos; 31775
+31;Minas Gerais;Homens;80 anos; 29093
+31;Minas Gerais;Homens;81 anos; 26426
+31;Minas Gerais;Homens;82 anos; 24172
+31;Minas Gerais;Homens;83 anos; 21950
+31;Minas Gerais;Homens;84 anos; 19661
+31;Minas Gerais;Homens;85 anos; 17101
+31;Minas Gerais;Homens;86 anos; 14669
+31;Minas Gerais;Homens;87 anos; 12637
+31;Minas Gerais;Homens;88 anos; 10834
+31;Minas Gerais;Homens;89 anos;  9261
+31;Minas Gerais;Homens;26 anos;172141
+31;Minas Gerais;Homens;27 anos;171100
+31;Minas Gerais;Homens;28 anos;170429
+31;Minas Gerais;Homens;29 anos;170631
+31;Minas Gerais;Homens;90 anos ou mais; 37607
+31;Minas Gerais;Mulheres;18 anos;145011
+31;Minas Gerais;Mulheres;19 anos;148588
+31;Minas Gerais;Mulheres;20 anos;155589
+31;Minas Gerais;Mulheres;21 anos;159703
+31;Minas Gerais;Mulheres;22 anos;164602
+31;Minas Gerais;Mulheres;23 anos;168073
+31;Minas Gerais;Mulheres;24 anos;169319
+31;Minas Gerais;Mulheres;25 anos;169085
+31;Minas Gerais;Mulheres;30 anos;169311
+31;Minas Gerais;Mulheres;31 anos;169749
+31;Minas Gerais;Mulheres;32 anos;170025
+31;Minas Gerais;Mulheres;33 anos;170319
+31;Minas Gerais;Mulheres;34 anos;170693
+31;Minas Gerais;Mulheres;35 anos;171065
+31;Minas Gerais;Mulheres;36 anos;171210
+31;Minas Gerais;Mulheres;37 anos;171162
+31;Minas Gerais;Mulheres;38 anos;170668
+31;Minas Gerais;Mulheres;39 anos;169586
+31;Minas Gerais;Mulheres;40 anos;167982
+31;Minas Gerais;Mulheres;41 anos;166194
+31;Minas Gerais;Mulheres;42 anos;164368
+31;Minas Gerais;Mulheres;43 anos;161801
+31;Minas Gerais;Mulheres;44 anos;158218
+31;Minas Gerais;Mulheres;45 anos;153975
+31;Minas Gerais;Mulheres;46 anos;149675
+31;Minas Gerais;Mulheres;47 anos;145130
+31;Minas Gerais;Mulheres;48 anos;141788
+31;Minas Gerais;Mulheres;49 anos;140357
+31;Minas Gerais;Mulheres;50 anos;140053
+31;Minas Gerais;Mulheres;51 anos;139458
+31;Minas Gerais;Mulheres;52 anos;138902
+31;Minas Gerais;Mulheres;53 anos;138114
+31;Minas Gerais;Mulheres;54 anos;136822
+31;Minas Gerais;Mulheres;55 anos;135040
+31;Minas Gerais;Mulheres;56 anos;133287
+31;Minas Gerais;Mulheres;57 anos;131598
+31;Minas Gerais;Mulheres;58 anos;129367
+31;Minas Gerais;Mulheres;59 anos;126382
+31;Minas Gerais;Mulheres;60 anos;122684
+31;Minas Gerais;Mulheres;61 anos;118832
+31;Minas Gerais;Mulheres;62 anos;114944
+31;Minas Gerais;Mulheres;63 anos;110858
+31;Minas Gerais;Mulheres;64 anos;106600
+31;Minas Gerais;Mulheres;65 anos;101982
+31;Minas Gerais;Mulheres;66 anos; 97139
+31;Minas Gerais;Mulheres;67 anos; 92343
+31;Minas Gerais;Mulheres;68 anos; 87627
+31;Minas Gerais;Mulheres;69 anos; 83041
+31;Minas Gerais;Mulheres;70 anos; 78262
+31;Minas Gerais;Mulheres;71 anos; 73394
+31;Minas Gerais;Mulheres;72 anos; 68790
+31;Minas Gerais;Mulheres;73 anos; 64405
+31;Minas Gerais;Mulheres;74 anos; 60253
+31;Minas Gerais;Mulheres;75 anos; 55984
+31;Minas Gerais;Mulheres;76 anos; 51725
+31;Minas Gerais;Mulheres;77 anos; 47789
+31;Minas Gerais;Mulheres;78 anos; 44327
+31;Minas Gerais;Mulheres;79 anos; 41463
+31;Minas Gerais;Mulheres;80 anos; 38557
+31;Minas Gerais;Mulheres;81 anos; 35581
+31;Minas Gerais;Mulheres;82 anos; 33027
+31;Minas Gerais;Mulheres;83 anos; 30427
+31;Minas Gerais;Mulheres;84 anos; 27658
+31;Minas Gerais;Mulheres;85 anos; 24456
+31;Minas Gerais;Mulheres;86 anos; 21339
+31;Minas Gerais;Mulheres;87 anos; 18660
+31;Minas Gerais;Mulheres;88 anos; 16281
+31;Minas Gerais;Mulheres;89 anos; 14214
+31;Minas Gerais;Mulheres;26 anos;168958
+31;Minas Gerais;Mulheres;27 anos;168621
+31;Minas Gerais;Mulheres;28 anos;168416
+31;Minas Gerais;Mulheres;29 anos;168703
+31;Minas Gerais;Mulheres;90 anos ou mais; 69312
+32;Espírito Santo;Homens;18 anos; 29532
+32;Espírito Santo;Homens;19 anos; 29802
+32;Espírito Santo;Homens;20 anos; 30957
+32;Espírito Santo;Homens;21 anos; 31163
+32;Espírito Santo;Homens;22 anos; 31810
+32;Espírito Santo;Homens;23 anos; 32194
+32;Espírito Santo;Homens;24 anos; 32184
+32;Espírito Santo;Homens;25 anos; 31927
+32;Espírito Santo;Homens;30 anos; 32713
+32;Espírito Santo;Homens;31 anos; 33346
+32;Espírito Santo;Homens;32 anos; 33920
+32;Espírito Santo;Homens;33 anos; 34297
+32;Espírito Santo;Homens;34 anos; 34361
+32;Espírito Santo;Homens;35 anos; 34163
+32;Espírito Santo;Homens;36 anos; 33925
+32;Espírito Santo;Homens;37 anos; 33661
+32;Espírito Santo;Homens;38 anos; 33293
+32;Espírito Santo;Homens;39 anos; 32820
+32;Espírito Santo;Homens;40 anos; 32226
+32;Espírito Santo;Homens;41 anos; 31583
+32;Espírito Santo;Homens;42 anos; 30943
+32;Espírito Santo;Homens;43 anos; 30142
+32;Espírito Santo;Homens;44 anos; 29130
+32;Espírito Santo;Homens;45 anos; 27976
+32;Espírito Santo;Homens;46 anos; 26852
+32;Espírito Santo;Homens;47 anos; 25720
+32;Espírito Santo;Homens;48 anos; 24855
+32;Espírito Santo;Homens;49 anos; 24427
+32;Espírito Santo;Homens;50 anos; 24241
+32;Espírito Santo;Homens;51 anos; 24010
+32;Espírito Santo;Homens;52 anos; 23838
+32;Espírito Santo;Homens;53 anos; 23589
+32;Espírito Santo;Homens;54 anos; 23207
+32;Espírito Santo;Homens;55 anos; 22690
+32;Espírito Santo;Homens;56 anos; 22187
+32;Espírito Santo;Homens;57 anos; 21704
+32;Espírito Santo;Homens;58 anos; 21176
+32;Espírito Santo;Homens;59 anos; 20601
+32;Espírito Santo;Homens;60 anos; 19935
+32;Espírito Santo;Homens;61 anos; 19234
+32;Espírito Santo;Homens;62 anos; 18533
+32;Espírito Santo;Homens;63 anos; 17804
+32;Espírito Santo;Homens;64 anos; 17037
+32;Espírito Santo;Homens;65 anos; 16190
+32;Espírito Santo;Homens;66 anos; 15312
+32;Espírito Santo;Homens;67 anos; 14470
+32;Espírito Santo;Homens;68 anos; 13582
+32;Espírito Santo;Homens;69 anos; 12614
+32;Espírito Santo;Homens;70 anos; 11549
+32;Espírito Santo;Homens;71 anos; 10497
+32;Espírito Santo;Homens;72 anos;  9511
+32;Espírito Santo;Homens;73 anos;  8633
+32;Espírito Santo;Homens;74 anos;  7900
+32;Espírito Santo;Homens;75 anos;  7223
+32;Espírito Santo;Homens;76 anos;  6553
+32;Espírito Santo;Homens;77 anos;  5951
+32;Espírito Santo;Homens;78 anos;  5430
+32;Espírito Santo;Homens;79 anos;  4987
+32;Espírito Santo;Homens;80 anos;  4549
+32;Espírito Santo;Homens;81 anos;  4126
+32;Espírito Santo;Homens;82 anos;  3780
+32;Espírito Santo;Homens;83 anos;  3436
+32;Espírito Santo;Homens;84 anos;  3094
+32;Espírito Santo;Homens;85 anos;  2708
+32;Espírito Santo;Homens;86 anos;  2346
+32;Espírito Santo;Homens;87 anos;  2043
+32;Espírito Santo;Homens;88 anos;  1773
+32;Espírito Santo;Homens;89 anos;  1530
+32;Espírito Santo;Homens;26 anos; 31692
+32;Espírito Santo;Homens;27 anos; 31390
+32;Espírito Santo;Homens;28 anos; 31398
+32;Espírito Santo;Homens;29 anos; 31911
+32;Espírito Santo;Homens;90 anos ou mais;  6677
+32;Espírito Santo;Mulheres;18 anos; 28616
+32;Espírito Santo;Mulheres;19 anos; 28962
+32;Espírito Santo;Mulheres;20 anos; 30120
+32;Espírito Santo;Mulheres;21 anos; 30461
+32;Espírito Santo;Mulheres;22 anos; 31113
+32;Espírito Santo;Mulheres;23 anos; 31555
+32;Espírito Santo;Mulheres;24 anos; 31646
+32;Espírito Santo;Mulheres;25 anos; 31552
+32;Espírito Santo;Mulheres;30 anos; 32459
+32;Espírito Santo;Mulheres;31 anos; 33003
+32;Espírito Santo;Mulheres;32 anos; 33524
+32;Espírito Santo;Mulheres;33 anos; 33926
+32;Espírito Santo;Mulheres;34 anos; 34098
+32;Espírito Santo;Mulheres;35 anos; 34093
+32;Espírito Santo;Mulheres;36 anos; 34028
+32;Espírito Santo;Mulheres;37 anos; 33896
+32;Espírito Santo;Mulheres;38 anos; 33669
+32;Espírito Santo;Mulheres;39 anos; 33329
+32;Espírito Santo;Mulheres;40 anos; 32883
+32;Espírito Santo;Mulheres;41 anos; 32418
+32;Espírito Santo;Mulheres;42 anos; 31976
+32;Espírito Santo;Mulheres;43 anos; 31347
+32;Espírito Santo;Mulheres;44 anos; 30465
+32;Espírito Santo;Mulheres;45 anos; 29416
+32;Espírito Santo;Mulheres;46 anos; 28383
+32;Espírito Santo;Mulheres;47 anos; 27331
+32;Espírito Santo;Mulheres;48 anos; 26518
+32;Espírito Santo;Mulheres;49 anos; 26095
+32;Espírito Santo;Mulheres;50 anos; 25906
+32;Espírito Santo;Mulheres;51 anos; 25663
+32;Espírito Santo;Mulheres;52 anos; 25433
+32;Espírito Santo;Mulheres;53 anos; 25173
+32;Espírito Santo;Mulheres;54 anos; 24840
+32;Espírito Santo;Mulheres;55 anos; 24432
+32;Espírito Santo;Mulheres;56 anos; 24032
+32;Espírito Santo;Mulheres;57 anos; 23656
+32;Espírito Santo;Mulheres;58 anos; 23210
+32;Espírito Santo;Mulheres;59 anos; 22675
+32;Espírito Santo;Mulheres;60 anos; 22038
+32;Espírito Santo;Mulheres;61 anos; 21369
+32;Espírito Santo;Mulheres;62 anos; 20689
+32;Espírito Santo;Mulheres;63 anos; 19959
+32;Espírito Santo;Mulheres;64 anos; 19165
+32;Espírito Santo;Mulheres;65 anos; 18292
+32;Espírito Santo;Mulheres;66 anos; 17380
+32;Espírito Santo;Mulheres;67 anos; 16499
+32;Espírito Santo;Mulheres;68 anos; 15569
+32;Espírito Santo;Mulheres;69 anos; 14586
+32;Espírito Santo;Mulheres;70 anos; 13535
+32;Espírito Santo;Mulheres;71 anos; 12500
+32;Espírito Santo;Mulheres;72 anos; 11505
+32;Espírito Santo;Mulheres;73 anos; 10623
+32;Espírito Santo;Mulheres;74 anos;  9873
+32;Espírito Santo;Mulheres;75 anos;  9196
+32;Espírito Santo;Mulheres;76 anos;  8512
+32;Espírito Santo;Mulheres;77 anos;  7895
+32;Espírito Santo;Mulheres;78 anos;  7349
+32;Espírito Santo;Mulheres;79 anos;  6888
+32;Espírito Santo;Mulheres;80 anos;  6412
+32;Espírito Santo;Mulheres;81 anos;  5923
+32;Espírito Santo;Mulheres;82 anos;  5503
+32;Espírito Santo;Mulheres;83 anos;  5085
+32;Espírito Santo;Mulheres;84 anos;  4648
+32;Espírito Santo;Mulheres;85 anos;  4155
+32;Espírito Santo;Mulheres;86 anos;  3666
+32;Espírito Santo;Mulheres;87 anos;  3245
+32;Espírito Santo;Mulheres;88 anos;  2862
+32;Espírito Santo;Mulheres;89 anos;  2513
+32;Espírito Santo;Mulheres;26 anos; 31461
+32;Espírito Santo;Mulheres;27 anos; 31295
+32;Espírito Santo;Mulheres;28 anos; 31363
+32;Espírito Santo;Mulheres;29 anos; 31805
+32;Espírito Santo;Mulheres;90 anos ou mais; 12655
+33;Rio de Janeiro;Homens;18 anos;114362
+33;Rio de Janeiro;Homens;19 anos;116702
+33;Rio de Janeiro;Homens;20 anos;123288
+33;Rio de Janeiro;Homens;21 anos;128718
+33;Rio de Janeiro;Homens;22 anos;134043
+33;Rio de Janeiro;Homens;23 anos;137282
+33;Rio de Janeiro;Homens;24 anos;137253
+33;Rio de Janeiro;Homens;25 anos;135007
+33;Rio de Janeiro;Homens;30 anos;129961
+33;Rio de Janeiro;Homens;31 anos;130154
+33;Rio de Janeiro;Homens;32 anos;129942
+33;Rio de Janeiro;Homens;33 anos;130008
+33;Rio de Janeiro;Homens;34 anos;130423
+33;Rio de Janeiro;Homens;35 anos;130948
+33;Rio de Janeiro;Homens;36 anos;131483
+33;Rio de Janeiro;Homens;37 anos;132123
+33;Rio de Janeiro;Homens;38 anos;132194
+33;Rio de Janeiro;Homens;39 anos;131408
+33;Rio de Janeiro;Homens;40 anos;129916
+33;Rio de Janeiro;Homens;41 anos;128508
+33;Rio de Janeiro;Homens;42 anos;127264
+33;Rio de Janeiro;Homens;43 anos;125286
+33;Rio de Janeiro;Homens;44 anos;122299
+33;Rio de Janeiro;Homens;45 anos;118649
+33;Rio de Janeiro;Homens;46 anos;114967
+33;Rio de Janeiro;Homens;47 anos;111128
+33;Rio de Janeiro;Homens;48 anos;108172
+33;Rio de Janeiro;Homens;49 anos;106655
+33;Rio de Janeiro;Homens;50 anos;105925
+33;Rio de Janeiro;Homens;51 anos;104901
+33;Rio de Janeiro;Homens;52 anos;103918
+33;Rio de Janeiro;Homens;53 anos;102863
+33;Rio de Janeiro;Homens;54 anos;101587
+33;Rio de Janeiro;Homens;55 anos; 99951
+33;Rio de Janeiro;Homens;56 anos; 98225
+33;Rio de Janeiro;Homens;57 anos; 96554
+33;Rio de Janeiro;Homens;58 anos; 94634
+33;Rio de Janeiro;Homens;59 anos; 92392
+33;Rio de Janeiro;Homens;60 anos; 89681
+33;Rio de Janeiro;Homens;61 anos; 86867
+33;Rio de Janeiro;Homens;62 anos; 84174
+33;Rio de Janeiro;Homens;63 anos; 81121
+33;Rio de Janeiro;Homens;64 anos; 77578
+33;Rio de Janeiro;Homens;65 anos; 73458
+33;Rio de Janeiro;Homens;66 anos; 69225
+33;Rio de Janeiro;Homens;67 anos; 65117
+33;Rio de Janeiro;Homens;68 anos; 61194
+33;Rio de Janeiro;Homens;69 anos; 57605
+33;Rio de Janeiro;Homens;70 anos; 53957
+33;Rio de Janeiro;Homens;71 anos; 50213
+33;Rio de Janeiro;Homens;72 anos; 46766
+33;Rio de Janeiro;Homens;73 anos; 43304
+33;Rio de Janeiro;Homens;74 anos; 39755
+33;Rio de Janeiro;Homens;75 anos; 35912
+33;Rio de Janeiro;Homens;76 anos; 32174
+33;Rio de Janeiro;Homens;77 anos; 28791
+33;Rio de Janeiro;Homens;78 anos; 25924
+33;Rio de Janeiro;Homens;79 anos; 23698
+33;Rio de Janeiro;Homens;80 anos; 21655
+33;Rio de Janeiro;Homens;81 anos; 19609
+33;Rio de Janeiro;Homens;82 anos; 17892
+33;Rio de Janeiro;Homens;83 anos; 16178
+33;Rio de Janeiro;Homens;84 anos; 14381
+33;Rio de Janeiro;Homens;85 anos; 12371
+33;Rio de Janeiro;Homens;86 anos; 10522
+33;Rio de Janeiro;Homens;87 anos;  8999
+33;Rio de Janeiro;Homens;88 anos;  7679
+33;Rio de Janeiro;Homens;89 anos;  6565
+33;Rio de Janeiro;Homens;26 anos;132887
+33;Rio de Janeiro;Homens;27 anos;130552
+33;Rio de Janeiro;Homens;28 anos;129023
+33;Rio de Janeiro;Homens;29 anos;129049
+33;Rio de Janeiro;Homens;90 anos ou mais; 26069
+33;Rio de Janeiro;Mulheres;18 anos;110157
+33;Rio de Janeiro;Mulheres;19 anos;112599
+33;Rio de Janeiro;Mulheres;20 anos;119152
+33;Rio de Janeiro;Mulheres;21 anos;125427
+33;Rio de Janeiro;Mulheres;22 anos;131221
+33;Rio de Janeiro;Mulheres;23 anos;135029
+33;Rio de Janeiro;Mulheres;24 anos;135667
+33;Rio de Janeiro;Mulheres;25 anos;134173
+33;Rio de Janeiro;Mulheres;30 anos;132269
+33;Rio de Janeiro;Mulheres;31 anos;133094
+33;Rio de Janeiro;Mulheres;32 anos;133486
+33;Rio de Janeiro;Mulheres;33 anos;134324
+33;Rio de Janeiro;Mulheres;34 anos;135784
+33;Rio de Janeiro;Mulheres;35 anos;137498
+33;Rio de Janeiro;Mulheres;36 anos;139167
+33;Rio de Janeiro;Mulheres;37 anos;140953
+33;Rio de Janeiro;Mulheres;38 anos;141995
+33;Rio de Janeiro;Mulheres;39 anos;141906
+33;Rio de Janeiro;Mulheres;40 anos;140918
+33;Rio de Janeiro;Mulheres;41 anos;139998
+33;Rio de Janeiro;Mulheres;42 anos;139201
+33;Rio de Janeiro;Mulheres;43 anos;137622
+33;Rio de Janeiro;Mulheres;44 anos;135029
+33;Rio de Janeiro;Mulheres;45 anos;131750
+33;Rio de Janeiro;Mulheres;46 anos;128404
+33;Rio de Janeiro;Mulheres;47 anos;124912
+33;Rio de Janeiro;Mulheres;48 anos;122135
+33;Rio de Janeiro;Mulheres;49 anos;120589
+33;Rio de Janeiro;Mulheres;50 anos;119760
+33;Rio de Janeiro;Mulheres;51 anos;118725
+33;Rio de Janeiro;Mulheres;52 anos;117662
+33;Rio de Janeiro;Mulheres;53 anos;116792
+33;Rio de Janeiro;Mulheres;54 anos;116123
+33;Rio de Janeiro;Mulheres;55 anos;115419
+33;Rio de Janeiro;Mulheres;56 anos;114635
+33;Rio de Janeiro;Mulheres;57 anos;113917
+33;Rio de Janeiro;Mulheres;58 anos;112795
+33;Rio de Janeiro;Mulheres;59 anos;111073
+33;Rio de Janeiro;Mulheres;60 anos;108734
+33;Rio de Janeiro;Mulheres;61 anos;106244
+33;Rio de Janeiro;Mulheres;62 anos;103746
+33;Rio de Janeiro;Mulheres;63 anos;100873
+33;Rio de Janeiro;Mulheres;64 anos; 97535
+33;Rio de Janeiro;Mulheres;65 anos; 93653
+33;Rio de Janeiro;Mulheres;66 anos; 89564
+33;Rio de Janeiro;Mulheres;67 anos; 85470
+33;Rio de Janeiro;Mulheres;68 anos; 81425
+33;Rio de Janeiro;Mulheres;69 anos; 77547
+33;Rio de Janeiro;Mulheres;70 anos; 73460
+33;Rio de Janeiro;Mulheres;71 anos; 69227
+33;Rio de Janeiro;Mulheres;72 anos; 65264
+33;Rio de Janeiro;Mulheres;73 anos; 61203
+33;Rio de Janeiro;Mulheres;74 anos; 56972
+33;Rio de Janeiro;Mulheres;75 anos; 52397
+33;Rio de Janeiro;Mulheres;76 anos; 47876
+33;Rio de Janeiro;Mulheres;77 anos; 43634
+33;Rio de Janeiro;Mulheres;78 anos; 40078
+33;Rio de Janeiro;Mulheres;79 anos; 37436
+33;Rio de Janeiro;Mulheres;80 anos; 35026
+33;Rio de Janeiro;Mulheres;81 anos; 32518
+33;Rio de Janeiro;Mulheres;82 anos; 30394
+33;Rio de Janeiro;Mulheres;83 anos; 28217
+33;Rio de Janeiro;Mulheres;84 anos; 25841
+33;Rio de Janeiro;Mulheres;85 anos; 22998
+33;Rio de Janeiro;Mulheres;86 anos; 20209
+33;Rio de Janeiro;Mulheres;87 anos; 17818
+33;Rio de Janeiro;Mulheres;88 anos; 15695
+33;Rio de Janeiro;Mulheres;89 anos; 13859
+33;Rio de Janeiro;Mulheres;26 anos;132753
+33;Rio de Janeiro;Mulheres;27 anos;131047
+33;Rio de Janeiro;Mulheres;28 anos;130151
+33;Rio de Janeiro;Mulheres;29 anos;130771
+33;Rio de Janeiro;Mulheres;90 anos ou mais; 70433
+35;São Paulo;Homens;18 anos;313949
+35;São Paulo;Homens;19 anos;321626
+35;São Paulo;Homens;20 anos;338137
+35;São Paulo;Homens;21 anos;340054
+35;São Paulo;Homens;22 anos;349392
+35;São Paulo;Homens;23 anos;355651
+35;São Paulo;Homens;24 anos;357047
+35;São Paulo;Homens;25 anos;355148
+35;São Paulo;Homens;30 anos;367870
+35;São Paulo;Homens;31 anos;375571
+35;São Paulo;Homens;32 anos;381973
+35;São Paulo;Homens;33 anos;386675
+35;São Paulo;Homens;34 anos;388418
+35;São Paulo;Homens;35 anos;387549
+35;São Paulo;Homens;36 anos;386823
+35;São Paulo;Homens;37 anos;386396
+35;São Paulo;Homens;38 anos;383589
+35;São Paulo;Homens;39 anos;377678
+35;São Paulo;Homens;40 anos;369328
+35;São Paulo;Homens;41 anos;361149
+35;São Paulo;Homens;42 anos;353252
+35;São Paulo;Homens;43 anos;344714
+35;São Paulo;Homens;44 anos;335727
+35;São Paulo;Homens;45 anos;326351
+35;São Paulo;Homens;46 anos;316816
+35;São Paulo;Homens;47 anos;307129
+35;São Paulo;Homens;48 anos;299138
+35;São Paulo;Homens;49 anos;293835
+35;São Paulo;Homens;50 anos;289869
+35;São Paulo;Homens;51 anos;285443
+35;São Paulo;Homens;52 anos;281343
+35;São Paulo;Homens;53 anos;276615
+35;São Paulo;Homens;54 anos;270711
+35;São Paulo;Homens;55 anos;263653
+35;São Paulo;Homens;56 anos;256536
+35;São Paulo;Homens;57 anos;249513
+35;São Paulo;Homens;58 anos;242526
+35;São Paulo;Homens;59 anos;235710
+35;São Paulo;Homens;60 anos;228428
+35;São Paulo;Homens;61 anos;220860
+35;São Paulo;Homens;62 anos;213626
+35;São Paulo;Homens;63 anos;205700
+35;São Paulo;Homens;64 anos;196779
+35;São Paulo;Homens;65 anos;186644
+35;São Paulo;Homens;66 anos;176361
+35;São Paulo;Homens;67 anos;166431
+35;São Paulo;Homens;68 anos;156693
+35;São Paulo;Homens;69 anos;147306
+35;São Paulo;Homens;70 anos;137510
+35;São Paulo;Homens;71 anos;127597
+35;São Paulo;Homens;72 anos;118384
+35;São Paulo;Homens;73 anos;109367
+35;São Paulo;Homens;74 anos;100476
+35;São Paulo;Homens;75 anos; 91122
+35;São Paulo;Homens;76 anos; 81943
+35;São Paulo;Homens;77 anos; 73569
+35;São Paulo;Homens;78 anos; 66394
+35;São Paulo;Homens;79 anos; 60693
+35;São Paulo;Homens;80 anos; 55346
+35;São Paulo;Homens;81 anos; 50023
+35;São Paulo;Homens;82 anos; 45543
+35;São Paulo;Homens;83 anos; 41135
+35;São Paulo;Homens;84 anos; 36571
+35;São Paulo;Homens;85 anos; 31504
+35;São Paulo;Homens;86 anos; 26785
+35;São Paulo;Homens;87 anos; 22883
+35;São Paulo;Homens;88 anos; 19514
+35;São Paulo;Homens;89 anos; 16694
+35;São Paulo;Homens;26 anos;352893
+35;São Paulo;Homens;27 anos;349509
+35;São Paulo;Homens;28 anos;350155
+35;São Paulo;Homens;29 anos;357335
+35;São Paulo;Homens;90 anos ou mais; 65709
+35;São Paulo;Mulheres;18 anos;301692
+35;São Paulo;Mulheres;19 anos;309398
+35;São Paulo;Mulheres;20 anos;325373
+35;São Paulo;Mulheres;21 anos;329678
+35;São Paulo;Mulheres;22 anos;339605
+35;São Paulo;Mulheres;23 anos;346493
+35;São Paulo;Mulheres;24 anos;348491
+35;São Paulo;Mulheres;25 anos;347254
+35;São Paulo;Mulheres;30 anos;360266
+35;São Paulo;Mulheres;31 anos;367410
+35;São Paulo;Mulheres;32 anos;373429
+35;São Paulo;Mulheres;33 anos;378873
+35;São Paulo;Mulheres;34 anos;383072
+35;São Paulo;Mulheres;35 anos;385917
+35;São Paulo;Mulheres;36 anos;388728
+35;São Paulo;Mulheres;37 anos;391748
+35;São Paulo;Mulheres;38 anos;392146
+35;São Paulo;Mulheres;39 anos;388896
+35;São Paulo;Mulheres;40 anos;382885
+35;São Paulo;Mulheres;41 anos;377120
+35;São Paulo;Mulheres;42 anos;371596
+35;São Paulo;Mulheres;43 anos;364921
+35;São Paulo;Mulheres;44 anos;357097
+35;São Paulo;Mulheres;45 anos;348454
+35;São Paulo;Mulheres;46 anos;339567
+35;São Paulo;Mulheres;47 anos;330343
+35;São Paulo;Mulheres;48 anos;322691
+35;São Paulo;Mulheres;49 anos;317643
+35;São Paulo;Mulheres;50 anos;314101
+35;São Paulo;Mulheres;51 anos;310121
+35;São Paulo;Mulheres;52 anos;306165
+35;São Paulo;Mulheres;53 anos;302367
+35;São Paulo;Mulheres;54 anos;298587
+35;São Paulo;Mulheres;55 anos;294459
+35;São Paulo;Mulheres;56 anos;290121
+35;São Paulo;Mulheres;57 anos;285836
+35;São Paulo;Mulheres;58 anos;280851
+35;São Paulo;Mulheres;59 anos;274854
+35;São Paulo;Mulheres;60 anos;267719
+35;São Paulo;Mulheres;61 anos;260287
+35;São Paulo;Mulheres;62 anos;252910
+35;São Paulo;Mulheres;63 anos;244685
+35;São Paulo;Mulheres;64 anos;235373
+35;São Paulo;Mulheres;65 anos;224857
+35;São Paulo;Mulheres;66 anos;214048
+35;São Paulo;Mulheres;67 anos;203329
+35;São Paulo;Mulheres;68 anos;192954
+35;São Paulo;Mulheres;69 anos;183232
+35;São Paulo;Mulheres;70 anos;173326
+35;São Paulo;Mulheres;71 anos;163173
+35;São Paulo;Mulheres;72 anos;153647
+35;São Paulo;Mulheres;73 anos;143974
+35;São Paulo;Mulheres;74 anos;133941
+35;São Paulo;Mulheres;75 anos;123167
+35;São Paulo;Mulheres;76 anos;112535
+35;São Paulo;Mulheres;77 anos;102569
+35;São Paulo;Mulheres;78 anos; 94132
+35;São Paulo;Mulheres;79 anos; 87735
+35;São Paulo;Mulheres;80 anos; 81828
+35;São Paulo;Mulheres;81 anos; 75687
+35;São Paulo;Mulheres;82 anos; 70422
+35;São Paulo;Mulheres;83 anos; 65077
+35;São Paulo;Mulheres;84 anos; 59314
+35;São Paulo;Mulheres;85 anos; 52566
+35;São Paulo;Mulheres;86 anos; 45987
+35;São Paulo;Mulheres;87 anos; 40353
+35;São Paulo;Mulheres;88 anos; 35397
+35;São Paulo;Mulheres;89 anos; 31171
+35;São Paulo;Mulheres;26 anos;345793
+35;São Paulo;Mulheres;27 anos;343327
+35;São Paulo;Mulheres;28 anos;344277
+35;São Paulo;Mulheres;29 anos;350812
+35;São Paulo;Mulheres;90 anos ou mais;152632
+41;Paraná;Homens;18 anos; 80780
+41;Paraná;Homens;19 anos; 83785
+41;Paraná;Homens;20 anos; 88043
+41;Paraná;Homens;21 anos; 88715
+41;Paraná;Homens;22 anos; 91153
+41;Paraná;Homens;23 anos; 92860
+41;Paraná;Homens;24 anos; 93424
+41;Paraná;Homens;25 anos; 93163
+41;Paraná;Homens;30 anos; 90827
+41;Paraná;Homens;31 anos; 89914
+41;Paraná;Homens;32 anos; 88869
+41;Paraná;Homens;33 anos; 88001
+41;Paraná;Homens;34 anos; 87474
+41;Paraná;Homens;35 anos; 87167
+41;Paraná;Homens;36 anos; 86781
+41;Paraná;Homens;37 anos; 86392
+41;Paraná;Homens;38 anos; 85817
+41;Paraná;Homens;39 anos; 84957
+41;Paraná;Homens;40 anos; 83868
+41;Paraná;Homens;41 anos; 82727
+41;Paraná;Homens;42 anos; 81571
+41;Paraná;Homens;43 anos; 80394
+41;Paraná;Homens;44 anos; 79189
+41;Paraná;Homens;45 anos; 77943
+41;Paraná;Homens;46 anos; 76609
+41;Paraná;Homens;47 anos; 75168
+41;Paraná;Homens;48 anos; 74065
+41;Paraná;Homens;49 anos; 73473
+41;Paraná;Homens;50 anos; 73126
+41;Paraná;Homens;51 anos; 72657
+41;Paraná;Homens;52 anos; 72231
+41;Paraná;Homens;53 anos; 71467
+41;Paraná;Homens;54 anos; 70188
+41;Paraná;Homens;55 anos; 68441
+41;Paraná;Homens;56 anos; 66655
+41;Paraná;Homens;57 anos; 64903
+41;Paraná;Homens;58 anos; 62946
+41;Paraná;Homens;59 anos; 60767
+41;Paraná;Homens;60 anos; 58307
+41;Paraná;Homens;61 anos; 55743
+41;Paraná;Homens;62 anos; 53169
+41;Paraná;Homens;63 anos; 50731
+41;Paraná;Homens;64 anos; 48515
+41;Paraná;Homens;65 anos; 46282
+41;Paraná;Homens;66 anos; 43951
+41;Paraná;Homens;67 anos; 41731
+41;Paraná;Homens;68 anos; 39519
+41;Paraná;Homens;69 anos; 37287
+41;Paraná;Homens;70 anos; 34871
+41;Paraná;Homens;71 anos; 32446
+41;Paraná;Homens;72 anos; 30212
+41;Paraná;Homens;73 anos; 28045
+41;Paraná;Homens;74 anos; 25949
+41;Paraná;Homens;75 anos; 23720
+41;Paraná;Homens;76 anos; 21502
+41;Paraná;Homens;77 anos; 19498
+41;Paraná;Homens;78 anos; 17717
+41;Paraná;Homens;79 anos; 16203
+41;Paraná;Homens;80 anos; 14698
+41;Paraná;Homens;81 anos; 13222
+41;Paraná;Homens;82 anos; 11969
+41;Paraná;Homens;83 anos; 10743
+41;Paraná;Homens;84 anos;  9506
+41;Paraná;Homens;85 anos;  8164
+41;Paraná;Homens;86 anos;  6923
+41;Paraná;Homens;87 anos;  5897
+41;Paraná;Homens;88 anos;  5001
+41;Paraná;Homens;89 anos;  4252
+41;Paraná;Homens;26 anos; 92971
+41;Paraná;Homens;27 anos; 92774
+41;Paraná;Homens;28 anos; 92322
+41;Paraná;Homens;29 anos; 91638
+41;Paraná;Homens;90 anos ou mais; 16236
+41;Paraná;Mulheres;18 anos; 77826
+41;Paraná;Mulheres;19 anos; 80858
+41;Paraná;Mulheres;20 anos; 85124
+41;Paraná;Mulheres;21 anos; 85989
+41;Paraná;Mulheres;22 anos; 88555
+41;Paraná;Mulheres;23 anos; 90516
+41;Paraná;Mulheres;24 anos; 91489
+41;Paraná;Mulheres;25 anos; 91721
+41;Paraná;Mulheres;30 anos; 91088
+41;Paraná;Mulheres;31 anos; 90543
+41;Paraná;Mulheres;32 anos; 89845
+41;Paraná;Mulheres;33 anos; 89327
+41;Paraná;Mulheres;34 anos; 89167
+41;Paraná;Mulheres;35 anos; 89188
+41;Paraná;Mulheres;36 anos; 89130
+41;Paraná;Mulheres;37 anos; 89098
+41;Paraná;Mulheres;38 anos; 88893
+41;Paraná;Mulheres;39 anos; 88428
+41;Paraná;Mulheres;40 anos; 87748
+41;Paraná;Mulheres;41 anos; 86974
+41;Paraná;Mulheres;42 anos; 86146
+41;Paraná;Mulheres;43 anos; 85189
+41;Paraná;Mulheres;44 anos; 84100
+41;Paraná;Mulheres;45 anos; 82906
+41;Paraná;Mulheres;46 anos; 81690
+41;Paraná;Mulheres;47 anos; 80393
+41;Paraná;Mulheres;48 anos; 79440
+41;Paraná;Mulheres;49 anos; 79049
+41;Paraná;Mulheres;50 anos; 78925
+41;Paraná;Mulheres;51 anos; 78679
+41;Paraná;Mulheres;52 anos; 78426
+41;Paraná;Mulheres;53 anos; 77889
+41;Paraná;Mulheres;54 anos; 76913
+41;Paraná;Mulheres;55 anos; 75544
+41;Paraná;Mulheres;56 anos; 74116
+41;Paraná;Mulheres;57 anos; 72671
+41;Paraná;Mulheres;58 anos; 70933
+41;Paraná;Mulheres;59 anos; 68826
+41;Paraná;Mulheres;60 anos; 66370
+41;Paraná;Mulheres;61 anos; 63813
+41;Paraná;Mulheres;62 anos; 61198
+41;Paraná;Mulheres;63 anos; 58696
+41;Paraná;Mulheres;64 anos; 56404
+41;Paraná;Mulheres;65 anos; 54117
+41;Paraná;Mulheres;66 anos; 51697
+41;Paraná;Mulheres;67 anos; 49337
+41;Paraná;Mulheres;68 anos; 46947
+41;Paraná;Mulheres;69 anos; 44498
+41;Paraná;Mulheres;70 anos; 41873
+41;Paraná;Mulheres;71 anos; 39278
+41;Paraná;Mulheres;72 anos; 36836
+41;Paraná;Mulheres;73 anos; 34469
+41;Paraná;Mulheres;74 anos; 32191
+41;Paraná;Mulheres;75 anos; 29811
+41;Paraná;Mulheres;76 anos; 27432
+41;Paraná;Mulheres;77 anos; 25241
+41;Paraná;Mulheres;78 anos; 23251
+41;Paraná;Mulheres;79 anos; 21506
+41;Paraná;Mulheres;80 anos; 19754
+41;Paraná;Mulheres;81 anos; 17991
+41;Paraná;Mulheres;82 anos; 16441
+41;Paraná;Mulheres;83 anos; 14954
+41;Paraná;Mulheres;84 anos; 13507
+41;Paraná;Mulheres;85 anos; 11914
+41;Paraná;Mulheres;86 anos; 10373
+41;Paraná;Mulheres;87 anos;  9069
+41;Paraná;Mulheres;88 anos;  7893
+41;Paraná;Mulheres;89 anos;  6839
+41;Paraná;Mulheres;26 anos; 91926
+41;Paraná;Mulheres;27 anos; 92069
+41;Paraná;Mulheres;28 anos; 91955
+41;Paraná;Mulheres;29 anos; 91582
+41;Paraná;Mulheres;90 anos ou mais; 27746
+42;Santa Catarina;Homens;18 anos; 47119
+42;Santa Catarina;Homens;19 anos; 48333
+42;Santa Catarina;Homens;20 anos; 51140
+42;Santa Catarina;Homens;21 anos; 53727
+42;Santa Catarina;Homens;22 anos; 56160
+42;Santa Catarina;Homens;23 anos; 58072
+42;Santa Catarina;Homens;24 anos; 59113
+42;Santa Catarina;Homens;25 anos; 59544
+42;Santa Catarina;Homens;30 anos; 62307
+42;Santa Catarina;Homens;31 anos; 62727
+42;Santa Catarina;Homens;32 anos; 62847
+42;Santa Catarina;Homens;33 anos; 62899
+42;Santa Catarina;Homens;34 anos; 62890
+42;Santa Catarina;Homens;35 anos; 62685
+42;Santa Catarina;Homens;36 anos; 62377
+42;Santa Catarina;Homens;37 anos; 62103
+42;Santa Catarina;Homens;38 anos; 61368
+42;Santa Catarina;Homens;39 anos; 59975
+42;Santa Catarina;Homens;40 anos; 58124
+42;Santa Catarina;Homens;41 anos; 56351
+42;Santa Catarina;Homens;42 anos; 54625
+42;Santa Catarina;Homens;43 anos; 53038
+42;Santa Catarina;Homens;44 anos; 51730
+42;Santa Catarina;Homens;45 anos; 50573
+42;Santa Catarina;Homens;46 anos; 49414
+42;Santa Catarina;Homens;47 anos; 48294
+42;Santa Catarina;Homens;48 anos; 47470
+42;Santa Catarina;Homens;49 anos; 47059
+42;Santa Catarina;Homens;50 anos; 46850
+42;Santa Catarina;Homens;51 anos; 46572
+42;Santa Catarina;Homens;52 anos; 46320
+42;Santa Catarina;Homens;53 anos; 45987
+42;Santa Catarina;Homens;54 anos; 45489
+42;Santa Catarina;Homens;55 anos; 44776
+42;Santa Catarina;Homens;56 anos; 44032
+42;Santa Catarina;Homens;57 anos; 43348
+42;Santa Catarina;Homens;58 anos; 42327
+42;Santa Catarina;Homens;59 anos; 40826
+42;Santa Catarina;Homens;60 anos; 38925
+42;Santa Catarina;Homens;61 anos; 36981
+42;Santa Catarina;Homens;62 anos; 35030
+42;Santa Catarina;Homens;63 anos; 33210
+42;Santa Catarina;Homens;64 anos; 31624
+42;Santa Catarina;Homens;65 anos; 30089
+42;Santa Catarina;Homens;66 anos; 28465
+42;Santa Catarina;Homens;67 anos; 26905
+42;Santa Catarina;Homens;68 anos; 25337
+42;Santa Catarina;Homens;69 anos; 23725
+42;Santa Catarina;Homens;70 anos; 21980
+42;Santa Catarina;Homens;71 anos; 20255
+42;Santa Catarina;Homens;72 anos; 18673
+42;Santa Catarina;Homens;73 anos; 17138
+42;Santa Catarina;Homens;74 anos; 15644
+42;Santa Catarina;Homens;75 anos; 14095
+42;Santa Catarina;Homens;76 anos; 12585
+42;Santa Catarina;Homens;77 anos; 11211
+42;Santa Catarina;Homens;78 anos; 10028
+42;Santa Catarina;Homens;79 anos;  9075
+42;Santa Catarina;Homens;80 anos;  8176
+42;Santa Catarina;Homens;81 anos;  7305
+42;Santa Catarina;Homens;82 anos;  6578
+42;Santa Catarina;Homens;83 anos;  5877
+42;Santa Catarina;Homens;84 anos;  5164
+42;Santa Catarina;Homens;85 anos;  4398
+42;Santa Catarina;Homens;86 anos;  3698
+42;Santa Catarina;Homens;87 anos;  3128
+42;Santa Catarina;Homens;88 anos;  2635
+42;Santa Catarina;Homens;89 anos;  2226
+42;Santa Catarina;Homens;26 anos; 59958
+42;Santa Catarina;Homens;27 anos; 60257
+42;Santa Catarina;Homens;28 anos; 60699
+42;Santa Catarina;Homens;29 anos; 61457
+42;Santa Catarina;Homens;90 anos ou mais;  8803
+42;Santa Catarina;Mulheres;18 anos; 45293
+42;Santa Catarina;Mulheres;19 anos; 46483
+42;Santa Catarina;Mulheres;20 anos; 49153
+42;Santa Catarina;Mulheres;21 anos; 51642
+42;Santa Catarina;Mulheres;22 anos; 53920
+42;Santa Catarina;Mulheres;23 anos; 55747
+42;Santa Catarina;Mulheres;24 anos; 56809
+42;Santa Catarina;Mulheres;25 anos; 57345
+42;Santa Catarina;Mulheres;30 anos; 59999
+42;Santa Catarina;Mulheres;31 anos; 60294
+42;Santa Catarina;Mulheres;32 anos; 60347
+42;Santa Catarina;Mulheres;33 anos; 60421
+42;Santa Catarina;Mulheres;34 anos; 60576
+42;Santa Catarina;Mulheres;35 anos; 60667
+42;Santa Catarina;Mulheres;36 anos; 60645
+42;Santa Catarina;Mulheres;37 anos; 60643
+42;Santa Catarina;Mulheres;38 anos; 60182
+42;Santa Catarina;Mulheres;39 anos; 59058
+42;Santa Catarina;Mulheres;40 anos; 57482
+42;Santa Catarina;Mulheres;41 anos; 55994
+42;Santa Catarina;Mulheres;42 anos; 54530
+42;Santa Catarina;Mulheres;43 anos; 53202
+42;Santa Catarina;Mulheres;44 anos; 52132
+42;Santa Catarina;Mulheres;45 anos; 51219
+42;Santa Catarina;Mulheres;46 anos; 50273
+42;Santa Catarina;Mulheres;47 anos; 49339
+42;Santa Catarina;Mulheres;48 anos; 48668
+42;Santa Catarina;Mulheres;49 anos; 48373
+42;Santa Catarina;Mulheres;50 anos; 48289
+42;Santa Catarina;Mulheres;51 anos; 48153
+42;Santa Catarina;Mulheres;52 anos; 47999
+42;Santa Catarina;Mulheres;53 anos; 47823
+42;Santa Catarina;Mulheres;54 anos; 47582
+42;Santa Catarina;Mulheres;55 anos; 47203
+42;Santa Catarina;Mulheres;56 anos; 46777
+42;Santa Catarina;Mulheres;57 anos; 46404
+42;Santa Catarina;Mulheres;58 anos; 45607
+42;Santa Catarina;Mulheres;59 anos; 44177
+42;Santa Catarina;Mulheres;60 anos; 42278
+42;Santa Catarina;Mulheres;61 anos; 40347
+42;Santa Catarina;Mulheres;62 anos; 38354
+42;Santa Catarina;Mulheres;63 anos; 36512
+42;Santa Catarina;Mulheres;64 anos; 34968
+42;Santa Catarina;Mulheres;65 anos; 33536
+42;Santa Catarina;Mulheres;66 anos; 32002
+42;Santa Catarina;Mulheres;67 anos; 30514
+42;Santa Catarina;Mulheres;68 anos; 28991
+42;Santa Catarina;Mulheres;69 anos; 27395
+42;Santa Catarina;Mulheres;70 anos; 25684
+42;Santa Catarina;Mulheres;71 anos; 23981
+42;Santa Catarina;Mulheres;72 anos; 22399
+42;Santa Catarina;Mulheres;73 anos; 20836
+42;Santa Catarina;Mulheres;74 anos; 19310
+42;Santa Catarina;Mulheres;75 anos; 17730
+42;Santa Catarina;Mulheres;76 anos; 16176
+42;Santa Catarina;Mulheres;77 anos; 14737
+42;Santa Catarina;Mulheres;78 anos; 13496
+42;Santa Catarina;Mulheres;79 anos; 12521
+42;Santa Catarina;Mulheres;80 anos; 11597
+42;Santa Catarina;Mulheres;81 anos; 10657
+42;Santa Catarina;Mulheres;82 anos;  9845
+42;Santa Catarina;Mulheres;83 anos;  9033
+42;Santa Catarina;Mulheres;84 anos;  8177
+42;Santa Catarina;Mulheres;85 anos;  7207
+42;Santa Catarina;Mulheres;86 anos;  6280
+42;Santa Catarina;Mulheres;87 anos;  5492
+42;Santa Catarina;Mulheres;88 anos;  4783
+42;Santa Catarina;Mulheres;89 anos;  4166
+42;Santa Catarina;Mulheres;26 anos; 57875
+42;Santa Catarina;Mulheres;27 anos; 58310
+42;Santa Catarina;Mulheres;28 anos; 58784
+42;Santa Catarina;Mulheres;29 anos; 59393
+42;Santa Catarina;Mulheres;90 anos ou mais; 20234
+43;Rio Grande do Sul;Homens;18 anos; 75915
+43;Rio Grande do Sul;Homens;19 anos; 78980
+43;Rio Grande do Sul;Homens;20 anos; 84439
+43;Rio Grande do Sul;Homens;21 anos; 84319
+43;Rio Grande do Sul;Homens;22 anos; 86303
+43;Rio Grande do Sul;Homens;23 anos; 87630
+43;Rio Grande do Sul;Homens;24 anos; 87994
+43;Rio Grande do Sul;Homens;25 anos; 87670
+43;Rio Grande do Sul;Homens;30 anos; 85718
+43;Rio Grande do Sul;Homens;31 anos; 85192
+43;Rio Grande do Sul;Homens;32 anos; 84457
+43;Rio Grande do Sul;Homens;33 anos; 84212
+43;Rio Grande do Sul;Homens;34 anos; 84755
+43;Rio Grande do Sul;Homens;35 anos; 85739
+43;Rio Grande do Sul;Homens;36 anos; 86603
+43;Rio Grande do Sul;Homens;37 anos; 87570
+43;Rio Grande do Sul;Homens;38 anos; 87566
+43;Rio Grande do Sul;Homens;39 anos; 86056
+43;Rio Grande do Sul;Homens;40 anos; 83560
+43;Rio Grande do Sul;Homens;41 anos; 81202
+43;Rio Grande do Sul;Homens;42 anos; 78832
+43;Rio Grande do Sul;Homens;43 anos; 76681
+43;Rio Grande do Sul;Homens;44 anos; 75010
+43;Rio Grande do Sul;Homens;45 anos; 73663
+43;Rio Grande do Sul;Homens;46 anos; 72195
+43;Rio Grande do Sul;Homens;47 anos; 70650
+43;Rio Grande do Sul;Homens;48 anos; 69632
+43;Rio Grande do Sul;Homens;49 anos; 69334
+43;Rio Grande do Sul;Homens;50 anos; 69471
+43;Rio Grande do Sul;Homens;51 anos; 69539
+43;Rio Grande do Sul;Homens;52 anos; 69632
+43;Rio Grande do Sul;Homens;53 anos; 69809
+43;Rio Grande do Sul;Homens;54 anos; 70065
+43;Rio Grande do Sul;Homens;55 anos; 70195
+43;Rio Grande do Sul;Homens;56 anos; 70206
+43;Rio Grande do Sul;Homens;57 anos; 70267
+43;Rio Grande do Sul;Homens;58 anos; 69731
+43;Rio Grande do Sul;Homens;59 anos; 68318
+43;Rio Grande do Sul;Homens;60 anos; 66167
+43;Rio Grande do Sul;Homens;61 anos; 63912
+43;Rio Grande do Sul;Homens;62 anos; 61625
+43;Rio Grande do Sul;Homens;63 anos; 59285
+43;Rio Grande do Sul;Homens;64 anos; 57011
+43;Rio Grande do Sul;Homens;65 anos; 54548
+43;Rio Grande do Sul;Homens;66 anos; 51899
+43;Rio Grande do Sul;Homens;67 anos; 49278
+43;Rio Grande do Sul;Homens;68 anos; 46686
+43;Rio Grande do Sul;Homens;69 anos; 44144
+43;Rio Grande do Sul;Homens;70 anos; 41415
+43;Rio Grande do Sul;Homens;71 anos; 38599
+43;Rio Grande do Sul;Homens;72 anos; 35982
+43;Rio Grande do Sul;Homens;73 anos; 33369
+43;Rio Grande do Sul;Homens;74 anos; 30744
+43;Rio Grande do Sul;Homens;75 anos; 27927
+43;Rio Grande do Sul;Homens;76 anos; 25153
+43;Rio Grande do Sul;Homens;77 anos; 22627
+43;Rio Grande do Sul;Homens;78 anos; 20403
+43;Rio Grande do Sul;Homens;79 anos; 18556
+43;Rio Grande do Sul;Homens;80 anos; 16764
+43;Rio Grande do Sul;Homens;81 anos; 14991
+43;Rio Grande do Sul;Homens;82 anos; 13485
+43;Rio Grande do Sul;Homens;83 anos; 12064
+43;Rio Grande do Sul;Homens;84 anos; 10670
+43;Rio Grande do Sul;Homens;85 anos;  9183
+43;Rio Grande do Sul;Homens;86 anos;  7794
+43;Rio Grande do Sul;Homens;87 anos;  6651
+43;Rio Grande do Sul;Homens;88 anos;  5650
+43;Rio Grande do Sul;Homens;89 anos;  4780
+43;Rio Grande do Sul;Homens;26 anos; 87343
+43;Rio Grande do Sul;Homens;27 anos; 86961
+43;Rio Grande do Sul;Homens;28 anos; 86517
+43;Rio Grande do Sul;Homens;29 anos; 86111
+43;Rio Grande do Sul;Homens;90 anos ou mais; 18163
+43;Rio Grande do Sul;Mulheres;18 anos; 72543
+43;Rio Grande do Sul;Mulheres;19 anos; 75517
+43;Rio Grande do Sul;Mulheres;20 anos; 80830
+43;Rio Grande do Sul;Mulheres;21 anos; 81204
+43;Rio Grande do Sul;Mulheres;22 anos; 83415
+43;Rio Grande do Sul;Mulheres;23 anos; 85040
+43;Rio Grande do Sul;Mulheres;24 anos; 85793
+43;Rio Grande do Sul;Mulheres;25 anos; 85864
+43;Rio Grande do Sul;Mulheres;30 anos; 85204
+43;Rio Grande do Sul;Mulheres;31 anos; 84863
+43;Rio Grande do Sul;Mulheres;32 anos; 84277
+43;Rio Grande do Sul;Mulheres;33 anos; 84235
+43;Rio Grande do Sul;Mulheres;34 anos; 85094
+43;Rio Grande do Sul;Mulheres;35 anos; 86443
+43;Rio Grande do Sul;Mulheres;36 anos; 87706
+43;Rio Grande do Sul;Mulheres;37 anos; 89100
+43;Rio Grande do Sul;Mulheres;38 anos; 89524
+43;Rio Grande do Sul;Mulheres;39 anos; 88446
+43;Rio Grande do Sul;Mulheres;40 anos; 86387
+43;Rio Grande do Sul;Mulheres;41 anos; 84430
+43;Rio Grande do Sul;Mulheres;42 anos; 82432
+43;Rio Grande do Sul;Mulheres;43 anos; 80547
+43;Rio Grande do Sul;Mulheres;44 anos; 78966
+43;Rio Grande do Sul;Mulheres;45 anos; 77622
+43;Rio Grande do Sul;Mulheres;46 anos; 76174
+43;Rio Grande do Sul;Mulheres;47 anos; 74630
+43;Rio Grande do Sul;Mulheres;48 anos; 73752
+43;Rio Grande do Sul;Mulheres;49 anos; 73853
+43;Rio Grande do Sul;Mulheres;50 anos; 74556
+43;Rio Grande do Sul;Mulheres;51 anos; 75165
+43;Rio Grande do Sul;Mulheres;52 anos; 75780
+43;Rio Grande do Sul;Mulheres;53 anos; 76419
+43;Rio Grande do Sul;Mulheres;54 anos; 77009
+43;Rio Grande do Sul;Mulheres;55 anos; 77426
+43;Rio Grande do Sul;Mulheres;56 anos; 77783
+43;Rio Grande do Sul;Mulheres;57 anos; 78181
+43;Rio Grande do Sul;Mulheres;58 anos; 77910
+43;Rio Grande do Sul;Mulheres;59 anos; 76668
+43;Rio Grande do Sul;Mulheres;60 anos; 74660
+43;Rio Grande do Sul;Mulheres;61 anos; 72553
+43;Rio Grande do Sul;Mulheres;62 anos; 70336
+43;Rio Grande do Sul;Mulheres;63 anos; 68079
+43;Rio Grande do Sul;Mulheres;64 anos; 65921
+43;Rio Grande do Sul;Mulheres;65 anos; 63644
+43;Rio Grande do Sul;Mulheres;66 anos; 61140
+43;Rio Grande do Sul;Mulheres;67 anos; 58609
+43;Rio Grande do Sul;Mulheres;68 anos; 56060
+43;Rio Grande do Sul;Mulheres;69 anos; 53525
+43;Rio Grande do Sul;Mulheres;70 anos; 50829
+43;Rio Grande do Sul;Mulheres;71 anos; 48058
+43;Rio Grande do Sul;Mulheres;72 anos; 45425
+43;Rio Grande do Sul;Mulheres;73 anos; 42764
+43;Rio Grande do Sul;Mulheres;74 anos; 40025
+43;Rio Grande do Sul;Mulheres;75 anos; 37064
+43;Rio Grande do Sul;Mulheres;76 anos; 34107
+43;Rio Grande do Sul;Mulheres;77 anos; 31344
+43;Rio Grande do Sul;Mulheres;78 anos; 28931
+43;Rio Grande do Sul;Mulheres;79 anos; 26980
+43;Rio Grande do Sul;Mulheres;80 anos; 25090
+43;Rio Grande do Sul;Mulheres;81 anos; 23122
+43;Rio Grande do Sul;Mulheres;82 anos; 21393
+43;Rio Grande do Sul;Mulheres;83 anos; 19724
+43;Rio Grande do Sul;Mulheres;84 anos; 18066
+43;Rio Grande do Sul;Mulheres;85 anos; 16178
+43;Rio Grande do Sul;Mulheres;86 anos; 14304
+43;Rio Grande do Sul;Mulheres;87 anos; 12710
+43;Rio Grande do Sul;Mulheres;88 anos; 11231
+43;Rio Grande do Sul;Mulheres;89 anos;  9861
+43;Rio Grande do Sul;Mulheres;26 anos; 85886
+43;Rio Grande do Sul;Mulheres;27 anos; 85840
+43;Rio Grande do Sul;Mulheres;28 anos; 85672
+43;Rio Grande do Sul;Mulheres;29 anos; 85438
+43;Rio Grande do Sul;Mulheres;90 anos ou mais; 47765
+50;Mato Grosso do Sul;Homens;18 anos; 21098
+50;Mato Grosso do Sul;Homens;19 anos; 20789
+50;Mato Grosso do Sul;Homens;20 anos; 21391
+50;Mato Grosso do Sul;Homens;21 anos; 22217
+50;Mato Grosso do Sul;Homens;22 anos; 22654
+50;Mato Grosso do Sul;Homens;23 anos; 22967
+50;Mato Grosso do Sul;Homens;24 anos; 23092
+50;Mato Grosso do Sul;Homens;25 anos; 23081
+50;Mato Grosso do Sul;Homens;30 anos; 22949
+50;Mato Grosso do Sul;Homens;31 anos; 22815
+50;Mato Grosso do Sul;Homens;32 anos; 22621
+50;Mato Grosso do Sul;Homens;33 anos; 22466
+50;Mato Grosso do Sul;Homens;34 anos; 22382
+50;Mato Grosso do Sul;Homens;35 anos; 22322
+50;Mato Grosso do Sul;Homens;36 anos; 22217
+50;Mato Grosso do Sul;Homens;37 anos; 22096
+50;Mato Grosso do Sul;Homens;38 anos; 21895
+50;Mato Grosso do Sul;Homens;39 anos; 21564
+50;Mato Grosso do Sul;Homens;40 anos; 21137
+50;Mato Grosso do Sul;Homens;41 anos; 20709
+50;Mato Grosso do Sul;Homens;42 anos; 20280
+50;Mato Grosso do Sul;Homens;43 anos; 19840
+50;Mato Grosso do Sul;Homens;44 anos; 19399
+50;Mato Grosso do Sul;Homens;45 anos; 18945
+50;Mato Grosso do Sul;Homens;46 anos; 18465
+50;Mato Grosso do Sul;Homens;47 anos; 17983
+50;Mato Grosso do Sul;Homens;48 anos; 17562
+50;Mato Grosso do Sul;Homens;49 anos; 17228
+50;Mato Grosso do Sul;Homens;50 anos; 16928
+50;Mato Grosso do Sul;Homens;51 anos; 16601
+50;Mato Grosso do Sul;Homens;52 anos; 16279
+50;Mato Grosso do Sul;Homens;53 anos; 15962
+50;Mato Grosso do Sul;Homens;54 anos; 15644
+50;Mato Grosso do Sul;Homens;55 anos; 15290
+50;Mato Grosso do Sul;Homens;56 anos; 14925
+50;Mato Grosso do Sul;Homens;57 anos; 14591
+50;Mato Grosso do Sul;Homens;58 anos; 14166
+50;Mato Grosso do Sul;Homens;59 anos; 13620
+50;Mato Grosso do Sul;Homens;60 anos; 12963
+50;Mato Grosso do Sul;Homens;61 anos; 12314
+50;Mato Grosso do Sul;Homens;62 anos; 11664
+50;Mato Grosso do Sul;Homens;63 anos; 11062
+50;Mato Grosso do Sul;Homens;64 anos; 10519
+50;Mato Grosso do Sul;Homens;65 anos;  9977
+50;Mato Grosso do Sul;Homens;66 anos;  9418
+50;Mato Grosso do Sul;Homens;67 anos;  8897
+50;Mato Grosso do Sul;Homens;68 anos;  8372
+50;Mato Grosso do Sul;Homens;69 anos;  7833
+50;Mato Grosso do Sul;Homens;70 anos;  7252
+50;Mato Grosso do Sul;Homens;71 anos;  6677
+50;Mato Grosso do Sul;Homens;72 anos;  6145
+50;Mato Grosso do Sul;Homens;73 anos;  5656
+50;Mato Grosso do Sul;Homens;74 anos;  5233
+50;Mato Grosso do Sul;Homens;75 anos;  4807
+50;Mato Grosso do Sul;Homens;76 anos;  4387
+50;Mato Grosso do Sul;Homens;77 anos;  4014
+50;Mato Grosso do Sul;Homens;78 anos;  3679
+50;Mato Grosso do Sul;Homens;79 anos;  3388
+50;Mato Grosso do Sul;Homens;80 anos;  3089
+50;Mato Grosso do Sul;Homens;81 anos;  2804
+50;Mato Grosso do Sul;Homens;82 anos;  2567
+50;Mato Grosso do Sul;Homens;83 anos;  2322
+50;Mato Grosso do Sul;Homens;84 anos;  2072
+50;Mato Grosso do Sul;Homens;85 anos;  1781
+50;Mato Grosso do Sul;Homens;86 anos;  1516
+50;Mato Grosso do Sul;Homens;87 anos;  1287
+50;Mato Grosso do Sul;Homens;88 anos;  1093
+50;Mato Grosso do Sul;Homens;89 anos;   931
+50;Mato Grosso do Sul;Homens;26 anos; 23099
+50;Mato Grosso do Sul;Homens;27 anos; 23112
+50;Mato Grosso do Sul;Homens;28 anos; 23091
+50;Mato Grosso do Sul;Homens;29 anos; 23039
+50;Mato Grosso do Sul;Homens;90 anos ou mais;  3619
+50;Mato Grosso do Sul;Mulheres;18 anos; 20123
+50;Mato Grosso do Sul;Mulheres;19 anos; 19841
+50;Mato Grosso do Sul;Mulheres;20 anos; 20446
+50;Mato Grosso do Sul;Mulheres;21 anos; 21370
+50;Mato Grosso do Sul;Mulheres;22 anos; 21852
+50;Mato Grosso do Sul;Mulheres;23 anos; 22239
+50;Mato Grosso do Sul;Mulheres;24 anos; 22464
+50;Mato Grosso do Sul;Mulheres;25 anos; 22566
+50;Mato Grosso do Sul;Mulheres;30 anos; 22702
+50;Mato Grosso do Sul;Mulheres;31 anos; 22538
+50;Mato Grosso do Sul;Mulheres;32 anos; 22288
+50;Mato Grosso do Sul;Mulheres;33 anos; 22161
+50;Mato Grosso do Sul;Mulheres;34 anos; 22236
+50;Mato Grosso do Sul;Mulheres;35 anos; 22404
+50;Mato Grosso do Sul;Mulheres;36 anos; 22500
+50;Mato Grosso do Sul;Mulheres;37 anos; 22596
+50;Mato Grosso do Sul;Mulheres;38 anos; 22554
+50;Mato Grosso do Sul;Mulheres;39 anos; 22292
+50;Mato Grosso do Sul;Mulheres;40 anos; 21881
+50;Mato Grosso do Sul;Mulheres;41 anos; 21450
+50;Mato Grosso do Sul;Mulheres;42 anos; 21002
+50;Mato Grosso do Sul;Mulheres;43 anos; 20541
+50;Mato Grosso do Sul;Mulheres;44 anos; 20092
+50;Mato Grosso do Sul;Mulheres;45 anos; 19642
+50;Mato Grosso do Sul;Mulheres;46 anos; 19188
+50;Mato Grosso do Sul;Mulheres;47 anos; 18748
+50;Mato Grosso do Sul;Mulheres;48 anos; 18354
+50;Mato Grosso do Sul;Mulheres;49 anos; 18041
+50;Mato Grosso do Sul;Mulheres;50 anos; 17762
+50;Mato Grosso do Sul;Mulheres;51 anos; 17472
+50;Mato Grosso do Sul;Mulheres;52 anos; 17169
+50;Mato Grosso do Sul;Mulheres;53 anos; 16894
+50;Mato Grosso do Sul;Mulheres;54 anos; 16649
+50;Mato Grosso do Sul;Mulheres;55 anos; 16403
+50;Mato Grosso do Sul;Mulheres;56 anos; 16133
+50;Mato Grosso do Sul;Mulheres;57 anos; 15881
+50;Mato Grosso do Sul;Mulheres;58 anos; 15511
+50;Mato Grosso do Sul;Mulheres;59 anos; 14972
+50;Mato Grosso do Sul;Mulheres;60 anos; 14293
+50;Mato Grosso do Sul;Mulheres;61 anos; 13616
+50;Mato Grosso do Sul;Mulheres;62 anos; 12931
+50;Mato Grosso do Sul;Mulheres;63 anos; 12284
+50;Mato Grosso do Sul;Mulheres;64 anos; 11718
+50;Mato Grosso do Sul;Mulheres;65 anos; 11164
+50;Mato Grosso do Sul;Mulheres;66 anos; 10589
+50;Mato Grosso do Sul;Mulheres;67 anos; 10041
+50;Mato Grosso do Sul;Mulheres;68 anos;  9489
+50;Mato Grosso do Sul;Mulheres;69 anos;  8929
+50;Mato Grosso do Sul;Mulheres;70 anos;  8342
+50;Mato Grosso do Sul;Mulheres;71 anos;  7767
+50;Mato Grosso do Sul;Mulheres;72 anos;  7221
+50;Mato Grosso do Sul;Mulheres;73 anos;  6727
+50;Mato Grosso do Sul;Mulheres;74 anos;  6285
+50;Mato Grosso do Sul;Mulheres;75 anos;  5847
+50;Mato Grosso do Sul;Mulheres;76 anos;  5408
+50;Mato Grosso do Sul;Mulheres;77 anos;  5009
+50;Mato Grosso do Sul;Mulheres;78 anos;  4629
+50;Mato Grosso do Sul;Mulheres;79 anos;  4290
+50;Mato Grosso do Sul;Mulheres;80 anos;  3926
+50;Mato Grosso do Sul;Mulheres;81 anos;  3563
+50;Mato Grosso do Sul;Mulheres;82 anos;  3240
+50;Mato Grosso do Sul;Mulheres;83 anos;  2932
+50;Mato Grosso do Sul;Mulheres;84 anos;  2630
+50;Mato Grosso do Sul;Mulheres;85 anos;  2298
+50;Mato Grosso do Sul;Mulheres;86 anos;  1980
+50;Mato Grosso do Sul;Mulheres;87 anos;  1713
+50;Mato Grosso do Sul;Mulheres;88 anos;  1476
+50;Mato Grosso do Sul;Mulheres;89 anos;  1270
+50;Mato Grosso do Sul;Mulheres;26 anos; 22692
+50;Mato Grosso do Sul;Mulheres;27 anos; 22843
+50;Mato Grosso do Sul;Mulheres;28 anos; 22897
+50;Mato Grosso do Sul;Mulheres;29 anos; 22834
+50;Mato Grosso do Sul;Mulheres;90 anos ou mais;  5302
+51;Mato Grosso;Homens;18 anos; 26910
+51;Mato Grosso;Homens;19 anos; 26714
+51;Mato Grosso;Homens;20 anos; 27307
+51;Mato Grosso;Homens;21 anos; 28565
+51;Mato Grosso;Homens;22 anos; 29130
+51;Mato Grosso;Homens;23 anos; 29533
+51;Mato Grosso;Homens;24 anos; 29680
+51;Mato Grosso;Homens;25 anos; 29671
+51;Mato Grosso;Homens;30 anos; 30209
+51;Mato Grosso;Homens;31 anos; 30276
+51;Mato Grosso;Homens;32 anos; 30249
+51;Mato Grosso;Homens;33 anos; 30214
+51;Mato Grosso;Homens;34 anos; 30175
+51;Mato Grosso;Homens;35 anos; 30087
+51;Mato Grosso;Homens;36 anos; 29937
+51;Mato Grosso;Homens;37 anos; 29754
+51;Mato Grosso;Homens;38 anos; 29460
+51;Mato Grosso;Homens;39 anos; 29009
+51;Mato Grosso;Homens;40 anos; 28421
+51;Mato Grosso;Homens;41 anos; 27839
+51;Mato Grosso;Homens;42 anos; 27279
+51;Mato Grosso;Homens;43 anos; 26670
+51;Mato Grosso;Homens;44 anos; 25977
+51;Mato Grosso;Homens;45 anos; 25216
+51;Mato Grosso;Homens;46 anos; 24443
+51;Mato Grosso;Homens;47 anos; 23656
+51;Mato Grosso;Homens;48 anos; 22979
+51;Mato Grosso;Homens;49 anos; 22484
+51;Mato Grosso;Homens;50 anos; 22067
+51;Mato Grosso;Homens;51 anos; 21628
+51;Mato Grosso;Homens;52 anos; 21217
+51;Mato Grosso;Homens;53 anos; 20755
+51;Mato Grosso;Homens;54 anos; 20204
+51;Mato Grosso;Homens;55 anos; 19564
+51;Mato Grosso;Homens;56 anos; 18920
+51;Mato Grosso;Homens;57 anos; 18300
+51;Mato Grosso;Homens;58 anos; 17636
+51;Mato Grosso;Homens;59 anos; 16907
+51;Mato Grosso;Homens;60 anos; 16096
+51;Mato Grosso;Homens;61 anos; 15253
+51;Mato Grosso;Homens;62 anos; 14431
+51;Mato Grosso;Homens;63 anos; 13623
+51;Mato Grosso;Homens;64 anos; 12831
+51;Mato Grosso;Homens;65 anos; 12032
+51;Mato Grosso;Homens;66 anos; 11224
+51;Mato Grosso;Homens;67 anos; 10457
+51;Mato Grosso;Homens;68 anos;  9723
+51;Mato Grosso;Homens;69 anos;  9033
+51;Mato Grosso;Homens;70 anos;  8325
+51;Mato Grosso;Homens;71 anos;  7631
+51;Mato Grosso;Homens;72 anos;  7000
+51;Mato Grosso;Homens;73 anos;  6425
+51;Mato Grosso;Homens;74 anos;  5907
+51;Mato Grosso;Homens;75 anos;  5379
+51;Mato Grosso;Homens;76 anos;  4860
+51;Mato Grosso;Homens;77 anos;  4400
+51;Mato Grosso;Homens;78 anos;  3985
+51;Mato Grosso;Homens;79 anos;  3606
+51;Mato Grosso;Homens;80 anos;  3231
+51;Mato Grosso;Homens;81 anos;  2880
+51;Mato Grosso;Homens;82 anos;  2585
+51;Mato Grosso;Homens;83 anos;  2305
+51;Mato Grosso;Homens;84 anos;  2029
+51;Mato Grosso;Homens;85 anos;  1723
+51;Mato Grosso;Homens;86 anos;  1440
+51;Mato Grosso;Homens;87 anos;  1208
+51;Mato Grosso;Homens;88 anos;  1011
+51;Mato Grosso;Homens;89 anos;   849
+51;Mato Grosso;Homens;26 anos; 29706
+51;Mato Grosso;Homens;27 anos; 29719
+51;Mato Grosso;Homens;28 anos; 29799
+51;Mato Grosso;Homens;29 anos; 29994
+51;Mato Grosso;Homens;90 anos ou mais;  3322
+51;Mato Grosso;Mulheres;18 anos; 25904
+51;Mato Grosso;Mulheres;19 anos; 25720
+51;Mato Grosso;Mulheres;20 anos; 26293
+51;Mato Grosso;Mulheres;21 anos; 27324
+51;Mato Grosso;Mulheres;22 anos; 27774
+51;Mato Grosso;Mulheres;23 anos; 28143
+51;Mato Grosso;Mulheres;24 anos; 28376
+51;Mato Grosso;Mulheres;25 anos; 28520
+51;Mato Grosso;Mulheres;30 anos; 29143
+51;Mato Grosso;Mulheres;31 anos; 29096
+51;Mato Grosso;Mulheres;32 anos; 28974
+51;Mato Grosso;Mulheres;33 anos; 28879
+51;Mato Grosso;Mulheres;34 anos; 28849
+51;Mato Grosso;Mulheres;35 anos; 28839
+51;Mato Grosso;Mulheres;36 anos; 28771
+51;Mato Grosso;Mulheres;37 anos; 28673
+51;Mato Grosso;Mulheres;38 anos; 28482
+51;Mato Grosso;Mulheres;39 anos; 28170
+51;Mato Grosso;Mulheres;40 anos; 27742
+51;Mato Grosso;Mulheres;41 anos; 27342
+51;Mato Grosso;Mulheres;42 anos; 26967
+51;Mato Grosso;Mulheres;43 anos; 26490
+51;Mato Grosso;Mulheres;44 anos; 25881
+51;Mato Grosso;Mulheres;45 anos; 25170
+51;Mato Grosso;Mulheres;46 anos; 24433
+51;Mato Grosso;Mulheres;47 anos; 23657
+51;Mato Grosso;Mulheres;48 anos; 22968
+51;Mato Grosso;Mulheres;49 anos; 22435
+51;Mato Grosso;Mulheres;50 anos; 21992
+51;Mato Grosso;Mulheres;51 anos; 21504
+51;Mato Grosso;Mulheres;52 anos; 21021
+51;Mato Grosso;Mulheres;53 anos; 20497
+51;Mato Grosso;Mulheres;54 anos; 19911
+51;Mato Grosso;Mulheres;55 anos; 19253
+51;Mato Grosso;Mulheres;56 anos; 18590
+51;Mato Grosso;Mulheres;57 anos; 17943
+51;Mato Grosso;Mulheres;58 anos; 17266
+51;Mato Grosso;Mulheres;59 anos; 16539
+51;Mato Grosso;Mulheres;60 anos; 15766
+51;Mato Grosso;Mulheres;61 anos; 14978
+51;Mato Grosso;Mulheres;62 anos; 14207
+51;Mato Grosso;Mulheres;63 anos; 13442
+51;Mato Grosso;Mulheres;64 anos; 12697
+51;Mato Grosso;Mulheres;65 anos; 11938
+51;Mato Grosso;Mulheres;66 anos; 11177
+51;Mato Grosso;Mulheres;67 anos; 10443
+51;Mato Grosso;Mulheres;68 anos;  9751
+51;Mato Grosso;Mulheres;69 anos;  9105
+51;Mato Grosso;Mulheres;70 anos;  8450
+51;Mato Grosso;Mulheres;71 anos;  7801
+51;Mato Grosso;Mulheres;72 anos;  7201
+51;Mato Grosso;Mulheres;73 anos;  6637
+51;Mato Grosso;Mulheres;74 anos;  6113
+51;Mato Grosso;Mulheres;75 anos;  5592
+51;Mato Grosso;Mulheres;76 anos;  5086
+51;Mato Grosso;Mulheres;77 anos;  4636
+51;Mato Grosso;Mulheres;78 anos;  4227
+51;Mato Grosso;Mulheres;79 anos;  3864
+51;Mato Grosso;Mulheres;80 anos;  3495
+51;Mato Grosso;Mulheres;81 anos;  3140
+51;Mato Grosso;Mulheres;82 anos;  2839
+51;Mato Grosso;Mulheres;83 anos;  2547
+51;Mato Grosso;Mulheres;84 anos;  2259
+51;Mato Grosso;Mulheres;85 anos;  1939
+51;Mato Grosso;Mulheres;86 anos;  1626
+51;Mato Grosso;Mulheres;87 anos;  1363
+51;Mato Grosso;Mulheres;88 anos;  1139
+51;Mato Grosso;Mulheres;89 anos;   948
+51;Mato Grosso;Mulheres;26 anos; 28675
+51;Mato Grosso;Mulheres;27 anos; 28828
+51;Mato Grosso;Mulheres;28 anos; 28959
+51;Mato Grosso;Mulheres;29 anos; 29076
+51;Mato Grosso;Mulheres;90 anos ou mais;  4096
+52;Goiás;Homens;18 anos; 53547
+52;Goiás;Homens;19 anos; 53894
+52;Goiás;Homens;20 anos; 53989
+52;Goiás;Homens;21 anos; 56667
+52;Goiás;Homens;22 anos; 58168
+52;Goiás;Homens;23 anos; 59251
+52;Goiás;Homens;24 anos; 59692
+52;Goiás;Homens;25 anos; 59673
+52;Goiás;Homens;30 anos; 61041
+52;Goiás;Homens;31 anos; 61518
+52;Goiás;Homens;32 anos; 61762
+52;Goiás;Homens;33 anos; 61817
+52;Goiás;Homens;34 anos; 61574
+52;Goiás;Homens;35 anos; 61013
+52;Goiás;Homens;36 anos; 60401
+52;Goiás;Homens;37 anos; 59786
+52;Goiás;Homens;38 anos; 59079
+52;Goiás;Homens;39 anos; 58293
+52;Goiás;Homens;40 anos; 57346
+52;Goiás;Homens;41 anos; 56390
+52;Goiás;Homens;42 anos; 55509
+52;Goiás;Homens;43 anos; 54394
+52;Goiás;Homens;44 anos; 52953
+52;Goiás;Homens;45 anos; 51252
+52;Goiás;Homens;46 anos; 49577
+52;Goiás;Homens;47 anos; 47923
+52;Goiás;Homens;48 anos; 46492
+52;Goiás;Homens;49 anos; 45463
+52;Goiás;Homens;50 anos; 44596
+52;Goiás;Homens;51 anos; 43647
+52;Goiás;Homens;52 anos; 42760
+52;Goiás;Homens;53 anos; 41726
+52;Goiás;Homens;54 anos; 40454
+52;Goiás;Homens;55 anos; 38929
+52;Goiás;Homens;56 anos; 37398
+52;Goiás;Homens;57 anos; 35915
+52;Goiás;Homens;58 anos; 34428
+52;Goiás;Homens;59 anos; 32943
+52;Goiás;Homens;60 anos; 31377
+52;Goiás;Homens;61 anos; 29791
+52;Goiás;Homens;62 anos; 28267
+52;Goiás;Homens;63 anos; 26782
+52;Goiás;Homens;64 anos; 25355
+52;Goiás;Homens;65 anos; 23869
+52;Goiás;Homens;66 anos; 22397
+52;Goiás;Homens;67 anos; 21039
+52;Goiás;Homens;68 anos; 19743
+52;Goiás;Homens;69 anos; 18529
+52;Goiás;Homens;70 anos; 17267
+52;Goiás;Homens;71 anos; 16013
+52;Goiás;Homens;72 anos; 14877
+52;Goiás;Homens;73 anos; 13799
+52;Goiás;Homens;74 anos; 12762
+52;Goiás;Homens;75 anos; 11664
+52;Goiás;Homens;76 anos; 10573
+52;Goiás;Homens;77 anos;  9598
+52;Goiás;Homens;78 anos;  8728
+52;Goiás;Homens;79 anos;  7976
+52;Goiás;Homens;80 anos;  7206
+52;Goiás;Homens;81 anos;  6447
+52;Goiás;Homens;82 anos;  5814
+52;Goiás;Homens;83 anos;  5189
+52;Goiás;Homens;84 anos;  4561
+52;Goiás;Homens;85 anos;  3881
+52;Goiás;Homens;86 anos;  3260
+52;Goiás;Homens;87 anos;  2743
+52;Goiás;Homens;88 anos;  2305
+52;Goiás;Homens;89 anos;  1948
+52;Goiás;Homens;26 anos; 59585
+52;Goiás;Homens;27 anos; 59364
+52;Goiás;Homens;28 anos; 59467
+52;Goiás;Homens;29 anos; 60138
+52;Goiás;Homens;90 anos ou mais;  7518
+52;Goiás;Mulheres;18 anos; 51842
+52;Goiás;Mulheres;19 anos; 52320
+52;Goiás;Mulheres;20 anos; 52504
+52;Goiás;Mulheres;21 anos; 55290
+52;Goiás;Mulheres;22 anos; 56815
+52;Goiás;Mulheres;23 anos; 58004
+52;Goiás;Mulheres;24 anos; 58657
+52;Goiás;Mulheres;25 anos; 58924
+52;Goiás;Mulheres;30 anos; 60331
+52;Goiás;Mulheres;31 anos; 60577
+52;Goiás;Mulheres;32 anos; 60644
+52;Goiás;Mulheres;33 anos; 60671
+52;Goiás;Mulheres;34 anos; 60626
+52;Goiás;Mulheres;35 anos; 60453
+52;Goiás;Mulheres;36 anos; 60229
+52;Goiás;Mulheres;37 anos; 59998
+52;Goiás;Mulheres;38 anos; 59641
+52;Goiás;Mulheres;39 anos; 59138
+52;Goiás;Mulheres;40 anos; 58453
+52;Goiás;Mulheres;41 anos; 57792
+52;Goiás;Mulheres;42 anos; 57234
+52;Goiás;Mulheres;43 anos; 56374
+52;Goiás;Mulheres;44 anos; 55121
+52;Goiás;Mulheres;45 anos; 53560
+52;Goiás;Mulheres;46 anos; 51990
+52;Goiás;Mulheres;47 anos; 50387
+52;Goiás;Mulheres;48 anos; 48998
+52;Goiás;Mulheres;49 anos; 47993
+52;Goiás;Mulheres;50 anos; 47171
+52;Goiás;Mulheres;51 anos; 46258
+52;Goiás;Mulheres;52 anos; 45361
+52;Goiás;Mulheres;53 anos; 44354
+52;Goiás;Mulheres;54 anos; 43142
+52;Goiás;Mulheres;55 anos; 41728
+52;Goiás;Mulheres;56 anos; 40304
+52;Goiás;Mulheres;57 anos; 38922
+52;Goiás;Mulheres;58 anos; 37501
+52;Goiás;Mulheres;59 anos; 36041
+52;Goiás;Mulheres;60 anos; 34518
+52;Goiás;Mulheres;61 anos; 32981
+52;Goiás;Mulheres;62 anos; 31487
+52;Goiás;Mulheres;63 anos; 30020
+52;Goiás;Mulheres;64 anos; 28623
+52;Goiás;Mulheres;65 anos; 27153
+52;Goiás;Mulheres;66 anos; 25665
+52;Goiás;Mulheres;67 anos; 24256
+52;Goiás;Mulheres;68 anos; 22878
+52;Goiás;Mulheres;69 anos; 21520
+52;Goiás;Mulheres;70 anos; 20092
+52;Goiás;Mulheres;71 anos; 18662
+52;Goiás;Mulheres;72 anos; 17316
+52;Goiás;Mulheres;73 anos; 16047
+52;Goiás;Mulheres;74 anos; 14858
+52;Goiás;Mulheres;75 anos; 13637
+52;Goiás;Mulheres;76 anos; 12455
+52;Goiás;Mulheres;77 anos; 11397
+52;Goiás;Mulheres;78 anos; 10456
+52;Goiás;Mulheres;79 anos;  9663
+52;Goiás;Mulheres;80 anos;  8842
+52;Goiás;Mulheres;81 anos;  8015
+52;Goiás;Mulheres;82 anos;  7308
+52;Goiás;Mulheres;83 anos;  6606
+52;Goiás;Mulheres;84 anos;  5869
+52;Goiás;Mulheres;85 anos;  5067
+52;Goiás;Mulheres;86 anos;  4309
+52;Goiás;Mulheres;87 anos;  3678
+52;Goiás;Mulheres;88 anos;  3128
+52;Goiás;Mulheres;89 anos;  2669
+52;Goiás;Mulheres;26 anos; 59069
+52;Goiás;Mulheres;27 anos; 59069
+52;Goiás;Mulheres;28 anos; 59241
+52;Goiás;Mulheres;29 anos; 59741
+52;Goiás;Mulheres;90 anos ou mais; 10279
+53;Distrito Federal;Homens;18 anos; 24439
+53;Distrito Federal;Homens;19 anos; 25018
+53;Distrito Federal;Homens;20 anos; 25819
+53;Distrito Federal;Homens;21 anos; 25350
+53;Distrito Federal;Homens;22 anos; 25569
+53;Distrito Federal;Homens;23 anos; 25704
+53;Distrito Federal;Homens;24 anos; 25720
+53;Distrito Federal;Homens;25 anos; 25599
+53;Distrito Federal;Homens;30 anos; 25270
+53;Distrito Federal;Homens;31 anos; 25583
+53;Distrito Federal;Homens;32 anos; 25884
+53;Distrito Federal;Homens;33 anos; 26145
+53;Distrito Federal;Homens;34 anos; 26315
+53;Distrito Federal;Homens;35 anos; 26395
+53;Distrito Federal;Homens;36 anos; 26537
+53;Distrito Federal;Homens;37 anos; 26757
+53;Distrito Federal;Homens;38 anos; 26775
+53;Distrito Federal;Homens;39 anos; 26527
+53;Distrito Federal;Homens;40 anos; 26035
+53;Distrito Federal;Homens;41 anos; 25525
+53;Distrito Federal;Homens;42 anos; 25006
+53;Distrito Federal;Homens;43 anos; 24369
+53;Distrito Federal;Homens;44 anos; 23567
+53;Distrito Federal;Homens;45 anos; 22653
+53;Distrito Federal;Homens;46 anos; 21682
+53;Distrito Federal;Homens;47 anos; 20661
+53;Distrito Federal;Homens;48 anos; 19806
+53;Distrito Federal;Homens;49 anos; 19233
+53;Distrito Federal;Homens;50 anos; 18811
+53;Distrito Federal;Homens;51 anos; 18350
+53;Distrito Federal;Homens;52 anos; 17930
+53;Distrito Federal;Homens;53 anos; 17418
+53;Distrito Federal;Homens;54 anos; 16733
+53;Distrito Federal;Homens;55 anos; 15917
+53;Distrito Federal;Homens;56 anos; 15136
+53;Distrito Federal;Homens;57 anos; 14387
+53;Distrito Federal;Homens;58 anos; 13640
+53;Distrito Federal;Homens;59 anos; 12899
+53;Distrito Federal;Homens;60 anos; 12155
+53;Distrito Federal;Homens;61 anos; 11419
+53;Distrito Federal;Homens;62 anos; 10704
+53;Distrito Federal;Homens;63 anos; 10054
+53;Distrito Federal;Homens;64 anos;  9485
+53;Distrito Federal;Homens;65 anos;  8947
+53;Distrito Federal;Homens;66 anos;  8420
+53;Distrito Federal;Homens;67 anos;  7932
+53;Distrito Federal;Homens;68 anos;  7447
+53;Distrito Federal;Homens;69 anos;  6945
+53;Distrito Federal;Homens;70 anos;  6409
+53;Distrito Federal;Homens;71 anos;  5885
+53;Distrito Federal;Homens;72 anos;  5400
+53;Distrito Federal;Homens;73 anos;  4944
+53;Distrito Federal;Homens;74 anos;  4509
+53;Distrito Federal;Homens;75 anos;  4073
+53;Distrito Federal;Homens;76 anos;  3642
+53;Distrito Federal;Homens;77 anos;  3247
+53;Distrito Federal;Homens;78 anos;  2921
+53;Distrito Federal;Homens;79 anos;  2673
+53;Distrito Federal;Homens;80 anos;  2445
+53;Distrito Federal;Homens;81 anos;  2220
+53;Distrito Federal;Homens;82 anos;  2034
+53;Distrito Federal;Homens;83 anos;  1835
+53;Distrito Federal;Homens;84 anos;  1597
+53;Distrito Federal;Homens;85 anos;  1319
+53;Distrito Federal;Homens;86 anos;  1062
+53;Distrito Federal;Homens;87 anos;   851
+53;Distrito Federal;Homens;88 anos;   685
+53;Distrito Federal;Homens;89 anos;   563
+53;Distrito Federal;Homens;26 anos; 25310
+53;Distrito Federal;Homens;27 anos; 24891
+53;Distrito Federal;Homens;28 anos; 24709
+53;Distrito Federal;Homens;29 anos; 24893
+53;Distrito Federal;Homens;90 anos ou mais;  1918
+53;Distrito Federal;Mulheres;18 anos; 23837
+53;Distrito Federal;Mulheres;19 anos; 24471
+53;Distrito Federal;Mulheres;20 anos; 25295
+53;Distrito Federal;Mulheres;21 anos; 25049
+53;Distrito Federal;Mulheres;22 anos; 25338
+53;Distrito Federal;Mulheres;23 anos; 25604
+53;Distrito Federal;Mulheres;24 anos; 25844
+53;Distrito Federal;Mulheres;25 anos; 26003
+53;Distrito Federal;Mulheres;30 anos; 26413
+53;Distrito Federal;Mulheres;31 anos; 26686
+53;Distrito Federal;Mulheres;32 anos; 26950
+53;Distrito Federal;Mulheres;33 anos; 27314
+53;Distrito Federal;Mulheres;34 anos; 27831
+53;Distrito Federal;Mulheres;35 anos; 28378
+53;Distrito Federal;Mulheres;36 anos; 28931
+53;Distrito Federal;Mulheres;37 anos; 29549
+53;Distrito Federal;Mulheres;38 anos; 29875
+53;Distrito Federal;Mulheres;39 anos; 29772
+53;Distrito Federal;Mulheres;40 anos; 29321
+53;Distrito Federal;Mulheres;41 anos; 28871
+53;Distrito Federal;Mulheres;42 anos; 28425
+53;Distrito Federal;Mulheres;43 anos; 27772
+53;Distrito Federal;Mulheres;44 anos; 26869
+53;Distrito Federal;Mulheres;45 anos; 25801
+53;Distrito Federal;Mulheres;46 anos; 24691
+53;Distrito Federal;Mulheres;47 anos; 23532
+53;Distrito Federal;Mulheres;48 anos; 22542
+53;Distrito Federal;Mulheres;49 anos; 21873
+53;Distrito Federal;Mulheres;50 anos; 21381
+53;Distrito Federal;Mulheres;51 anos; 20842
+53;Distrito Federal;Mulheres;52 anos; 20312
+53;Distrito Federal;Mulheres;53 anos; 19765
+53;Distrito Federal;Mulheres;54 anos; 19163
+53;Distrito Federal;Mulheres;55 anos; 18510
+53;Distrito Federal;Mulheres;56 anos; 17884
+53;Distrito Federal;Mulheres;57 anos; 17288
+53;Distrito Federal;Mulheres;58 anos; 16633
+53;Distrito Federal;Mulheres;59 anos; 15897
+53;Distrito Federal;Mulheres;60 anos; 15105
+53;Distrito Federal;Mulheres;61 anos; 14330
+53;Distrito Federal;Mulheres;62 anos; 13577
+53;Distrito Federal;Mulheres;63 anos; 12873
+53;Distrito Federal;Mulheres;64 anos; 12258
+53;Distrito Federal;Mulheres;65 anos; 11662
+53;Distrito Federal;Mulheres;66 anos; 11048
+53;Distrito Federal;Mulheres;67 anos; 10453
+53;Distrito Federal;Mulheres;68 anos;  9870
+53;Distrito Federal;Mulheres;69 anos;  9293
+53;Distrito Federal;Mulheres;70 anos;  8694
+53;Distrito Federal;Mulheres;71 anos;  8108
+53;Distrito Federal;Mulheres;72 anos;  7561
+53;Distrito Federal;Mulheres;73 anos;  7017
+53;Distrito Federal;Mulheres;74 anos;  6468
+53;Distrito Federal;Mulheres;75 anos;  5888
+53;Distrito Federal;Mulheres;76 anos;  5329
+53;Distrito Federal;Mulheres;77 anos;  4813
+53;Distrito Federal;Mulheres;78 anos;  4367
+53;Distrito Federal;Mulheres;79 anos;  4041
+53;Distrito Federal;Mulheres;80 anos;  3737
+53;Distrito Federal;Mulheres;81 anos;  3433
+53;Distrito Federal;Mulheres;82 anos;  3171
+53;Distrito Federal;Mulheres;83 anos;  2891
+53;Distrito Federal;Mulheres;84 anos;  2581
+53;Distrito Federal;Mulheres;85 anos;  2211
+53;Distrito Federal;Mulheres;86 anos;  1862
+53;Distrito Federal;Mulheres;87 anos;  1563
+53;Distrito Federal;Mulheres;88 anos;  1316
+53;Distrito Federal;Mulheres;89 anos;  1127
+53;Distrito Federal;Mulheres;26 anos; 25993
+53;Distrito Federal;Mulheres;27 anos; 25866
+53;Distrito Federal;Mulheres;28 anos; 25885
+53;Distrito Federal;Mulheres;29 anos; 26096
+53;Distrito Federal;Mulheres;90 anos ou mais;  4569
